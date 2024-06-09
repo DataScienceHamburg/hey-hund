@@ -26059,11 +26059,11 @@ _.c=a
 _.r=b
 _.w=c
 _.a=d},
-aPZ(a){A.au7(new A.apb(A.b0(a,null,t.w).w.a.a>1400,a),a,t.z)},
+aPZ(a){A.au7(new A.apb(A.b0(a,null,t.w).w.a.a>1200,a),a,t.z)},
 apb:function apb(a,b){this.a=a
 this.b=b},
 apa:function apa(a){this.a=a},
-aBp(a,b,c){var s,r=null,q=t.w,p=A.b0(a,r,q).w,o=A.b0(a,r,q).w.a.a>1400,n=A.asr(a)
+aBp(a,b,c){var s,r=null,q=t.w,p=A.b0(a,r,q).w,o=A.b0(a,r,q).w.a.a>1200,n=A.asr(a)
 if(o)q=600
 else q=n?450:350
 s=r
@@ -26118,7 +26118,7 @@ return A.aqW(A.a([new A.W(B.Hy,A.Kk(s,B.IQ,new A.aq5(b),s,s),s)],r),new A.u(1140
 aq5:function aq5(a){this.a=a},
 aq6:function aq6(){},
 aq7:function aq7(){},
-aRK(a){A.au7(new A.aqh(a,A.b0(a,null,t.w).w.a.a>1400),a,t.z)},
+aRK(a){A.au7(new A.aqh(a,A.b0(a,null,t.w).w.a.a>1200),a,t.z)},
 aqh:function aqh(a,b){this.a=a
 this.b=b},
 aqf:function aqf(a){this.a=a},
@@ -28209,7 +28209,7 @@ s=s[2]
 p=b[2]
 return A.a([o*m+l*k+j*n,o*r+l*q+j*s,o*p[0]+l*p[1]+j*p[2]],t.n)},
 asr(a){var s=t.w
-return A.b0(a,null,s).w.a.a>=800&&A.b0(a,null,s).w.a.a<=1400},
+return A.b0(a,null,s).w.a.a>=800&&A.b0(a,null,s).w.a.a<=1200},
 aBu(){var s,r,q,p,o=null
 try{o=A.asM()}catch(s){if(t.VI.b(A.an(s))){r=$.aon
 if(r!=null)return r
@@ -85875,7 +85875,7 @@ G6(a,b,c,d){var s,r=null
 if(a===B.np)s=200
 else s=a===B.nq?50:8
 return A.cL(A.a([new A.W(new A.ak(b,s,0,48),B.Ys,r),new A.W(new A.ak(b,0,b,0),A.ax("Hi, ich bin Lea, und mit Hey Hund lebe ich meinen Traum. Die Arbeit mit Menschen und Tieren ist meine Leidenschaft, und meine Begeisterung f\xfcr Hunde treibt mich an. Ich liebe es Menschen und Hunde zu einem unschlagbaren Team zu machen. Wenn du also Lust hast, eine einzigartige Bindung zu deinem Vierbeiner aufzubauen, dann bist du hier genau richtig!",r,r,r,d,r,r),r),new A.W(new A.ak(b,c,b,0),A.ax("Was liebe ich au\xdfer Hunden noch? Meine kleine Familie, gutes Essen und ein sch\xf6nes Buch (vorzugsweise \xfcber Hunde ;-)). Ich freue mich darauf, mit dir und deinem Hund einen spannenden Weg zu gehen \u2013 lass uns gemeinsam Spa\xdf haben und gro\xdfartige Fortschritte erzielen!",r,r,r,d,r,r),r)],t.p),B.am,B.w,B.cP)},
-K(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="assets/images/about_me_small.jpg",g=A.b0(a,i,t.w).w.a.a>1400,f=A.asr(a)
+K(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="assets/images/about_me_small.jpg",g=A.b0(a,i,t.w).w.a.a>1200,f=A.asr(a)
 if(g)s=B.np
 else s=f?B.nq:B.I_
 if(g)r=24
@@ -85910,7 +85910,7 @@ else A.lT("failed to send")
 return A.O(null,r)}})
 return A.P($async$ww,r)},
 yE(){this.ab(new A.ahk(this))},
-K(a){var s=this,r=null,q=A.b0(a,r,t.w).w.a.a>1400,p=A.eq(r,r,B.m,r,r,r,r,r,"Lora",r,r,q?20:16,r,r,B.aV,r,r,!0,r,r,r,r,r,r,r,r),o=q?A.we(a,new A.be(r,t.sW),"Kontakt"):A.aqW(r,r,r,r,r,r,B.Ym,r),n=A.ax("Vielen Dank f\xfcr dein Interesse.",r,r,r,p,r,r),m=A.ax("Ich freue mich auf deine Nachricht.",r,r,r,p,r,r),l=t.p,k=A.ep(A.a([B.IH,new A.W(B.l,A.ax("Sprechzeiten: Mo-Fr 9-18 Uhr",r,r,r,p,r,r),r)],l),B.E,B.w,B.u),j=A.ep(A.a([B.II,new A.W(B.l,A.ax("0176 22 89 23 26",r,r,r,p,r,r),r)],l),B.E,B.w,B.u),i=A.ep(A.a([B.IL,new A.W(B.l,A.ax("E-Mail: lea@hey-hund.de",r,r,r,p,r,r),r)],l),B.E,B.w,B.u),h=A.ae6(s.f,B.Jc,new A.ahm(s),new A.ahn()),g=A.ae6(s.r,B.Ja,new A.aho(s),new A.ahp(s)),f=A.ae6(s.w,B.Jb,new A.ahq(s),new A.ahr(s)),e=A.ae6(s.x,B.Jd,new A.ahs(s),new A.aht()),d=A.ep(A.a([new A.x2(s.d,new A.ahu(s),r),B.I0],l),B.E,B.w,B.u),c=t.h9
+K(a){var s=this,r=null,q=A.b0(a,r,t.w).w.a.a>1200,p=A.eq(r,r,B.m,r,r,r,r,r,"Lora",r,r,q?20:16,r,r,B.aV,r,r,!0,r,r,r,r,r,r,r,r),o=q?A.we(a,new A.be(r,t.sW),"Kontakt"):A.aqW(r,r,r,r,r,r,B.Ym,r),n=A.ax("Vielen Dank f\xfcr dein Interesse.",r,r,r,p,r,r),m=A.ax("Ich freue mich auf deine Nachricht.",r,r,r,p,r,r),l=t.p,k=A.ep(A.a([B.IH,new A.W(B.l,A.ax("Sprechzeiten: Mo-Fr 9-18 Uhr",r,r,r,p,r,r),r)],l),B.E,B.w,B.u),j=A.ep(A.a([B.II,new A.W(B.l,A.ax("0176 22 89 23 26",r,r,r,p,r,r),r)],l),B.E,B.w,B.u),i=A.ep(A.a([B.IL,new A.W(B.l,A.ax("E-Mail: lea@hey-hund.de",r,r,r,p,r,r),r)],l),B.E,B.w,B.u),h=A.ae6(s.f,B.Jc,new A.ahm(s),new A.ahn()),g=A.ae6(s.r,B.Ja,new A.aho(s),new A.ahp(s)),f=A.ae6(s.w,B.Jb,new A.ahq(s),new A.ahr(s)),e=A.ae6(s.x,B.Jd,new A.ahs(s),new A.aht()),d=A.ep(A.a([new A.x2(s.d,new A.ahu(s),r),B.I0],l),B.E,B.w,B.u),c=t.h9
 n=A.cL(A.a([B.YD,new A.W(B.l,n,r),new A.W(B.l,m,r),k,j,i,new A.W(B.l,h,r),new A.W(B.l,g,r),new A.W(B.l,f,r),new A.W(B.l,e,r),d,A.ep(A.a([new A.W(B.l,new A.Jw(s.gZN(),r,r,r,A.HW(r,r,s.d?new A.bz(B.NC,c):new A.bz(B.NE,c),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),B.r,r,!1,r,!0,B.Yu,r),r)],l),B.E,B.ub,B.u)],l),B.am,B.w,B.u)
 return A.u8(o,A.um(A.f_(A.cf(r,new A.yl(n,B.lR,s.y),B.r,r,B.m_,r,r,r,r,B.nn,1/0),r,r),r),r,!0,!1,r,r)}}
 A.ahk.prototype={
@@ -85964,16 +85964,16 @@ A.QM.prototype={
 K(a){var s=null
 return A.u8(A.we(a,new A.be(s,t.sW),""),A.um(new A.W(B.l,A.cL(A.a([A.aBp(a,this.d,this.e)],t.p),B.E,B.w,B.u),s),s),s,!0,!1,s,s)}}
 A.rL.prototype={
-K(a){var s,r=null,q=A.b0(a,r,t.w).w.a.a>1400,p=A.we(a,new A.be(r,t.sW),"Hunde-Hotline"),o=q?1200:375,n=q?400:375,m=t.p
+K(a){var s,r=null,q=A.b0(a,r,t.w).w.a.a>1200,p=A.we(a,new A.be(r,t.sW),"Hunde-Hotline"),o=q?1200:375,n=q?400:375,m=t.p
 n=A.cL(A.a([A.d6(A.md("assets/images/Hotline.png",r,r,r),300,n),B.QK,B.ys,B.QI],m),B.am,B.w,B.u)
 s=q?600:375
 return A.u8(p,A.um(A.f_(A.cL(A.a([A.d6(A.ep(A.a([n,new A.W(B.l,A.d6(A.cL(A.a([B.Pt,B.YB,B.Pg,B.Po,new A.W(B.HA,A.cf(r,B.QJ,B.r,r,r,new A.dk(B.Et,r,r,A.o2(10),r,r,B.aF),r,r,r,r,r),r)],m),B.am,B.w,B.u),r,s),r)],m),B.E,B.w,B.u),r,o)],m),B.E,B.w,B.u),r,r),r),r,!0,!1,r,r)}}
 A.rM.prototype={
-K(a){var s=null,r=A.b0(a,s,t.w).w.a.a>1400,q=A.we(a,new A.be(s,t.sW),"Einzeltraining"),p=r?1200:375,o=r?400:375,n=t.p
+K(a){var s=null,r=A.b0(a,s,t.w).w.a.a>1200,q=A.we(a,new A.be(s,t.sW),"Einzeltraining"),p=r?1200:375,o=r?400:375,n=t.p
 o=A.cL(A.a([A.d6(A.md("assets/images/KursEinzeltraining.jpg",s,s,s),300,o),B.QP,B.ys,B.QO],n),B.am,B.w,B.u)
 return A.u8(q,A.um(A.cf(s,A.f_(A.cL(A.a([A.d6(A.ep(A.a([o,new A.W(B.l,A.d6(B.Gm,s,r?600:375),s)],n),B.E,B.w,B.u),s,p)],n),B.E,B.w,B.u),s,s),B.r,s,s,s,s,s,s,s,s),s),s,!0,!1,s,s)}}
 A.rN.prototype={
-K(a){var s,r=null,q=A.b0(a,r,t.w).w.a.a>1400,p=q?A.we(a,new A.be(r,t.sW),"Spiel und Spa\xdf f\xfcr eine gute Beziehung"):A.aqW(r,r,r,r,r,r,A.ax("Spiel und Spa\xdf",r,r,r,r,r,r),r),o=q?1200:375,n=q?B.a_:B.at,m=q?400:375
+K(a){var s,r=null,q=A.b0(a,r,t.w).w.a.a>1200,p=q?A.we(a,new A.be(r,t.sW),"Spiel und Spa\xdf f\xfcr eine gute Beziehung"):A.aqW(r,r,r,r,r,r,A.ax("Spiel und Spa\xdf",r,r,r,r,r,r),r),o=q?1200:375,n=q?B.a_:B.at,m=q?400:375
 m=A.d6(A.md("assets/images/KursSpielSpass.png",r,r,r),300,m)
 s=t.p
 m=A.cL(A.a([m,A.ep(A.a([B.k9,new A.W(B.l,A.ax(q?"Orte werden kurzfristig festgelegt":"kurzfristig festgelegt",r,r,r,B.cw,r,r),r)],s),B.E,B.w,B.u),B.QN,B.QM],s),B.am,B.w,B.u)
@@ -86002,10 +86002,10 @@ n=n.ajX(A.U(m,33,150,243))
 s=$.a1().GQ(2,2,B.aW)
 r=t.p
 return new A.uL(n,A.cf(p,new A.Jr(B.B,B.hu,A.hX(B.bq,A.a([A.av_(A.cf(p,p,B.r,p,p,new A.dk(A.U(m,158,158,158),p,p,p,p,p,B.aF),p,p,p,p,p),s),A.cL(A.a([A.dU(p,new A.W(new A.ak(30,30,0,0),B.YR,p),B.V,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.akD(q,a),p,p,p),A.dU(p,new A.W(new A.ak(30,16,0,0),B.Yk,p),B.V,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.akE(q,o,a),p,p,p),A.dU(p,new A.W(new A.ak(30,16,0,0),B.Yf,p),B.V,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.akF(q,o,a),p,p,p),A.dU(p,new A.W(new A.ak(30,16,0,0),B.Yh,p),B.V,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.akG(q,o,a),p,p,p)],r),B.am,B.w,B.u)],r),B.U,B.c4),p),B.r,p,p,p,p,p,p,p,200),p)},
-K(a){var s,r,q,p,o=this,n=null,m=t.w,l=A.b0(a,n,m).w.a.b,k=A.b0(a,n,m).w.a.a,j=A.b0(a,n,m).w.a.a>1400,i=o.f,h=A.we(a,i,""),g=o.ap0(a),f=o.r,e=j?l:l*3,d=j?l:l*2,c=t.z
+K(a){var s,r,q,p,o=this,n=null,m=t.w,l=A.b0(a,n,m).w.a.b,k=A.b0(a,n,m).w.a.a,j=A.b0(a,n,m).w.a.a>1200,i=o.f,h=A.we(a,i,""),g=o.ap0(a),f=o.r,e=j?l:l*3,d=j?l:l*2,c=t.z
 c=A.a([A.at(["title","Einzeltraining","image","assets/images/KursEinzeltraining.jpg","participants","1 Teilnehmer","duration","60 Minuten","bannerText","Neu","showBanner",!1,"route","/einzeltraining"],c,c),A.at(["title","Spiel und Spa\xdf f\xfcr eine gute Beziehung","image","assets/images/KursSpielSpass.png","participants","max. 5 Teilnehmer","duration","3 Termine a 60 Minuten","bannerText","In K\xfcrze","showBanner",!0,"route","/spielundspass"],c,c),A.at(["title","Hunde-Hotline","image","assets/images/Hotline.png","participants","1 Teilnehmer","duration","60 Minuten","bannerText","Neu","showBanner",!0,"route","/hundehotline"],c,c)],t.n4)
 s=j?l:l*2
-r=A.b0(a,n,m).w.a.a>1400
+r=A.b0(a,n,m).w.a.a>1200
 m=r?B.a_:B.at
 q=r?B.am:B.E
 p=t.p
@@ -86072,7 +86072,7 @@ aE(){this.aU()
 this.e=new A.I3(new A.bo(new A.ao($.ai,t.wC),t.Fe))},
 WV(a,b,c){var s=null
 return A.cL(A.a([new A.W(new A.ak(b,32,0,48),B.YM,s),new A.W(new A.ak(b,0,b,0),A.ax("Mit und nicht gegeneinander, so stelle ich mir gutes Hundetraining vor. Alle Bed\xfcrfnisse im Blick, und zwar die der Hunde genauso wie die der Menschen. Ich bin davon \xfcberzeugt, dass mit gegenseitigem Verst\xe4ndnis, konsequentem und fairem Training und immer auch einer Portion Humor ein entspanntes und zufriedenes Zusammenleben m\xf6glich ist und genau das ist mein Ziel.",s,s,s,a,s,s),s),new A.W(new A.ak(b,c,b,0),A.ax("Ich m\xf6chte Euch und Euren Hunden zu einer guten, vertrauensvollen Beziehung und damit zu einem harmonischen Miteinander verhelfen.",s,s,s,a,s,s),s)],t.p),B.am,B.w,B.cP)},
-K(a){var s,r,q,p,o,n=this,m=null,l=t.w,k=A.b0(a,m,l).w.a.a>1400,j=A.asr(a),i=A.eq(m,m,B.m,m,m,m,m,m,"Lora",m,m,n.a.c>900?24:20,m,m,B.aV,m,m,!0,m,m,m,m,m,m,m,m),h=n.a,g=h.e
+K(a){var s,r,q,p,o,n=this,m=null,l=t.w,k=A.b0(a,m,l).w.a.a>1200,j=A.asr(a),i=A.eq(m,m,B.m,m,m,m,m,m,"Lora",m,m,n.a.c>900?24:20,m,m,B.aV,m,m,!0,m,m,m,m,m,m,m,m),h=n.a,g=h.e
 h=h.c
 s=n.gGz()
 if(k)r=400
@@ -86083,7 +86083,7 @@ p=A.a5(new A.a2(q,new A.amm(n,k),p),!0,p.h("ap.E"))
 q=p.length
 o=t.p
 q=A.hX(B.bq,A.a([new A.x_(new A.a_l(r,1.7777777777777777,0.3),p,s,q,m),A.Ad(m,A.Kk(m,B.IK,new A.amn(n),m,m),m,m,24,m,130,m),A.Ad(m,A.Kk(m,B.IN,new A.amo(n),m,m),m,m,m,24,130,m)],o),B.U,B.c4)
-l=A.b0(a,m,l).w.a.a>1400?B.a_:B.at
+l=A.b0(a,m,l).w.a.a>1200?B.a_:B.at
 s=k?A.art(n.WV(i,32,0),1):n.WV(i,32,0)
 return A.cf(m,A.cL(A.a([B.Sq,q,A.a3f(A.a([s,A.md("assets/images/philosophie.jpg",B.bF,n.a.c-470,m)],o),B.am,l,m,B.w,B.u,m,m,B.ap)],o),B.E,B.w,B.u),B.r,B.i,m,m,h,g,m,m,m)}}
 A.amm.prototype={
