@@ -82,7 +82,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b3f67ee8e25590a467b2b81afa469af1
 "assets/assets/images/whatsapp_logo.svg": "351d774c14a0b670aaf31852f4c6837d",
 "assets/assets/images/ziemerfalke.png": "1ab733ae655115c2bf31e0994cacc75d",
 "assets/FontManifest.json": "ed0220bd97008dbd1a645fc66e5e82e6",
-"assets/fonts/MaterialIcons-Regular.otf": "4609242d36640fcaf93bf00d2fe1b2ca",
+"assets/fonts/MaterialIcons-Regular.otf": "a53eefd154c1928d68291ccc8bc75240",
 "assets/NOTICES": "4c8eab5dcf1eb9c0db7d7d8be55a6b74",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/icons_plus/assets/fonts/AntDesign.ttf": "338e2d2afb10bdc56e980b3fdb5b8ea3",
@@ -2213,9 +2213,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "b3f67ee8e25590a467b2b81afa469af1
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6c0481bc832a07cae1b03fb6802db62a",
-"/": "6c0481bc832a07cae1b03fb6802db62a",
-"main.dart.js": "68634ed3067e08eee7399ac4d3f5b98d",
+"index.html": "2752f3b9089f4ed997134c63232adcb4",
+"/": "2752f3b9089f4ed997134c63232adcb4",
+"main.dart.js": "684fc4930258a35a42bf42f37fc244cc",
 "manifest.json": "18b05de58f5aeed2ffa6be1246cc43f1",
 "version.json": "53fb59e54fb87bb44dba7c2200e1dead"};
 // The application shell files that are downloaded before a service worker can
