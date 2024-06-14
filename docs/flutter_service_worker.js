@@ -55,7 +55,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b3f67ee8e25590a467b2b81afa469af1
 "assets/assets/images/KursSpielSpass_S.png": "6c8f93bfc4646987b8687fcc365ec536",
 "assets/assets/images/logo_black.png": "01990cdd0a530e8d442b5b5616ff99b7",
 "assets/assets/images/logo_black.svg": "6142cb8a2e33eeb4bb6fcf5b5ad6eca1",
-"assets/assets/images/logo_black_bg_white.svg": "6142cb8a2e33eeb4bb6fcf5b5ad6eca1",
+"assets/assets/images/logo_black_bg_white.svg": "aeed72d7d8b06b95c8b449a90784fe1a",
 "assets/assets/images/logo_white.svg": "62db21f1aa791f8a0ede2b5eed2a7379",
 "assets/assets/images/philosophie.jpg": "ea65fab88c9727fbea0710511421592b",
 "assets/assets/images/philosophie_S.jpg": "ebee07f805ff0c0bfba12220835ee896",
@@ -2213,9 +2213,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "b3f67ee8e25590a467b2b81afa469af1
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fb920c8d78986a49caba975cc523e26b",
-"/": "fb920c8d78986a49caba975cc523e26b",
-"main.dart.js": "1e7f0662d6f5a68d3cb2baeff6f649b2",
+"index.html": "0205f3d2fc976923ebbdecbb872e1b52",
+"/": "0205f3d2fc976923ebbdecbb872e1b52",
+"main.dart.js": "e1f6b28c1a73ac013a541b4337584805",
 "manifest.json": "18b05de58f5aeed2ffa6be1246cc43f1",
 "version.json": "53fb59e54fb87bb44dba7c2200e1dead"};
 // The application shell files that are downloaded before a service worker can
