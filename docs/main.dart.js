@@ -87152,7 +87152,7 @@ A.tF.prototype={
 J(a){var s,r,q,p,o,n=null,m=t.w,l=A.aL(a,n,m).w.a.a>1260,k=A.lf(a)
 m=A.aL(a,n,m).w
 s=!l
-r=!s||k?A.m3(a,new A.b4(n,t.sW),"Social Walk"):A.rq(n,n,n,n,n,n,B.A0,n)
+r=!s||k?A.m3(a,new A.b4(n,t.sW),"Kaufberatung"):A.rq(n,n,n,n,n,n,B.A0,n)
 if(l)q=1200
 else q=k?800:375
 s=!s||k?B.I:B.af
@@ -87194,7 +87194,7 @@ j=t.p
 k=A.i1(B.iv,A.a([new A.xd(new A.a_S(o,1.7777777777777777,m),l,r,k,h),A.At(h,A.yK(h,B.Jd,h,new A.ana(i),h,h),h,h,24,h,130,h),A.At(h,A.yK(h,B.Jg,h,new A.anb(i),h,h),h,h,h,24,130,h)],j),B.P,B.c8)
 r=!n||e?B.I:B.af
 o=!n||e?A.a3A(i.Xr(q,s,0),1):i.Xr(q,0,0)
-return A.cq(h,A.c_(A.a([B.Ti,k,A.oR(A.a([o,A.hI("assets/images/philosophie_S.jpg",B.d8,h,i.a.d)],j),B.Y,r,h,B.p,B.o,h,h,B.a1)],j),B.B,B.p,B.o),B.u,B.k,h,h,h,g,h,h,h)}}
+return A.cq(h,A.c_(A.a([B.Ti,k,A.oR(A.a([o,A.hI("assets/images/philosophie_S.jpg",B.d8,h,!n||e?300:i.a.d)],j),B.Y,r,h,B.p,B.o,h,h,B.a1)],j),B.B,B.p,B.o),B.u,B.k,h,h,h,g,h,h,h)}}
 A.an9.prototype={
 $1(a){var s=this.b?400:300
 return A.ea(A.hI(a,B.d8,s,this.a.a.d),null,null)},
