@@ -89009,7 +89009,7 @@ if(l)r=1200
 else r=k?800:375
 q=l||k?B.G:B.ad
 p=l?400:375
-p=A.bX(A.fR(m.a.a<800?"assets/images/Gruppentraining_S.jpg":"assets/images/Gruppentraining.jpg",n,n,100),300,p)
+p=A.bX(A.fR(m.a.a<800?"assets/images/gruppentraining_S.jpg":"assets/images/gruppentraining.jpg",n,n,100),300,p)
 m=t.p
 p=A.bV(A.a([p,A.ef(A.a([B.dD,new A.r(B.e,A.T(l?"Orte werden kurzfristig festgelegt":"kurzfristig festgelegt",n,n,n,B.b_,n,n),n)],m),B.A,B.p,B.o),B.S3,B.Se],m),B.O,B.p,B.o)
 o=l?600:375
@@ -89272,7 +89272,7 @@ return A.kq(A.kZ(a,new A.bc(s,t.sW),"Datenschutzerkl\xe4rung",!0),A.ku(A.e9(A.cN
 A.PD.prototype={
 J(a){var s,r,q,p,o,n=null,m="max. 6 Teilnehmer",l=A.aQ(a,n,t.w).w.a.a<800,k=l?"assets/images/KursEinzeltraining_S.jpg":"assets/images/KursEinzeltraining.jpg",j=t.z
 k=A.aB(["title","Einzeltraining","subtitle","Individuell und effektiv","image",k,"participants","1 Teilnehmer","duration","1 h","bannerText","Neu","showBanner",!1,"route","/einzeltraining","price","69\u20ac"],j,j)
-s=A.aB(["title","Gruppentraining Basics","subtitle","Von Sitz bis Bleib","image",l?"assets/images/Gruppentraining_S.jpg":"assets/images/Gruppentraining.jpg","participants","6 Teilnehmer","duration","6 Termine / 45 min","bannerText","Neu","showBanner",!0,"route","/gruppentraining","price","insgesamt 115\u20ac"],j,j)
+s=A.aB(["title","Gruppentraining Basics","subtitle","Von Sitz bis Bleib","image",l?"assets/images/gruppentraining_S.jpg":"assets/images/gruppentraining.jpg","participants","6 Teilnehmer","duration","6 Termine / 45 min","bannerText","Neu","showBanner",!0,"route","/gruppentraining","price","insgesamt 115\u20ac"],j,j)
 r=A.aB(["title","Spielend Lernen","subtitle","Gemeinsam wachsen","image",l?"assets/images/KursSpielSpass_S.jpg":"assets/images/KursSpielSpass.jpg","participants",m,"duration","3 Termine / 1h","bannerText","verf\xfcgbar","showBanner",!1,"route","/spielundspass","price","insg. 54\u20ac pro Hund"],j,j)
 q=A.aB(["title","Social Walk","subtitle","Zusammen unterwegs","image",l?"assets/images/slider1_new.jpg":"assets/images/slider1_new_S.jpg","participants",m,"duration","1 h","bannerText","","showBanner",!1,"route","/socialwalk","price","20\u20ac pro Hund"],j,j)
 p=A.aB(["title","Kaufberatung","subtitle","Welcher Hund passt zu mir?","image",l?"assets/images/slider4_new.jpg":"assets/images/slider4_new_S.jpg","participants","1 Teilnehmer","duration","1 h","bannerText","Neu","showBanner",!0,"route","/kaufberatung","price","69\u20ac"],j,j)
