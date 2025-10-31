@@ -25324,7 +25324,7 @@ case 1:return A.O(p.at(-1),r)}})
 return A.Q($async$axh,r)},
 axy(a){A.nn(B.B,new A.axz($.ah.N$.x.i(0,a)),t.P)},
 aXt(a,b,c,d,e){var s=null,r=t.p
-return A.b([A.Q9(A.eb(A.b([new A.o(B.e,A.aF3("assets/images/logo_black_bg_white.svg",s,B.Jb,80),s),new A.o(B.e,A.bT(A.b([A.Q9(new A.o(B.e,A.T("Hey Hund",s,s,s,A.cM(s,s,B.cR,s,s,s,s,s,"Inter",s,s,20,B.eK,s,B.ay,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.awQ()),A.Q9(B.QQ,new A.awR())],r),B.J,B.n,B.o),s)],r),B.w,B.n,B.o),new A.awS()),B.Rr,new A.o(B.e,A.bT(A.b([A.lE(!1,!0,B.a1K,s,!0,s,s,s,s,s,s,s,s,s,new A.awT(b),s,s,s,s),A.lE(!1,!0,B.a1C,s,!0,s,s,s,s,s,s,s,s,s,new A.awU(c),s,s,s,s),A.lE(!1,!0,B.a0x,s,!0,s,s,s,s,s,s,s,s,s,new A.awV(d),s,s,s,s),A.lE(!1,!0,B.a0e,s,!0,s,s,s,s,s,s,s,s,s,new A.awW(e),s,s,s,s)],r),B.w,B.n,B.o),s),new A.o(B.J2,A.bT(A.b([B.a0N,A.lE(!1,!0,B.Ay,s,!0,s,s,s,s,s,s,s,s,s,new A.awX(a),s,s,s,s),A.lE(!1,!0,B.a0M,s,!0,s,s,s,s,s,s,s,s,s,new A.awY(a),s,s,s,s),A.lE(!1,!0,B.a1a,s,!0,s,s,s,s,s,s,s,s,s,new A.awZ(a),s,s,s,s),A.lE(!1,!0,B.a11,s,!0,s,s,s,s,s,s,s,s,s,new A.ax_(a),s,s,s,s)],r),B.w,B.n,B.o),s),new A.o(B.IU,A.fH("assets/images/ziemerfalke.png",s,120,s),s)],r)},
+return A.b([A.Q9(A.eb(A.b([new A.o(B.e,A.aF3("assets/images/logo_black_bg_white.svg",s,B.Jb,80),s),new A.o(B.e,A.bT(A.b([A.Q9(new A.o(B.e,A.T("Hey Hund",s,s,s,A.cM(s,s,B.cR,s,s,s,s,s,"Inter",s,s,20,B.eK,s,B.ay,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.awQ()),A.Q9(B.QR,new A.awR())],r),B.J,B.n,B.o),s)],r),B.w,B.n,B.o),new A.awS()),B.Rq,new A.o(B.e,A.bT(A.b([A.lE(!1,!0,B.a1H,s,!0,s,s,s,s,s,s,s,s,s,new A.awT(b),s,s,s,s),A.lE(!1,!0,B.a1z,s,!0,s,s,s,s,s,s,s,s,s,new A.awU(c),s,s,s,s),A.lE(!1,!0,B.a0w,s,!0,s,s,s,s,s,s,s,s,s,new A.awV(d),s,s,s,s),A.lE(!1,!0,B.a0d,s,!0,s,s,s,s,s,s,s,s,s,new A.awW(e),s,s,s,s)],r),B.w,B.n,B.o),s),new A.o(B.J2,A.bT(A.b([B.a0J,A.lE(!1,!0,B.Ay,s,!0,s,s,s,s,s,s,s,s,s,new A.awX(a),s,s,s,s),A.lE(!1,!0,B.a0I,s,!0,s,s,s,s,s,s,s,s,s,new A.awY(a),s,s,s,s),A.lE(!1,!0,B.a17,s,!0,s,s,s,s,s,s,s,s,s,new A.awZ(a),s,s,s,s),A.lE(!1,!0,B.a0Z,s,!0,s,s,s,s,s,s,s,s,s,new A.ax_(a),s,s,s,s)],r),B.w,B.n,B.o),s),new A.o(B.IU,A.fH("assets/images/ziemerfalke.png",s,120,s),s)],r)},
 axz:function axz(a){this.a=a},
 awS:function awS(){},
 awQ:function awQ(){},
@@ -86492,7 +86492,7 @@ A.PP.prototype={
 FC(a,b,c,d){var s,r=null
 if(a===B.o2)s=100
 else s=a===B.o3?50:8
-return A.bT(A.b([new A.o(new A.ag(b,s,0,48),B.a16,r),new A.o(new A.ag(b,0,b,0),A.T("Hi, ich bin Lea, und mit Hey Hund lebe ich meinen Traum. Die Arbeit mit Menschen und Tieren ist meine Leidenschaft und meine Begeisterung f\xfcr Hunde treibt mich an. Ich liebe es Menschen und Hunde zu einem unschlagbaren Team zu machen. Wenn du also Lust hast, eine einzigartige Bindung zu deinem Vierbeiner aufzubauen, dann bist du hier genau richtig.",r,r,r,d,r,r),r),new A.o(new A.ag(b,c,b,0),A.T("Was liebe ich au\xdfer Hunden noch? Meine kleine Familie, gutes Essen und ein sch\xf6nes Buch (vorzugsweise \xfcber Hunde \ud83d\ude09). Ich freue mich darauf, mit dir und deinem Hund einen spannenden Weg zu gehen - lass uns gemeinsam Spa\xdf haben und gro\xdfartige Fortschritte erzielen!",r,r,r,d,r,r),r),new A.o(new A.ag(b,c,b,0),A.T("Ich bin zertifizierte und gepr\xfcfte Hundetrainerin (durch das Veterin\xe4ramt gem\xe4\xdf \xa711 Abs. 1 Nr. 8 Buchst. f TierSchG). Ich brenne darauf, mein Wissen mit dir zu teilen und dir beim Erreichen deiner Ziele zur Seite zu stehen.",r,r,r,d,r,r),r),new A.o(new A.ag(b,c,b,0),A.T("M\xf6chtest du mehr \xfcber mich und meine Vorgehensweise erfahren? Melde dich gerne f\xfcr ein kostenloses Kennenlern-Telefonat. Wenn die Chemie stimmt, freue ich mich darauf euch kennenzulernen und auf eurem gemeinsamen Weg zu begleiten.",r,r,r,d,r,r),r)],t.p),B.J,B.n,B.o)},
+return A.bT(A.b([new A.o(new A.ag(b,s,0,48),B.a13,r),new A.o(new A.ag(b,0,b,0),A.T("Hi, ich bin Lea, und mit Hey Hund lebe ich meinen Traum. Die Arbeit mit Menschen und Tieren ist meine Leidenschaft und meine Begeisterung f\xfcr Hunde treibt mich an. Ich liebe es Menschen und Hunde zu einem unschlagbaren Team zu machen. Wenn du also Lust hast, eine einzigartige Bindung zu deinem Vierbeiner aufzubauen, dann bist du hier genau richtig.",r,r,r,d,r,r),r),new A.o(new A.ag(b,c,b,0),A.T("Was liebe ich au\xdfer Hunden noch? Meine kleine Familie, gutes Essen und ein sch\xf6nes Buch (vorzugsweise \xfcber Hunde \ud83d\ude09). Ich freue mich darauf, mit dir und deinem Hund einen spannenden Weg zu gehen - lass uns gemeinsam Spa\xdf haben und gro\xdfartige Fortschritte erzielen!",r,r,r,d,r,r),r),new A.o(new A.ag(b,c,b,0),A.T("Ich bin zertifizierte und gepr\xfcfte Hundetrainerin (durch das Veterin\xe4ramt gem\xe4\xdf \xa711 Abs. 1 Nr. 8 Buchst. f TierSchG). Ich brenne darauf, mein Wissen mit dir zu teilen und dir beim Erreichen deiner Ziele zur Seite zu stehen.",r,r,r,d,r,r),r),new A.o(new A.ag(b,c,b,0),A.T("M\xf6chtest du mehr \xfcber mich und meine Vorgehensweise erfahren? Melde dich gerne f\xfcr ein kostenloses Kennenlern-Telefonat. Wenn die Chemie stimmt, freue ich mich darauf euch kennenzulernen und auf eurem gemeinsamen Weg zu begleiten.",r,r,r,d,r,r),r)],t.p),B.J,B.n,B.o)},
 L(a){var s,r,q,p,o,n,m,l,k=this,j=null,i="assets/images/about_me_small.jpg",h=t.w,g=A.aG(a,j,h).w.a.a>1260,f=A.jz(a)
 if(g)s=B.o2
 else s=f?B.o3:B.Jd
@@ -86539,8 +86539,8 @@ break
 case 5:return A.P(null,r)
 case 1:return A.O(p.at(-1),r)}})
 return A.Q($async$y4,r)},
-L(a){var s=this,r=null,q=A.aG(a,r,t.w).w.a.a>1260,p=A.cM(r,r,B.l,r,r,r,r,r,"Lora",r,r,q?20:16,r,r,B.ay,r,r,!0,r,r,r,r,r,r,r,r),o=q?A.k1(a,new A.bc(r,t.sW),"Kontakt",!0):A.mX(r,r,r,r,r,r,B.a1B,r),n=A.T("Vielen Dank f\xfcr dein Interesse.",r,r,r,p,r,r),m=A.T("Ich freue mich auf deine Nachricht.",r,r,r,p,r,r),l=t.p,k=A.eb(A.b([B.K0,new A.o(B.e,A.T("Sprechzeiten: Mo-Fr 9-18 Uhr",r,r,r,p,r,r),r)],l),B.w,B.n,B.o),j=A.eb(A.b([B.K3,new A.o(B.e,A.T("0176 22 89 23 26",r,r,r,p,r,r),r)],l),B.w,B.n,B.o),i=A.eb(A.b([B.JY,new A.o(B.e,A.T("E-Mail: lea@hey-hund.de",r,r,r,p,r,r),r)],l),B.w,B.n,B.o),h=A.akp(s.e,B.Kw,new A.anZ()),g=A.akp(s.f,B.Ky,new A.ao_(s)),f=A.akp(s.r,B.Kv,new A.ao0(s)),e=A.akp(s.w,B.Kx,new A.ao1()),d=A.eb(A.b([new A.yR(s.d,new A.ao2(s),r),B.Je],l),B.w,B.n,B.o),c=t.De
-n=A.bT(A.b([B.a1j,new A.o(B.e,n,r),new A.o(B.e,m,r),k,j,i,new A.o(B.e,h,r),new A.o(B.e,g,r),new A.o(B.e,f,r),new A.o(B.e,e,r),d,A.eb(A.b([new A.o(B.e,A.aCQ(B.a18,new A.ao3(s,a),A.yK(r,r,r,s.d?new A.bw(B.kB,c):new A.bw(B.Pc,c),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)),r)],l),B.w,B.f0,B.o)],l),B.J,B.n,B.o)
+L(a){var s=this,r=null,q=A.aG(a,r,t.w).w.a.a>1260,p=A.cM(r,r,B.l,r,r,r,r,r,"Lora",r,r,q?20:16,r,r,B.ay,r,r,!0,r,r,r,r,r,r,r,r),o=q?A.k1(a,new A.bc(r,t.sW),"Kontakt",!0):A.mX(r,r,r,r,r,r,B.a1y,r),n=A.T("Vielen Dank f\xfcr dein Interesse.",r,r,r,p,r,r),m=A.T("Ich freue mich auf deine Nachricht.",r,r,r,p,r,r),l=t.p,k=A.eb(A.b([B.K0,new A.o(B.e,A.T("Sprechzeiten: Mo-Fr 9-18 Uhr",r,r,r,p,r,r),r)],l),B.w,B.n,B.o),j=A.eb(A.b([B.K3,new A.o(B.e,A.T("0176 22 89 23 26",r,r,r,p,r,r),r)],l),B.w,B.n,B.o),i=A.eb(A.b([B.JY,new A.o(B.e,A.T("E-Mail: lea@hey-hund.de",r,r,r,p,r,r),r)],l),B.w,B.n,B.o),h=A.akp(s.e,B.Kw,new A.anZ()),g=A.akp(s.f,B.Ky,new A.ao_(s)),f=A.akp(s.r,B.Kv,new A.ao0(s)),e=A.akp(s.w,B.Kx,new A.ao1()),d=A.eb(A.b([new A.yR(s.d,new A.ao2(s),r),B.Je],l),B.w,B.n,B.o),c=t.De
+n=A.bT(A.b([B.a1g,new A.o(B.e,n,r),new A.o(B.e,m,r),k,j,i,new A.o(B.e,h,r),new A.o(B.e,g,r),new A.o(B.e,f,r),new A.o(B.e,e,r),d,A.eb(A.b([new A.o(B.e,A.aCQ(B.a15,new A.ao3(s,a),A.yK(r,r,r,s.d?new A.bw(B.kB,c):new A.bw(B.Pc,c),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)),r)],l),B.w,B.f0,B.o)],l),B.J,B.n,B.o)
 return A.jD(o,A.jF(A.dN(A.dO(new A.Ae(n,B.iU,s.x),B.A,r,B.iX,r,r,r,r,B.c9,1/0),r,r),r),r,!0,!1,r,r)}}
 A.anZ.prototype={
 $1(a){return a.length===0?"Bitte geben Sie Ihren Namen ein":null},
@@ -86595,7 +86595,7 @@ return A.jD(A.k1(a,new A.bc(q,t.sW),"",!0),A.jF(new A.o(B.e,A.bT(A.b([A.aHJ(a,th
 A.ug.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
 m=A.aG(a,n,m).w
-s=l?A.k1(a,new A.bc(n,t.sW),"Gruppentraining Basic",!1):A.mX(n,n,n,n,n,n,B.a1d,n)
+s=l?A.k1(a,new A.bc(n,t.sW),"Gruppentraining Basic",!1):A.mX(n,n,n,n,n,n,B.a1a,n)
 if(l)r=1200
 else r=k?800:375
 q=l||k?B.H:B.ab
@@ -86604,12 +86604,12 @@ p=A.bR(A.fH(m.a.a<800?"assets/images/gruppentraining_S.jpg":"assets/images/grupp
 m=t.p
 p=A.bT(A.b([p,A.eb(A.b([B.d8,new A.o(B.e,A.T(l?"Orte werden kurzfristig festgelegt":"kurzfristig festgelegt",n,n,n,B.aK,n,n),n)],m),B.w,B.n,B.o),B.T8,B.T4],m),B.J,B.n,B.o)
 o=l?600:375
-return A.jD(s,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Der Schl\xfcssel zum harmonischen Zusammenleben",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0i,B.QE,B.aB,B.kL,B.R_,B.aB,B.QI,B.aB,B.Rl,B.aB,B.QO,B.aB,B.QT,B.aB,B.Rh,B.aB,B.QW,B.aB,B.R1,B.li],m),B.J,B.n,B.o),n,o),n)],m),B.J,q,n,B.n,B.o,0,n,n,B.U),n,r)],m),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
+return A.jD(s,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Der Schl\xfcssel zum harmonischen Zusammenleben",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0h,B.QE,B.aB,B.kL,B.QI,B.aB,B.QP,B.aB,B.Rw,B.aB,B.R7,B.aB,B.QJ,B.aB,B.QX,B.aB,B.R5,B.aB,B.QY,B.li],m),B.J,B.n,B.o),n,o),n)],m),B.J,q,n,B.n,B.o,0,n,n,B.U),n,r)],m),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.uh.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
 m=A.aG(a,n,m).w
 s=!l
-r=!s||k?A.k1(a,new A.bc(n,t.sW),"Hunde-Hotline",!1):A.mX(n,n,n,n,n,n,B.a1k,n)
+r=!s||k?A.k1(a,new A.bc(n,t.sW),"Hunde-Hotline",!1):A.mX(n,n,n,n,n,n,B.a1h,n)
 if(l)q=1200
 else q=k?800:375
 s=!s||k?B.H:B.ab
@@ -86617,11 +86617,11 @@ p=l?400:375
 o=t.p
 p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/Hotline_S.png":"assets/images/Hotline.png",n,n,n),300,p),B.SZ,B.kS,B.T2],o),B.J,B.n,B.o)
 m=l?600:375
-return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Nicht allein - telefonische Unterst\xfctzung",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1q,B.Rj,B.Rs,new A.o(B.IK,A.dO(B.SV,B.A,n,n,new A.dB(B.GB,n,n,A.k9(10),n,n,B.aM),n,n,n,n,n),n)],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
+return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Nicht allein - telefonische Unterst\xfctzung",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1m,B.Rj,B.Rr,new A.o(B.IK,A.dO(B.SV,B.A,n,n,new A.dB(B.GB,n,n,A.k9(10),n,n,B.aM),n,n,n,n,n),n)],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.ui.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
 A.aG(a,n,m).toString
-m=l?A.k1(a,new A.bc(n,t.sW),"Move Your Dog",!1):A.mX(n,n,n,n,n,n,B.a0L,n)
+m=l?A.k1(a,new A.bc(n,t.sW),"Move Your Dog",!1):A.mX(n,n,n,n,n,n,B.a0H,n)
 if(l)s=1200
 else s=k?800:375
 r=l||k?B.H:B.ab
@@ -86630,7 +86630,7 @@ q=A.bR(A.fH("assets/images/move_your_dog.jpg",n,n,100),300,q)
 p=t.p
 q=A.bT(A.b([q,A.eb(A.b([B.d8,new A.o(B.e,A.T("Volksdorfer Wald",n,n,n,B.aK,n,n),n)],p),B.w,B.n,B.o),B.T7,B.T1],p),B.J,B.n,B.o)
 o=l?600:375
-return A.jD(m,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,q,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Ein Spaziergang, der mehr kann",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0s,B.QK,B.Rf,B.Rt,B.aB,B.kL,B.QR,B.Vg,A.aCQ(B.a0q,new A.a3N(a),A.aO2(n,n,B.jf,n,n,n,n,n,n,n,n,n,B.IX,n,n,n,n,n,n,n)),B.li],p),B.J,B.n,B.o),n,o),n)],p),B.J,r,n,B.n,B.o,0,n,n,B.U),n,s)],p),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
+return A.jD(m,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,q,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Ein Spaziergang, der mehr kann",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0r,B.QL,B.Rg,B.Rs,B.aB,B.kL,B.QS,B.Vg,A.aCQ(B.a0p,new A.a3N(a),A.aO2(n,n,B.jf,n,n,n,n,n,n,n,n,n,B.IX,n,n,n,n,n,n,n)),B.li],p),B.J,B.n,B.o),n,o),n)],p),B.J,r,n,B.n,B.o,0,n,n,B.U),n,s)],p),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.a3N.prototype={
 $0(){A.ae3(this.a,"/kontakt",t.X)},
 $S:0}
@@ -86638,7 +86638,7 @@ A.uj.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
 m=A.aG(a,n,m).w
 s=!l
-r=!s||k?A.k1(a,new A.bc(n,t.sW),"Einzeltraining",!1):A.mX(n,n,n,n,n,n,B.a0o,n)
+r=!s||k?A.k1(a,new A.bc(n,t.sW),"Einzeltraining",!1):A.mX(n,n,n,n,n,n,B.a0n,n)
 if(l)q=1200
 else q=k?800:375
 s=!s||k?B.H:B.ab
@@ -86646,12 +86646,12 @@ p=l?400:375
 o=t.p
 p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/KursEinzeltraining_S.jpg":"assets/images/KursEinzeltraining.jpg",n,n,n),300,p),B.SY,B.kS,B.SX],o),B.J,B.n,B.o)
 m=l?600:375
-return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Individuelles Training f\xfcr dich und deinen Hund",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0w,B.Re,new A.o(new A.ag(0,16,0,0),A.T("Durch Beobachtung und Analyse von euch beiden unterst\xfctze ich dich dabei, eine harmonische und entspannte Beziehung zu deinem vierbeinigen Begleiter aufzubauen.",n,n,n,A.cM(n,n,n,n,n,n,n,n,n,n,n,24,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n)],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
+return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Individuelles Training f\xfcr dich und deinen Hund",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0v,B.Rf,new A.o(new A.ag(0,16,0,0),A.T("Durch Beobachtung und Analyse von euch beiden unterst\xfctze ich dich dabei, eine harmonische und entspannte Beziehung zu deinem vierbeinigen Begleiter aufzubauen.",n,n,n,A.cM(n,n,n,n,n,n,n,n,n,n,n,24,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n)],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.uk.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
 m=A.aG(a,n,m).w
 s=!l
-r=!s||k?A.k1(a,new A.bc(n,t.sW),"Social Walk",!1):A.mX(n,n,n,n,n,n,B.a17,n)
+r=!s||k?A.k1(a,new A.bc(n,t.sW),"Social Walk",!1):A.mX(n,n,n,n,n,n,B.a14,n)
 if(l)q=1200
 else q=k?800:375
 s=!s||k?B.H:B.ab
@@ -86659,11 +86659,11 @@ p=l?400:375
 o=t.p
 p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/slider1_new_S.jpg":"assets/images/slider1_new.jpg",n,n,n),300,p),B.SW,B.T9,B.T3],o),B.J,B.n,B.o)
 m=l?600:375
-return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Ein gemeinsamer Spaziergang f\xfcr dich und deinen Hund",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1N,B.Rm,B.QJ,B.Ro,B.R0,B.QD,A.RW(A.b([new A.o(B.P,A.vO(n,n,n,B.bs,n,n,!0,n,B.WL,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.P,A.vO(n,n,n,B.bs,n,n,!0,n,B.WJ,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.P,A.vO(n,n,n,B.bs,n,n,!0,n,B.WN,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.P,A.vO(n,n,n,B.bs,n,n,!0,n,B.WI,B.aO,n,n,B.aj,B.ax),n)],o))],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
+return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Ein gemeinsamer Spaziergang f\xfcr dich und deinen Hund",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1K,B.Rl,B.QK,B.Rn,B.R0,B.QD,A.RW(A.b([new A.o(B.P,A.vO(n,n,n,B.bs,n,n,!0,n,B.WL,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.P,A.vO(n,n,n,B.bs,n,n,!0,n,B.WJ,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.P,A.vO(n,n,n,B.bs,n,n,!0,n,B.WN,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.P,A.vO(n,n,n,B.bs,n,n,!0,n,B.WI,B.aO,n,n,B.aj,B.ax),n)],o))],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.ul.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
 m=A.aG(a,n,m).w
-s=l?A.k1(a,new A.bc(n,t.sW),"Spielend Lernen f\xfcr eine gute Bindung",!1):A.mX(n,n,n,n,n,n,B.a1S,n)
+s=l?A.k1(a,new A.bc(n,t.sW),"Spielend Lernen f\xfcr eine gute Bindung",!1):A.mX(n,n,n,n,n,n,B.a1R,n)
 if(l)r=1200
 else r=k?800:375
 q=l||k?B.H:B.ab
@@ -86672,7 +86672,7 @@ p=A.bR(A.fH(m.a.a<800?"assets/images/KursSpielSpass_S.jpg":"assets/images/KursSp
 m=t.p
 p=A.bT(A.b([p,A.eb(A.b([B.d8,new A.o(B.e,A.T(l?"Orte werden kurzfristig festgelegt":"kurzfristig festgelegt",n,n,n,B.aK,n,n),n)],m),B.w,B.n,B.o),B.T_,B.Tb],m),B.J,B.n,B.o)
 o=l?600:375
-return A.jD(s,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Freude und Vertrauen durch gemeinsame Erlebnisse",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0h,B.QP,B.QM,B.aB,B.kL,B.Rg,B.aB,B.Rq,B.aB,B.Rv,B.aB,B.Rd,B.aB,B.Rc,B.aB,B.Ra,B.aB,B.Ri,B.aB,B.R4,B.li],m),B.J,B.n,B.o),n,o),n)],m),B.J,q,n,B.n,B.o,0,n,n,B.U),n,r)],m),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
+return A.jD(s,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Freude und Vertrauen durch gemeinsame Erlebnisse",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0g,B.QQ,B.QN,B.aB,B.kL,B.Rh,B.aB,B.Rp,B.aB,B.Ru,B.aB,B.Re,B.aB,B.Rd,B.aB,B.Rb,B.aB,B.Ri,B.aB,B.R3,B.li],m),B.J,B.n,B.o),n,o),n)],m),B.J,q,n,B.n,B.o,0,n,n,B.U),n,r)],m),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.qL.prototype={
 an(){var s=t.A
 return new A.VH(new A.bc(null,t.sW),A.vS(null,null),new A.bc("mainKey",s),new A.bc("aboutMeKey",s),new A.bc("productsKey",s),new A.bc("philosophyKey",s))}}
@@ -86726,7 +86726,7 @@ r=B.d.az(127.5)
 s=s.akj(A.aU(r,B.cA.F()>>>16&255,B.cA.F()>>>8&255,B.cA.F()&255))
 $.a8()
 q=t.p
-return new A.rN(s,A.bR(new A.LF(B.y,B.f9,A.hn(B.bl,A.b([A.aBM(A.dO(o,B.A,o,o,new A.dB(A.aU(r,B.dN.F()>>>16&255,B.dN.F()>>>8&255,B.dN.F()&255),o,o,o,o,o,B.aM),o,o,o,o,o),new A.wQ(2,2,o)),A.bT(A.b([A.e7(o,new A.o(new A.ag(30,30,0,0),B.a0l,o),B.Y,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.aru(p,a),o,o,o,o,o,o),A.e7(o,new A.o(new A.ag(30,16,0,0),B.a0d,o),B.Y,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.arv(p,a),o,o,o,o,o,o),A.e7(o,new A.o(new A.ag(30,16,0,0),B.a1w,o),B.Y,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.arw(p,a),o,o,o,o,o,o),A.e7(o,new A.o(new A.ag(30,16,0,0),B.a0I,o),B.Y,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.arx(p,a),o,o,o,o,o,o)],q),B.J,B.n,B.o)],q),B.Q,B.bO),o),o,200),o)},
+return new A.rN(s,A.bR(new A.LF(B.y,B.f9,A.hn(B.bl,A.b([A.aBM(A.dO(o,B.A,o,o,new A.dB(A.aU(r,B.dN.F()>>>16&255,B.dN.F()>>>8&255,B.dN.F()&255),o,o,o,o,o,B.aM),o,o,o,o,o),new A.wQ(2,2,o)),A.bT(A.b([A.e7(o,new A.o(new A.ag(30,30,0,0),B.a0k,o),B.Y,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.aru(p,a),o,o,o,o,o,o),A.e7(o,new A.o(new A.ag(30,16,0,0),B.a0c,o),B.Y,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.arv(p,a),o,o,o,o,o,o),A.e7(o,new A.o(new A.ag(30,16,0,0),B.a1t,o),B.Y,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.arw(p,a),o,o,o,o,o,o),A.e7(o,new A.o(new A.ag(30,16,0,0),B.a0E,o),B.Y,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.arx(p,a),o,o,o,o,o,o)],q),B.J,B.n,B.o)],q),B.Q,B.bO),o),o,200),o)},
 L(a1){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="seoNameJS",e=t.w,d=A.aG(a1,g,e).w,c=A.aG(a1,g,e).w.a.a,b=A.aG(a1,g,e).w.a.a>1260,a=A.jz(a1),a0=$.aKy()
 a0.q6(f,["author","Lea Massari"])
 a0.q6(f,["description","Hundetraining in Hamburg. Individuelles Hundetraining f\xfcr dich und deinen Hund. Einzeltraining, Gruppentraining, Spiel und Spa\xdf, Hunde-Hotline, Kaufberatung."])
@@ -86820,7 +86820,7 @@ A.v3.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
 m=A.aG(a,n,m).w
 s=!l
-r=!s||k?A.k1(a,new A.bc(n,t.sW),"Kaufberatung",!1):A.mX(n,n,n,n,n,n,B.a1M,n)
+r=!s||k?A.k1(a,new A.bc(n,t.sW),"Kaufberatung",!1):A.mX(n,n,n,n,n,n,B.a1J,n)
 if(l)q=1200
 else q=k?800:375
 s=!s||k?B.H:B.ab
@@ -86828,10 +86828,10 @@ p=l?400:375
 o=t.p
 p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/slider4_new_S.jpg":"assets/images/slider4_new.jpg",n,n,n),300,p),B.T5,B.kS,B.T0],o),B.J,B.n,B.o)
 m=l?600:375
-return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Hundekaufberatung: Welcher Hund passt zu mir?",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1e,B.R7,B.QL],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
+return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Hundekaufberatung: Welcher Hund passt zu mir?",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1b,B.R8,B.QM],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.PQ.prototype={
 L(a){var s=null,r=this.c,q=this.d,p=t.p
-return A.dO(A.bR(A.hn(B.bl,A.b([new A.AM(A.dO(s,B.A,s,s,new A.dB(s,new A.us(new A.tK(A.aG(a,s,t.w).w.a.a<800?"assets/images/home_screen_background2_S.jpg":"assets/images/home_screen_background2.jpg",s,s),B.dr),s,s,s,s,B.aM),r,s,s,s,q),B.nT,1.2,s),A.bT(A.b([A.bR(s,r/2,s),B.QY,B.R6],p),B.J,B.n,B.o)],p),B.Q,B.bO),r,q),B.A,s,s,s,r,this.e,s,s,s)}}
+return A.dO(A.bR(A.hn(B.bl,A.b([new A.AM(A.dO(s,B.A,s,s,new A.dB(s,new A.us(new A.tK(A.aG(a,s,t.w).w.a.a<800?"assets/images/home_screen_background2_S.jpg":"assets/images/home_screen_background2.jpg",s,s),B.dr),s,s,s,s,B.aM),r,s,s,s,q),B.nT,1.2,s),A.bT(A.b([A.bR(s,r/2,s),B.QZ,B.R6],p),B.J,B.n,B.o)],p),B.Q,B.bO),r,q),B.A,s,s,s,r,this.e,s,s,s)}}
 A.D0.prototype={
 an(){return new A.XZ()}}
 A.XZ.prototype={
@@ -86839,7 +86839,7 @@ gGd(){var s=this.d
 return s===$?this.d=new A.a2N(new A.bL(new A.aB($.av,t.wC),t.Fe)):s},
 aA(){this.aK()},
 X_(a,b,c){var s=null
-return A.bT(A.b([new A.o(new A.ag(b,32,0,48),B.a1y,s),new A.o(new A.ag(b,0,b,0),A.T("Mit und nicht gegeneinander, so stelle ich mir gutes Hundetraining vor. Alle Bed\xfcrfnisse im Blick und zwar die der Hunde genauso wie die der Menschen. Ich bin davon \xfcberzeugt, dass mit gegenseitigem Verst\xe4ndnis, konsequentem und fairem Training und immer auch einer Portion Humor ein entspanntes und zufriedenes Zusammenleben m\xf6glich ist und genau das ist mein Ziel.",s,s,s,a,s,s),s),new A.o(new A.ag(b,c,b,0),A.T("Ich m\xf6chte euch und euren Hunden zu einer guten, vertrauensvollen Beziehung und damit zu einem harmonischen Miteinander verhelfen.",s,s,s,a,s,s),s),new A.o(new A.ag(b,20,b,20),B.a1T,s),new A.o(new A.ag(b,c,b,20),A.T('Auf dieser Website verwende ich das "Du" f\xfcr eine lockere und pers\xf6nliche Atmosph\xe4re. F\xfcr alle, denen das "Sie" lieber ist, ist das vollkommen in Ordnung. Bitte z\xf6gern Sie nicht, mich zu siezen oder zu duzen \u2013 ich freue mich \xfcber alle Nachrichten, ganz gleich in welcher Form.',s,s,s,a,s,s),s)],t.p),B.J,B.n,B.d5)},
+return A.bT(A.b([new A.o(new A.ag(b,32,0,48),B.a1u,s),new A.o(new A.ag(b,0,b,0),A.T("Mit und nicht gegeneinander, so stelle ich mir gutes Hundetraining vor. Alle Bed\xfcrfnisse im Blick und zwar die der Hunde genauso wie die der Menschen. Ich bin davon \xfcberzeugt, dass mit gegenseitigem Verst\xe4ndnis, konsequentem und fairem Training und immer auch einer Portion Humor ein entspanntes und zufriedenes Zusammenleben m\xf6glich ist und genau das ist mein Ziel.",s,s,s,a,s,s),s),new A.o(new A.ag(b,c,b,0),A.T("Ich m\xf6chte euch und euren Hunden zu einer guten, vertrauensvollen Beziehung und damit zu einem harmonischen Miteinander verhelfen.",s,s,s,a,s,s),s),new A.o(new A.ag(b,20,b,20),B.a1S,s),new A.o(new A.ag(b,c,b,20),A.T('Auf dieser Website verwende ich das "Du" f\xfcr eine lockere und pers\xf6nliche Atmosph\xe4re. F\xfcr alle, denen das "Sie" lieber ist, ist das vollkommen in Ordnung. Bitte z\xf6gern Sie nicht, mich zu siezen oder zu duzen \u2013 ich freue mich \xfcber alle Nachrichten, ganz gleich in welcher Form.',s,s,s,a,s,s),s)],t.p),B.J,B.n,B.d5)},
 L(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=t.w,f=A.aG(a,h,g).w.a.a>1260,e=A.jz(a)
 g=A.aG(a,h,g).w
 if(f)s=72
@@ -86970,7 +86970,7 @@ $0(){A.ae3(this.a,"/agb",t.X)},
 $S:0}
 A.ax6.prototype={
 $1(a){var s=null,r=t.p,q=A.eb(A.b([B.Ay,A.e7(s,B.oC,B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ax4(this.a),s,s,s,s,s,s)],r),B.w,B.hv,B.o)
-return A.aBG(B.l,A.dO(A.bT(A.b([B.a1U,B.a1E,B.a1Q,B.aB,B.a0B,B.a20,B.a15,B.a1H,B.aB,B.a1p,A.e7(s,B.a0Z,B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ax5(),s,s,s,s,s,s),B.a1D,B.a0H,B.aB,B.a0X,A.eb(A.b([B.a0W,A.e7(s,B.a0Q,B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,A.aXI(),s,s,s,s,s,s)],r),B.w,B.n,B.o)],r),B.J,B.n,B.o),B.A,s,s,s,350,s,s,s,s),B.ms,q)},
+return A.aBG(B.l,A.dO(A.bT(A.b([B.a1T,B.a1B,B.a1P,B.aB,B.a0y,B.a20,B.a12,B.a1E,B.aB,B.a1l,A.e7(s,B.a0V,B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ax5(),s,s,s,s,s,s),B.a1A,B.a0D,B.aB,B.a0T,A.eb(A.b([B.a0S,A.e7(s,B.a0M,B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,A.aXI(),s,s,s,s,s,s)],r),B.w,B.n,B.o)],r),B.J,B.n,B.o),B.A,s,s,s,350,s,s,s,s),B.ms,q)},
 $S:194}
 A.ax4.prototype={
 $0(){A.iC(this.a,!1).dn()},
@@ -94953,8 +94953,8 @@ B.o5=new A.pR(!1,!1,!1,!0)
 B.k7=new A.M3(0,"tight")
 B.oi=new A.M3(1,"loose")
 B.Zg=new A.n(!0,B.l,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a1r=new A.a7("Ich habe die Datenschutzerkl\xe4rung gelesen und akzeptiere sie.",null,B.Zg,null,null,!0,null,null,null,null)
-B.Jp=new A.uK(1,B.oi,B.a1r,null)
+B.a1o=new A.a7("Ich habe die Datenschutzerkl\xe4rung gelesen und akzeptiere sie.",null,B.Zg,null,null,!0,null,null,null,null)
+B.Jp=new A.uK(1,B.oi,B.a1o,null)
 B.Je=new A.zZ(1,B.k7,B.Jp,null)
 B.Jf=new A.A0(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.h2=new A.lq(!1,!1,!1,!1)
@@ -96544,110 +96544,110 @@ B.ii=new A.n(!0,null,null,null,null,null,24,B.bS,null,null,null,null,null,null,n
 B.a21=new A.a7("Warum teilnehmen?",null,B.ii,null,null,null,null,null,null,null)
 B.QD=new A.o(B.P,B.a21,null)
 B.aC=new A.n(!0,null,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0V=new A.a7("Wir arbeiten an den essentiellen Grundlagen f\xfcr einen zuverl\xe4ssigen R\xfcckruf und \xfcben eine entspannte Leinenf\xfchrung in alltagsnahen Situationen. Dabei lernst du, die K\xf6rpersprache deines Hundes besser zu verstehen und baust eine vertrauensvolle Beziehung auf. Das Training in der Gruppe bietet dir ideale \xdcbungsbedingungen: Dein Hund lernt, sich trotz Ablenkung auf dich zu konzentrieren. Dieser Kurs legt wichtige Grundsteine f\xfcr die weitere Entwicklung eures Teams.",null,B.aC,null,null,null,null,null,null,null)
-B.QE=new A.o(B.P,B.a0V,null)
+B.a0R=new A.a7("Wir arbeiten an den essentiellen Grundlagen f\xfcr einen zuverl\xe4ssigen R\xfcckruf und \xfcben eine entspannte Leinenf\xfchrung in alltagsnahen Situationen. Dabei lernst du, die K\xf6rpersprache deines Hundes besser zu verstehen und baust eine vertrauensvolle Beziehung auf. Das Training in der Gruppe bietet dir ideale \xdcbungsbedingungen: Dein Hund lernt, sich trotz Ablenkung auf dich zu konzentrieren. Dieser Kurs legt wichtige Grundsteine f\xfcr die weitere Entwicklung eures Teams.",null,B.aC,null,null,null,null,null,null,null)
+B.QE=new A.o(B.P,B.a0R,null)
 B.aT=new A.n(!0,B.kB,null,null,null,null,24,B.bS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0A=new A.a7("31.08.2025, 11:00 - 11:45",null,B.aT,null,null,null,null,null,null,null)
-B.QI=new A.o(B.P,B.a0A,null)
-B.a0F=new A.a7("Die Social Walks decken unterschiedliche Bereiche ab, wie z.B. Leinenf\xfchrigkeit, Begegnungstraining oder einfach Spa\xdf und Spiel. Die genauen Termine werden regelm\xe4\xdfig bekannt gegeben.",null,B.aC,null,null,null,null,null,null,null)
-B.QJ=new A.o(B.P,B.a0F,null)
-B.a1O=new A.a7("Ob Kriechen, Balancieren, oder bewusstes Strecken - alles passiert entspannt, angepasst an euren Trainingsstand. So st\xe4rkt ihr Gelenke, K\xf6rpergef\xfchl und eure Beziehung - Schritt f\xfcr Schritt.",null,B.aC,null,null,null,null,null,null,null)
-B.QK=new A.o(B.P,B.a1O,null)
-B.a0t=new A.a7("Auch nach dem Einzug deines neuen Lieblings stehe ich dir mit Rat und Tat zur Seite. So kann sich dein Hund gut einleben und ihr k\xf6nnt gemeinsam zu einem unschlagbaren Team zusammenwachsen.",null,B.aC,null,null,null,null,null,null,null)
-B.QL=new A.o(B.P,B.a0t,null)
-B.a13=new A.a7("Ziel ist es, nicht nur die Bindung zwischen euch zu st\xe4rken, sondern auch wichtige Alltagsfertigkeiten zu festigen. Die \xdcbungen werden individuell an eure Bed\xfcrfnisse angepasst und f\xf6rdern das kreative Denken sowie das Vertrauen in die F\xe4higkeiten eurer Hunde. Gemeinsame Erfolge zu feiern, wird eure Mensch-Hund-Beziehung auf ein neues Level heben.",null,B.aC,null,null,null,null,null,null,null)
-B.QM=new A.o(B.P,B.a13,null)
-B.a14=new A.a7("14.09.2025, 11:00 - 11:45",null,B.aT,null,null,null,null,null,null,null)
-B.QO=new A.o(B.P,B.a14,null)
-B.a0S=new A.a7("Dieser Kurs bietet euch einen abwechslungsreichen Mix aus verschiedenen \xdcbungen der Grunderziehung sowie vielf\xe4ltigen Auslastungsm\xf6glichkeiten. Ihr k\xf6nnt die Talente eurer Hunde entdecken und euch dabei gemeinsam Herausforderungen stellen. Gleichzeitig k\xf6nnen Probleme, die aus mangelnder Auslastung und Kommunikation entstanden sind, sich deutlich verbessern.",null,B.aC,null,null,null,null,null,null,null)
-B.QP=new A.o(B.P,B.a0S,null)
+B.a1v=new A.a7("09.11., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
+B.QI=new A.o(B.P,B.a1v,null)
+B.a1L=new A.a7("07.12., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
+B.QJ=new A.o(B.P,B.a1L,null)
+B.a0B=new A.a7("Die Social Walks decken unterschiedliche Bereiche ab, wie z.B. Leinenf\xfchrigkeit, Begegnungstraining oder einfach Spa\xdf und Spiel. Die genauen Termine werden regelm\xe4\xdfig bekannt gegeben.",null,B.aC,null,null,null,null,null,null,null)
+B.QK=new A.o(B.P,B.a0B,null)
+B.a1N=new A.a7("Ob Kriechen, Balancieren, oder bewusstes Strecken - alles passiert entspannt, angepasst an euren Trainingsstand. So st\xe4rkt ihr Gelenke, K\xf6rpergef\xfchl und eure Beziehung - Schritt f\xfcr Schritt.",null,B.aC,null,null,null,null,null,null,null)
+B.QL=new A.o(B.P,B.a1N,null)
+B.a0s=new A.a7("Auch nach dem Einzug deines neuen Lieblings stehe ich dir mit Rat und Tat zur Seite. So kann sich dein Hund gut einleben und ihr k\xf6nnt gemeinsam zu einem unschlagbaren Team zusammenwachsen.",null,B.aC,null,null,null,null,null,null,null)
+B.QM=new A.o(B.P,B.a0s,null)
+B.a11=new A.a7("Ziel ist es, nicht nur die Bindung zwischen euch zu st\xe4rken, sondern auch wichtige Alltagsfertigkeiten zu festigen. Die \xdcbungen werden individuell an eure Bed\xfcrfnisse angepasst und f\xf6rdern das kreative Denken sowie das Vertrauen in die F\xe4higkeiten eurer Hunde. Gemeinsame Erfolge zu feiern, wird eure Mensch-Hund-Beziehung auf ein neues Level heben.",null,B.aC,null,null,null,null,null,null,null)
+B.QN=new A.o(B.P,B.a11,null)
+B.a10=new A.a7("16.11., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
+B.QP=new A.o(B.P,B.a10,null)
+B.a0O=new A.a7("Dieser Kurs bietet euch einen abwechslungsreichen Mix aus verschiedenen \xdcbungen der Grunderziehung sowie vielf\xe4ltigen Auslastungsm\xf6glichkeiten. Ihr k\xf6nnt die Talente eurer Hunde entdecken und euch dabei gemeinsam Herausforderungen stellen. Gleichzeitig k\xf6nnen Probleme, die aus mangelnder Auslastung und Kommunikation entstanden sind, sich deutlich verbessern.",null,B.aC,null,null,null,null,null,null,null)
+B.QQ=new A.o(B.P,B.a0O,null)
 B.Zd=new A.n(!0,B.aW,null,null,null,null,14,B.ay,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a1J=new A.a7("HUNDETRAINING",null,B.Zd,null,null,null,null,null,null,null)
-B.QQ=new A.o(B.e,B.a1J,null)
-B.a1Z=new A.a7("13.06.2025, 17:00 - 18:30",null,B.aT,null,null,null,null,null,null,null)
-B.QR=new A.o(B.P,B.a1Z,null)
-B.a0C=new A.a7("21.09.2025, 11:00 - 11:45",null,B.aT,null,null,null,null,null,null,null)
-B.QT=new A.o(B.P,B.a0C,null)
-B.a0c=new A.a7("05.10.2025, 11:00 - 11:45",null,B.aT,null,null,null,null,null,null,null)
-B.QW=new A.o(B.P,B.a0c,null)
+B.a1G=new A.a7("HUNDETRAINING",null,B.Zd,null,null,null,null,null,null,null)
+B.QR=new A.o(B.e,B.a1G,null)
+B.a1Y=new A.a7("13.06.2025, 17:00 - 18:30",null,B.aT,null,null,null,null,null,null,null)
+B.QS=new A.o(B.P,B.a1Y,null)
+B.a1n=new A.a7("14.12., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
+B.QX=new A.o(B.P,B.a1n,null)
+B.a0Y=new A.a7("04.01., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
+B.QY=new A.o(B.P,B.a0Y,null)
 B.IW=new A.ag(32,0,0,0)
 B.a_7=new A.n(!0,B.aW,null,"PlayfairDisplay",null,null,40,B.ay,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0E=new A.a7("Professionelles Hundetraining",null,B.a_7,null,null,null,null,null,null,null)
-B.QY=new A.o(B.IW,B.a0E,null)
-B.a1m=new A.a7("24.08.2025, 11:00 - 11:45",null,B.aT,null,null,null,null,null,null,null)
-B.R_=new A.o(B.P,B.a1m,null)
-B.a0T=new A.a7("Hast du ein bestimmtes Thema im Kopf? Oder m\xf6chtest du einen Walk mit deiner eigenen Gruppe organisieren? Melde dich gerne bei mir und wir konzipieren gemeinsam einen Walk nach deinen/ euren W\xfcnschen.",null,B.aC,null,null,null,null,null,null,null)
-B.R0=new A.o(B.P,B.a0T,null)
-B.a1x=new A.a7("12.10.2025, 11:00 - 11:45",null,B.aT,null,null,null,null,null,null,null)
-B.R1=new A.o(B.P,B.a1x,null)
+B.a0A=new A.a7("Professionelles Hundetraining",null,B.a_7,null,null,null,null,null,null,null)
+B.QZ=new A.o(B.IW,B.a0A,null)
+B.a0P=new A.a7("Hast du ein bestimmtes Thema im Kopf? Oder m\xf6chtest du einen Walk mit deiner eigenen Gruppe organisieren? Melde dich gerne bei mir und wir konzipieren gemeinsam einen Walk nach deinen/ euren W\xfcnschen.",null,B.aC,null,null,null,null,null,null,null)
+B.R0=new A.o(B.P,B.a0P,null)
 B.DW=new A.pw(60332,"Clarity","icons_plus",!1)
 B.JV=new A.e8(B.DW,40,null,null,null)
 B.d8=new A.o(B.e,B.JV,null)
-B.a1n=new A.a7("11.05.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
-B.R4=new A.o(B.P,B.a1n,null)
+B.a1j=new A.a7("11.05.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
+B.R3=new A.o(B.P,B.a1j,null)
+B.a1M=new A.a7("21.12., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
+B.R5=new A.o(B.P,B.a1M,null)
 B.IZ=new A.ag(32,8,0,0)
 B.WU=new A.n(!0,B.aW,null,"PlayfairDisplay",null,null,28,B.ay,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a1_=new A.a7("Gemeinsam mit Spa\xdf zum Erfolg",null,B.WU,null,null,null,null,null,null,null)
-B.R6=new A.o(B.IZ,B.a1_,null)
-B.a0r=new A.a7("Hier hilft ein Blick von au\xdfen! Ich unterst\xfctze und berate dich gerne, um gemeinsam den idealen Hund zu finden. Deine W\xfcnsche und Lebensumst\xe4nde sind dabei ausschlaggebend f\xfcr die Wahl des passenden Vierbeiners. Mit Bauchgef\xfchl und fundiertem Praxiswissen machen wir uns zusammen auf die spannende Suche nach dem perfekten Match.",null,B.aC,null,null,null,null,null,null,null)
-B.R7=new A.o(B.P,B.a0r,null)
-B.a0u=new A.a7("27.04.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
-B.Ra=new A.o(B.P,B.a0u,null)
-B.a0O=new A.a7("13.04.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
-B.Rc=new A.o(B.P,B.a0O,null)
-B.a0n=new A.a7("06.04.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
-B.Rd=new A.o(B.P,B.a0n,null)
-B.a1P=new A.a7("Jedes Coaching beginnt mit einem ausf\xfchrlichen Erstgespr\xe4ch, in dem wir den aktuellen Stand der Dinge analysieren und gemeinsam Ziele festlegen. Dabei legen wir besonderen Wert darauf, das Verhalten deines Hundes zu verstehen und m\xf6gliche Missverst\xe4ndnisse in eurer Kommunikation aufzudecken.",null,B.aC,null,null,null,null,null,null,null)
-B.Re=new A.o(B.P,B.a1P,null)
-B.a19=new A.a7("Bei Fragen schreibt mich an. Wir freuen uns auf Euch!",null,B.aC,null,null,null,null,null,null,null)
-B.Rf=new A.o(B.P,B.a19,null)
-B.a1i=new A.a7("16.03.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
-B.Rg=new A.o(B.P,B.a1i,null)
-B.a0z=new A.a7("28.09.2025, 11:00 - 11:45",null,B.aT,null,null,null,null,null,null,null)
-B.Rh=new A.o(B.P,B.a0z,null)
-B.a1l=new A.a7("04.05.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
-B.Ri=new A.o(B.P,B.a1l,null)
-B.a0J=new A.a7("Wenn du dir Sorgen machst oder ein unerwartetes Ereignis aufgetreten ist und du dringend Hilfe ben\xf6tigst, stehe ich dir gerne zur Verf\xfcgung. Kontaktiere mich und ich werde mein Bestes tun, um einen Termin zu finden, der dir passt. Falls ein pers\xf6nliches Treffen gerade nicht m\xf6glich ist, k\xf6nnen wir gerne telefonieren, um L\xf6sungen aus der Ferne zu besprechen.",null,B.aC,null,null,null,null,null,null,null)
-B.Rj=new A.o(B.P,B.a0J,null)
+B.a0W=new A.a7("Gemeinsam mit Spa\xdf zum Erfolg",null,B.WU,null,null,null,null,null,null,null)
+B.R6=new A.o(B.IZ,B.a0W,null)
+B.a1Z=new A.a7("30.11., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
+B.R7=new A.o(B.P,B.a1Z,null)
+B.a0q=new A.a7("Hier hilft ein Blick von au\xdfen! Ich unterst\xfctze und berate dich gerne, um gemeinsam den idealen Hund zu finden. Deine W\xfcnsche und Lebensumst\xe4nde sind dabei ausschlaggebend f\xfcr die Wahl des passenden Vierbeiners. Mit Bauchgef\xfchl und fundiertem Praxiswissen machen wir uns zusammen auf die spannende Suche nach dem perfekten Match.",null,B.aC,null,null,null,null,null,null,null)
+B.R8=new A.o(B.P,B.a0q,null)
+B.a0t=new A.a7("27.04.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
+B.Rb=new A.o(B.P,B.a0t,null)
+B.a0K=new A.a7("13.04.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
+B.Rd=new A.o(B.P,B.a0K,null)
+B.a0m=new A.a7("06.04.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
+B.Re=new A.o(B.P,B.a0m,null)
+B.a1O=new A.a7("Jedes Coaching beginnt mit einem ausf\xfchrlichen Erstgespr\xe4ch, in dem wir den aktuellen Stand der Dinge analysieren und gemeinsam Ziele festlegen. Dabei legen wir besonderen Wert darauf, das Verhalten deines Hundes zu verstehen und m\xf6gliche Missverst\xe4ndnisse in eurer Kommunikation aufzudecken.",null,B.aC,null,null,null,null,null,null,null)
+B.Rf=new A.o(B.P,B.a1O,null)
+B.a16=new A.a7("Bei Fragen schreibt mich an. Wir freuen uns auf Euch!",null,B.aC,null,null,null,null,null,null,null)
+B.Rg=new A.o(B.P,B.a16,null)
+B.a1f=new A.a7("16.03.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
+B.Rh=new A.o(B.P,B.a1f,null)
+B.a1i=new A.a7("04.05.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
+B.Ri=new A.o(B.P,B.a1i,null)
+B.a0F=new A.a7("Wenn du dir Sorgen machst oder ein unerwartetes Ereignis aufgetreten ist und du dringend Hilfe ben\xf6tigst, stehe ich dir gerne zur Verf\xfcgung. Kontaktiere mich und ich werde mein Bestes tun, um einen Termin zu finden, der dir passt. Falls ein pers\xf6nliches Treffen gerade nicht m\xf6glich ist, k\xf6nnen wir gerne telefonieren, um L\xf6sungen aus der Ferne zu besprechen.",null,B.aC,null,null,null,null,null,null,null)
+B.Rj=new A.o(B.P,B.a0F,null)
 B.IY=new A.ag(32,72,0,0)
 B.Aw=new A.n(!0,B.l,null,"Lora",null,null,32,B.af,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a1G=new A.a7("Angebote / Preise",null,B.Aw,null,null,null,null,null,null,null)
-B.Rk=new A.o(B.IY,B.a1G,null)
-B.a0j=new A.a7("07.09.2025, 11:00 - 11:45",null,B.aT,null,null,null,null,null,null,null)
-B.Rl=new A.o(B.P,B.a0j,null)
-B.a12=new A.a7("Themen und Termine",null,B.ii,null,null,null,null,null,null,null)
-B.Rm=new A.o(B.P,B.a12,null)
-B.a0D=new A.a7("Deine W\xfcnsche z\xe4hlen!",null,B.ii,null,null,null,null,null,null,null)
-B.Ro=new A.o(B.P,B.a0D,null)
-B.a1u=new A.a7("23.03.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
-B.Rq=new A.o(B.P,B.a1u,null)
-B.a0m=new A.a7("Termine",null,B.ii,null,null,null,null,null,null,null)
-B.kL=new A.o(B.P,B.a0m,null)
+B.a1D=new A.a7("Angebote / Preise",null,B.Aw,null,null,null,null,null,null,null)
+B.Rk=new A.o(B.IY,B.a1D,null)
+B.a1_=new A.a7("Themen und Termine",null,B.ii,null,null,null,null,null,null,null)
+B.Rl=new A.o(B.P,B.a1_,null)
+B.a0z=new A.a7("Deine W\xfcnsche z\xe4hlen!",null,B.ii,null,null,null,null,null,null,null)
+B.Rn=new A.o(B.P,B.a0z,null)
+B.a1r=new A.a7("23.03.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
+B.Rp=new A.o(B.P,B.a1r,null)
+B.a0l=new A.a7("Termine",null,B.ii,null,null,null,null,null,null,null)
+B.kL=new A.o(B.P,B.a0l,null)
 B.U=new A.alD(1,"down")
 B.ij=new A.n(!0,B.aW,null,null,null,null,null,B.bS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0G=new A.a7("Kontakt",null,B.ij,null,null,null,null,null,null,null)
+B.a0C=new A.a7("Kontakt",null,B.ij,null,null,null,null,null,null,null)
 B.KW=new A.AY(B.oy,20,B.aW,null,null)
-B.R9=new A.o(B.h0,B.KW,null)
+B.Ra=new A.o(B.h0,B.KW,null)
 B.a4=new A.n(!0,B.aW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0g=new A.a7("+49 176 22 89 23 26",null,B.a4,null,null,null,null,null,null,null)
-B.MX=A.b(s([B.R9,B.a0g]),t.p)
+B.a0f=new A.a7("+49 176 22 89 23 26",null,B.a4,null,null,null,null,null,null,null)
+B.MX=A.b(s([B.Ra,B.a0f]),t.p)
 B.T6=new A.dx(B.H,B.f0,B.o,B.w,null,B.U,null,0,B.MX,null)
 B.KV=new A.AY(B.ow,20,B.aW,null,null)
 B.QU=new A.o(B.h0,B.KV,null)
-B.a1I=new A.a7("lea@hey-hund.de",null,B.a4,null,null,null,null,null,null,null)
-B.Rp=new A.o(B.h0,B.a1I,null)
-B.Mt=A.b(s([B.QU,B.Rp]),t.p)
+B.a1F=new A.a7("lea@hey-hund.de",null,B.a4,null,null,null,null,null,null,null)
+B.Ro=new A.o(B.h0,B.a1F,null)
+B.Mt=A.b(s([B.QU,B.Ro]),t.p)
 B.Ta=new A.dx(B.H,B.f0,B.o,B.w,null,B.U,null,0,B.Mt,null)
 B.Ks=new A.AB(B.Ta,A.aXu(),null,null,null,null,null,null,null,null,null,null,null,null,!0,B.aM,null,null,null,null,null,null,null,null,null,!0,!1,null,!1,null,!0,null,null,null)
-B.MY=A.b(s([B.a0G,B.T6,B.Ks]),t.p)
+B.MY=A.b(s([B.a0C,B.T6,B.Ks]),t.p)
 B.Hm=new A.ub(B.ab,B.n,B.o,B.w,null,B.U,null,0,B.MY,null)
-B.Rr=new A.o(B.e,B.Hm,null)
-B.a1Y=new A.a7("Auch wenn dies keine vollst\xe4ndige Alternative zum pers\xf6nlichen Training ist, kann es vor\xfcbergehend Ruhe und Klarheit bringen. Z\xf6gere nicht, mich zu kontaktieren \u2013 ich bin hier, um Euch zu unterst\xfctzen.",null,B.aC,null,null,null,null,null,null,null)
-B.Rs=new A.o(B.P,B.a1Y,null)
-B.a0v=new A.a7("Eine Gemeinschaftsaktion mit Anja von 'fit mit lucy'.",null,B.aC,null,null,null,null,null,null,null)
-B.Rt=new A.o(B.P,B.a0v,null)
-B.a0K=new A.a7("30.03.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
-B.Rv=new A.o(B.P,B.a0K,null)
+B.Rq=new A.o(B.e,B.Hm,null)
+B.a1X=new A.a7("Auch wenn dies keine vollst\xe4ndige Alternative zum pers\xf6nlichen Training ist, kann es vor\xfcbergehend Ruhe und Klarheit bringen. Z\xf6gere nicht, mich zu kontaktieren \u2013 ich bin hier, um Euch zu unterst\xfctzen.",null,B.aC,null,null,null,null,null,null,null)
+B.Rr=new A.o(B.P,B.a1X,null)
+B.a0u=new A.a7("Eine Gemeinschaftsaktion mit Anja von 'fit mit lucy'.",null,B.aC,null,null,null,null,null,null,null)
+B.Rs=new A.o(B.P,B.a0u,null)
+B.a0G=new A.a7("30.03.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
+B.Ru=new A.o(B.P,B.a0G,null)
+B.a0j=new A.a7("23.11., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
+B.Rw=new A.o(B.P,B.a0j,null)
 B.Ry=new A.BP(null)
 B.bY=new A.O1(0,"fill")
 B.Rz=new A.O2(0,"fill")
@@ -96755,14 +96755,14 @@ B.DY=new A.pw(60451,"Clarity","icons_plus",!1)
 B.K2=new A.e8(B.DY,40,B.m,null,null)
 B.QF=new A.o(B.c9,B.K2,null)
 B.a_N=new A.n(!0,B.m,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0P=new A.a7("0176 22 89 26 23",null,B.a_N,null,null,null,null,null,null,null)
-B.R8=new A.o(B.e,B.a0P,null)
-B.LZ=A.b(s([B.QF,B.R8]),t.p)
+B.a0L=new A.a7("0176 22 89 26 23",null,B.a_N,null,null,null,null,null,null,null)
+B.R9=new A.o(B.e,B.a0L,null)
+B.LZ=A.b(s([B.QF,B.R9]),t.p)
 B.SV=new A.dx(B.H,B.f0,B.o,B.w,null,B.U,null,0,B.LZ,null)
 B.aK=new A.n(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a1c=new A.a7("unterschiedliche Orte in der Natur",null,B.aK,null,null,null,null,null,null,null)
-B.R3=new A.o(B.e,B.a1c,null)
-B.LR=A.b(s([B.d8,B.R3]),t.p)
+B.a19=new A.a7("unterschiedliche Orte in der Natur",null,B.aK,null,null,null,null,null,null,null)
+B.R2=new A.o(B.e,B.a19,null)
+B.LR=A.b(s([B.d8,B.R2]),t.p)
 B.SW=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.LR,null)
 B.DZ=new A.pw(60643,"Clarity","icons_plus",!1)
 B.K_=new A.e8(B.DZ,40,null,null,null)
@@ -96771,64 +96771,64 @@ B.a22=new A.a7("69 \u20ac je Stunde",null,B.aK,null,null,null,null,null,null,nul
 B.QC=new A.o(B.e,B.a22,null)
 B.LV=A.b(s([B.d9,B.QC]),t.p)
 B.SX=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.LV,null)
-B.a1o=new A.a7("Von Hausbesuch bis Wiese",null,B.aK,null,null,null,null,null,null,null)
-B.QN=new A.o(B.e,B.a1o,null)
-B.MT=A.b(s([B.d8,B.QN]),t.p)
+B.a1k=new A.a7("Von Hausbesuch bis Wiese",null,B.aK,null,null,null,null,null,null,null)
+B.QO=new A.o(B.e,B.a1k,null)
+B.MT=A.b(s([B.d8,B.QO]),t.p)
 B.SY=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.MT,null)
-B.a1h=new A.a7("Telefonisch",null,B.aK,null,null,null,null,null,null,null)
-B.Rx=new A.o(B.e,B.a1h,null)
+B.a1e=new A.a7("Telefonisch",null,B.aK,null,null,null,null,null,null,null)
+B.Rx=new A.o(B.e,B.a1e,null)
 B.L2=A.b(s([B.d8,B.Rx]),t.p)
 B.SZ=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.L2,null)
 B.DV=new A.pw(59864,"Clarity","icons_plus",!1)
 B.JZ=new A.e8(B.DV,40,null,null,null)
 B.f4=new A.o(B.e,B.JZ,null)
-B.a1g=new A.a7("3 Termine je 1h",null,B.aK,null,null,null,null,null,null,null)
-B.R5=new A.o(B.e,B.a1g,null)
-B.Mb=A.b(s([B.f4,B.R5]),t.p)
+B.a1d=new A.a7("3 Termine je 1h",null,B.aK,null,null,null,null,null,null,null)
+B.R4=new A.o(B.e,B.a1d,null)
+B.Mb=A.b(s([B.f4,B.R4]),t.p)
 B.T_=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Mb,null)
-B.a1L=new A.a7("69\u20ac je Stunde",null,B.aK,null,null,null,null,null,null,null)
-B.Rn=new A.o(B.e,B.a1L,null)
-B.Mi=A.b(s([B.d9,B.Rn]),t.p)
+B.a1I=new A.a7("69\u20ac je Stunde",null,B.aK,null,null,null,null,null,null,null)
+B.Rm=new A.o(B.e,B.a1I,null)
+B.Mi=A.b(s([B.d9,B.Rm]),t.p)
 B.T0=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Mi,null)
-B.a10=new A.a7("insgesamt 20\u20ac pro Hund",null,B.aK,null,null,null,null,null,null,null)
-B.QS=new A.o(B.e,B.a10,null)
-B.Nb=A.b(s([B.d9,B.QS]),t.p)
+B.a0X=new A.a7("insgesamt 20\u20ac pro Hund",null,B.aK,null,null,null,null,null,null,null)
+B.QT=new A.o(B.e,B.a0X,null)
+B.Nb=A.b(s([B.d9,B.QT]),t.p)
 B.T1=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Nb,null)
 B.a2_=new A.a7("30\u20ac je 30 Minuten",null,B.aK,null,null,null,null,null,null,null)
-B.R2=new A.o(B.e,B.a2_,null)
-B.N1=A.b(s([B.d9,B.R2]),t.p)
+B.R1=new A.o(B.e,B.a2_,null)
+B.N1=A.b(s([B.d9,B.R1]),t.p)
 B.T2=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.N1,null)
-B.a0f=new A.a7("20\u20ac je Stunde und Hund",null,B.aK,null,null,null,null,null,null,null)
-B.QH=new A.o(B.e,B.a0f,null)
+B.a0e=new A.a7("20\u20ac je Stunde und Hund",null,B.aK,null,null,null,null,null,null,null)
+B.QH=new A.o(B.e,B.a0e,null)
 B.Md=A.b(s([B.d9,B.QH]),t.p)
 B.T3=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Md,null)
-B.a1A=new A.a7("insgesamt 160\u20ac pro Hund",null,B.aK,null,null,null,null,null,null,null)
-B.QZ=new A.o(B.e,B.a1A,null)
-B.LU=A.b(s([B.d9,B.QZ]),t.p)
+B.a1x=new A.a7("insgesamt 160\u20ac pro Hund",null,B.aK,null,null,null,null,null,null,null)
+B.R_=new A.o(B.e,B.a1x,null)
+B.LU=A.b(s([B.d9,B.R_]),t.p)
 B.T4=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.LU,null)
-B.a1t=new A.a7("nach Absprache",null,B.aK,null,null,null,null,null,null,null)
-B.Rw=new A.o(B.e,B.a1t,null)
-B.Mh=A.b(s([B.d8,B.Rw]),t.p)
+B.a1q=new A.a7("nach Absprache",null,B.aK,null,null,null,null,null,null,null)
+B.Rv=new A.o(B.e,B.a1q,null)
+B.Mh=A.b(s([B.d8,B.Rv]),t.p)
 B.T5=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Mh,null)
-B.a1X=new A.a7("90min",null,B.aK,null,null,null,null,null,null,null)
-B.QV=new A.o(B.e,B.a1X,null)
+B.a1W=new A.a7("90min",null,B.aK,null,null,null,null,null,null,null)
+B.QV=new A.o(B.e,B.a1W,null)
 B.Lr=A.b(s([B.f4,B.QV]),t.p)
 B.T7=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Lr,null)
-B.a1R=new A.a7("Individuell nach Absprache",null,B.aK,null,null,null,null,null,null,null)
-B.QX=new A.o(B.e,B.a1R,null)
-B.Ma=A.b(s([B.f4,B.QX]),t.p)
+B.a1Q=new A.a7("Individuell nach Absprache",null,B.aK,null,null,null,null,null,null,null)
+B.QW=new A.o(B.e,B.a1Q,null)
+B.Ma=A.b(s([B.f4,B.QW]),t.p)
 B.kS=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Ma,null)
-B.a0Y=new A.a7("8 Termine je 45min",null,B.aK,null,null,null,null,null,null,null)
-B.Rb=new A.o(B.e,B.a0Y,null)
-B.N0=A.b(s([B.f4,B.Rb]),t.p)
+B.a0U=new A.a7("8 Termine je 45min",null,B.aK,null,null,null,null,null,null,null)
+B.Rc=new A.o(B.e,B.a0U,null)
+B.N0=A.b(s([B.f4,B.Rc]),t.p)
 B.T8=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.N0,null)
-B.a1z=new A.a7("1h",null,B.aK,null,null,null,null,null,null,null)
-B.QG=new A.o(B.e,B.a1z,null)
+B.a1w=new A.a7("1h",null,B.aK,null,null,null,null,null,null,null)
+B.QG=new A.o(B.e,B.a1w,null)
 B.LP=A.b(s([B.f4,B.QG]),t.p)
 B.T9=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.LP,null)
-B.a1v=new A.a7("insgesamt 54\u20ac pro Hund",null,B.aK,null,null,null,null,null,null,null)
-B.Ru=new A.o(B.e,B.a1v,null)
-B.M_=A.b(s([B.d9,B.Ru]),t.p)
+B.a1s=new A.a7("insgesamt 54\u20ac pro Hund",null,B.aK,null,null,null,null,null,null,null)
+B.Rt=new A.o(B.e,B.a1s,null)
+B.M_=A.b(s([B.d9,B.Rt]),t.p)
 B.Tb=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.M_,null)
 B.Tc=new A.Pv(null,null)
 B.dd=new A.rh(0,"idle")
@@ -97053,18 +97053,18 @@ B.V9=new A.I(80,47.5)
 B.Va=new A.I(77.37,37.9)
 B.aJ=new A.hj(0,0,null,null)
 B.Vc=new A.hj(20,null,null,null)
-B.a0p=new A.a7("This website uses cookies. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you\u2019ve provided to them or that they\u2019ve collected from your use of their services. ",null,B.a4,null,null,null,null,null,null,null)
-B.a1W=new A.a7("Cookies are small text files that can be used by websites to make a user's experience more efficient.",null,B.a4,null,null,null,null,null,null,null)
-B.a0R=new A.a7("The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.",null,B.a4,null,null,null,null,null,null,null)
-B.a1V=new A.a7("This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.",null,B.a4,null,null,null,null,null,null,null)
-B.a0U=new A.a7("You can at any time change or withdraw your consent from the Cookie Declaration on our website.",null,B.a4,null,null,null,null,null,null,null)
-B.a1s=new A.a7("Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.",null,B.a4,null,null,null,null,null,null,null)
-B.a0y=new A.a7("Please state your consent ID and date when you contact us regarding your consent.",null,B.a4,null,null,null,null,null,null,null)
-B.a1b=new A.a7("Cookie declaration last updated on 22.10.2023 by ",null,B.a4,null,null,null,null,null,null,null)
-B.a0k=new A.a7("Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.",null,B.a4,null,null,null,null,null,null,null)
-B.a1f=new A.a7("Name: CookieConsent, Provider: gollnickdata.de, Purpose: Stores the user's cookie consent state for the current domain, Expiry: 1year, Type: HTTP Cookie",null,B.a4,null,null,null,null,null,null,null)
+B.a0o=new A.a7("This website uses cookies. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you\u2019ve provided to them or that they\u2019ve collected from your use of their services. ",null,B.a4,null,null,null,null,null,null,null)
+B.a1V=new A.a7("Cookies are small text files that can be used by websites to make a user's experience more efficient.",null,B.a4,null,null,null,null,null,null,null)
+B.a0N=new A.a7("The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.",null,B.a4,null,null,null,null,null,null,null)
+B.a1U=new A.a7("This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.",null,B.a4,null,null,null,null,null,null,null)
+B.a0Q=new A.a7("You can at any time change or withdraw your consent from the Cookie Declaration on our website.",null,B.a4,null,null,null,null,null,null,null)
+B.a1p=new A.a7("Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.",null,B.a4,null,null,null,null,null,null,null)
+B.a0x=new A.a7("Please state your consent ID and date when you contact us regarding your consent.",null,B.a4,null,null,null,null,null,null,null)
+B.a18=new A.a7("Cookie declaration last updated on 22.10.2023 by ",null,B.a4,null,null,null,null,null,null,null)
+B.a0i=new A.a7("Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.",null,B.a4,null,null,null,null,null,null,null)
+B.a1c=new A.a7("Name: CookieConsent, Provider: gollnickdata.de, Purpose: Stores the user's cookie consent state for the current domain, Expiry: 1year, Type: HTTP Cookie",null,B.a4,null,null,null,null,null,null,null)
 B.Vf=new A.hj(null,10,null,null)
-B.M7=A.b(s([B.a0p,B.a1W,B.a0R,B.a1V,B.a0U,B.a1s,B.a0y,B.a1b,B.a0k,B.a1f,B.Vf]),t.p)
+B.M7=A.b(s([B.a0o,B.a1V,B.a0N,B.a1U,B.a0Q,B.a1p,B.a0x,B.a18,B.a0i,B.a1c,B.Vf]),t.p)
 B.Hl=new A.ub(B.ab,B.n,B.o,B.J,null,B.U,null,0,B.M7,null)
 B.V2=new A.Dk(null,B.Hl,null)
 B.Ve=new A.hj(350,600,B.V2,null)
@@ -97084,8 +97084,8 @@ B.Vo=new A.kG(3,"hide")
 B.a5t=new A.kG(4,"remove")
 B.A5=new A.kG(5,"timeout")
 B.Vp=new A.w7(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a1F=new A.a7("Nachricht wurde erfolgreich gesendet",null,null,null,null,null,null,null,null,null)
-B.Vq=new A.rC(B.a1F,B.kB,null,null,null,null,null,null,null,null,null,!0,null,B.Iw,null,null,null,B.Q,null)
+B.a1C=new A.a7("Nachricht wurde erfolgreich gesendet",null,null,null,null,null,null,null,null,null)
+B.Vq=new A.rC(B.a1C,B.kB,null,null,null,null,null,null,null,null,null,!0,null,B.Iw,null,null,null,B.Q,null)
 B.A6=new A.Dv(0,"permissive")
 B.Vr=new A.Dv(1,"normal")
 B.Vs=new A.Dv(2,"forced")
@@ -97480,58 +97480,58 @@ B.a_h=new A.n(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,nul
 B.Xd=new A.n(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.a0b=new A.ed(B.YU,B.XW,B.YV,B.Zw,B.XA,B.XH,B.Yh,B.Zj,B.Yv,B.a_2,B.X3,B.Xo,B.ZZ,B.a_h,B.Xd)
 B.ik=new A.n(!0,B.aW,null,"Lora",null,null,24,B.ay,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0d=new A.a7("\xdcber Mich",null,B.ik,null,null,null,null,null,null,null)
-B.a0e=new A.a7("Philosophie",null,B.a4,null,null,null,null,null,null,null)
-B.a0h=new A.a7("Hier steht der gemeinsame Spa\xdf von Hund und Mensch im Vordergrund. ",null,B.aC,null,null,null,null,null,null,null)
-B.a0i=new A.a7("Lege gemeinsam mit deinem Hund das Fundament f\xfcr einen entspannten Alltag. In unserem Basis-Kurs lernst du nicht nur die wichtigsten Signale, sondern entwickelst vor allem eine klare und freudige Kommunikation mit deinem Hund. Der Fokus liegt darauf, dass dein Vierbeiner motiviert auf dich reagiert \u2013 die beste Grundlage f\xfcr alle weiteren Trainingsschritte.",null,B.aC,null,null,null,null,null,null,null)
-B.a0l=new A.a7("Hey Hund",null,B.ik,null,null,null,null,null,null,null)
-B.a0o=new A.a7("Einzeltraining",null,null,null,null,null,null,null,null,null)
+B.a0c=new A.a7("\xdcber Mich",null,B.ik,null,null,null,null,null,null,null)
+B.a0d=new A.a7("Philosophie",null,B.a4,null,null,null,null,null,null,null)
+B.a0g=new A.a7("Hier steht der gemeinsame Spa\xdf von Hund und Mensch im Vordergrund. ",null,B.aC,null,null,null,null,null,null,null)
+B.a0h=new A.a7("Lege gemeinsam mit deinem Hund das Fundament f\xfcr einen entspannten Alltag. In unserem Basis-Kurs lernst du nicht nur die wichtigsten Signale, sondern entwickelst vor allem eine klare und freudige Kommunikation mit deinem Hund. Der Fokus liegt darauf, dass dein Vierbeiner motiviert auf dich reagiert \u2013 die beste Grundlage f\xfcr alle weiteren Trainingsschritte.",null,B.aC,null,null,null,null,null,null,null)
+B.a0k=new A.a7("Hey Hund",null,B.ik,null,null,null,null,null,null,null)
+B.a0n=new A.a7("Einzeltraining",null,null,null,null,null,null,null,null,null)
 B.Ax=new A.n(!0,B.m,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0q=new A.a7("Jetzt anmelden",null,B.Ax,null,null,null,null,null,null,null)
-B.a0s=new A.a7("Bei Move Your Dog gehen wir gemeinsam durch den Wald - mit kleinen Bewegungseinheiten, die gezielt die Mobilit\xe4t deines Hundes und Euer Miteinander f\xf6rdern. ",null,B.aC,null,null,null,null,null,null,null)
-B.a0w=new A.a7("Im Einzeltraining steht ihr im Mittelpunkt. Ich nehme mir Zeit, um Fragen und eventuelle Probleme genau zu verstehen und eine passgenaue L\xf6sung zu entwickeln. ",null,B.aC,null,null,null,null,null,null,null)
-B.a0x=new A.a7("Angebote / Preise",null,B.a4,null,null,null,null,null,null,null)
-B.a0B=new A.a7("Inhaber: Lea Massari",null,B.a4,null,null,null,null,null,null,null)
-B.a0H=new A.a7("Webseite: www.hey-hund.de",null,B.a4,null,null,null,null,null,null,null)
-B.a0I=new A.a7("Philosophie",null,B.ik,null,null,null,null,null,null,null)
-B.a0L=new A.a7("Move Your Dog",null,null,null,null,null,null,null,null,null)
-B.a0M=new A.a7("Datenschutzerkl\xe4rung",null,B.a4,null,null,null,null,null,null,null)
-B.a0N=new A.a7("Rechtliches",null,B.ij,null,null,null,null,null,null,null)
+B.a0p=new A.a7("Jetzt anmelden",null,B.Ax,null,null,null,null,null,null,null)
+B.a0r=new A.a7("Bei Move Your Dog gehen wir gemeinsam durch den Wald - mit kleinen Bewegungseinheiten, die gezielt die Mobilit\xe4t deines Hundes und Euer Miteinander f\xf6rdern. ",null,B.aC,null,null,null,null,null,null,null)
+B.a0v=new A.a7("Im Einzeltraining steht ihr im Mittelpunkt. Ich nehme mir Zeit, um Fragen und eventuelle Probleme genau zu verstehen und eine passgenaue L\xf6sung zu entwickeln. ",null,B.aC,null,null,null,null,null,null,null)
+B.a0w=new A.a7("Angebote / Preise",null,B.a4,null,null,null,null,null,null,null)
+B.a0y=new A.a7("Inhaber: Lea Massari",null,B.a4,null,null,null,null,null,null,null)
+B.a0D=new A.a7("Webseite: www.hey-hund.de",null,B.a4,null,null,null,null,null,null,null)
+B.a0E=new A.a7("Philosophie",null,B.ik,null,null,null,null,null,null,null)
+B.a0H=new A.a7("Move Your Dog",null,null,null,null,null,null,null,null,null)
+B.a0I=new A.a7("Datenschutzerkl\xe4rung",null,B.a4,null,null,null,null,null,null,null)
+B.a0J=new A.a7("Rechtliches",null,B.ij,null,null,null,null,null,null,null)
 B.Y5=new A.n(!0,B.cA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.ic,null,null,null,null,null,null,null,null)
-B.a0Q=new A.a7("(annajuretzka | Fotografin)",null,B.Y5,null,null,null,null,null,null,null)
-B.a0W=new A.a7("Fotografie: Anna Juretzka ",null,B.a4,null,null,null,null,null,null,null)
-B.a0X=new A.a7("Vertretungsberechtigter Gesch\xe4ftsf\xfchrer: Lea Massari",null,B.a4,null,null,null,null,null,null,null)
-B.a0Z=new A.a7("Email: lea@hey-hund.de",null,B.a4,null,null,null,null,null,null,null)
-B.a11=new A.a7("Gesch\xe4ftsbedingungen",null,B.a4,null,null,null,null,null,null,null)
-B.a15=new A.a7("22145 Hamburg",null,B.a4,null,null,null,null,null,null,null)
+B.a0M=new A.a7("(annajuretzka | Fotografin)",null,B.Y5,null,null,null,null,null,null,null)
+B.a0S=new A.a7("Fotografie: Anna Juretzka ",null,B.a4,null,null,null,null,null,null,null)
+B.a0T=new A.a7("Vertretungsberechtigter Gesch\xe4ftsf\xfchrer: Lea Massari",null,B.a4,null,null,null,null,null,null,null)
+B.a0V=new A.a7("Email: lea@hey-hund.de",null,B.a4,null,null,null,null,null,null,null)
+B.a0Z=new A.a7("Gesch\xe4ftsbedingungen",null,B.a4,null,null,null,null,null,null,null)
+B.a12=new A.a7("22145 Hamburg",null,B.a4,null,null,null,null,null,null,null)
 B.Y3=new A.n(!0,B.l,null,"PlayfairDisplay",null,null,40,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a16=new A.a7("\xdcber mich",null,B.Y3,null,null,null,null,null,null,null)
-B.a17=new A.a7("Social Walk",null,null,null,null,null,null,null,null,null)
-B.a18=new A.a7("Nachricht senden",null,B.Ax,null,null,null,null,null,null,null)
-B.a1a=new A.a7("Cookie Policy",null,B.a4,null,null,null,null,null,null,null)
-B.a1d=new A.a7("Gruppentraining",null,null,null,null,null,null,null,null,null)
-B.a1e=new A.a7("Einen Hund zu finden, der perfekt zu dir und deinem Leben passt, ist eine wundervolle und bereichernde Erfahrung. Doch welcher Hund ist der Richtige f\xfcr dich?",null,B.aC,null,null,null,null,null,null,null)
+B.a13=new A.a7("\xdcber mich",null,B.Y3,null,null,null,null,null,null,null)
+B.a14=new A.a7("Social Walk",null,null,null,null,null,null,null,null,null)
+B.a15=new A.a7("Nachricht senden",null,B.Ax,null,null,null,null,null,null,null)
+B.a17=new A.a7("Cookie Policy",null,B.a4,null,null,null,null,null,null,null)
+B.a1a=new A.a7("Gruppentraining",null,null,null,null,null,null,null,null,null)
+B.a1b=new A.a7("Einen Hund zu finden, der perfekt zu dir und deinem Leben passt, ist eine wundervolle und bereichernde Erfahrung. Doch welcher Hund ist der Richtige f\xfcr dich?",null,B.aC,null,null,null,null,null,null,null)
 B.ZE=new A.n(!0,null,null,"Lora",null,null,32,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a1j=new A.a7("Hey",null,B.ZE,null,null,null,null,null,null,null)
-B.a1k=new A.a7("Hunde-Hotline",null,null,null,null,null,null,null,null,null)
-B.a1p=new A.a7("Kontaktdaten",null,B.ij,null,null,null,null,null,null,null)
-B.a1q=new A.a7("Schnelle Hilfe per Online- oder Telefontermin.",null,B.aC,null,null,null,null,null,null,null)
-B.a1w=new A.a7("Angebote / Preise",null,B.ik,null,null,null,null,null,null,null)
-B.a1y=new A.a7("Philosophie",null,B.Aw,null,null,null,null,null,null,null)
-B.a1B=new A.a7("Kontakt",null,null,null,null,null,null,null,null,null)
-B.a1C=new A.a7("\xdcber mich",null,B.a4,null,null,null,null,null,null,null)
-B.a1D=new A.a7("Tel: +49 172 22 89 23 26",null,B.a4,null,null,null,null,null,null,null)
-B.a1E=new A.a7("Name und Sitz des Anbieters",null,B.a4,null,null,null,null,null,null,null)
-B.a1H=new A.a7("Germany",null,B.a4,null,null,null,null,null,null,null)
+B.a1g=new A.a7("Hey",null,B.ZE,null,null,null,null,null,null,null)
+B.a1h=new A.a7("Hunde-Hotline",null,null,null,null,null,null,null,null,null)
+B.a1l=new A.a7("Kontaktdaten",null,B.ij,null,null,null,null,null,null,null)
+B.a1m=new A.a7("Schnelle Hilfe per Online- oder Telefontermin.",null,B.aC,null,null,null,null,null,null,null)
+B.a1t=new A.a7("Angebote / Preise",null,B.ik,null,null,null,null,null,null,null)
+B.a1u=new A.a7("Philosophie",null,B.Aw,null,null,null,null,null,null,null)
+B.a1y=new A.a7("Kontakt",null,null,null,null,null,null,null,null,null)
+B.a1z=new A.a7("\xdcber mich",null,B.a4,null,null,null,null,null,null,null)
+B.a1A=new A.a7("Tel: +49 172 22 89 23 26",null,B.a4,null,null,null,null,null,null,null)
+B.a1B=new A.a7("Name und Sitz des Anbieters",null,B.a4,null,null,null,null,null,null,null)
+B.a1E=new A.a7("Germany",null,B.a4,null,null,null,null,null,null,null)
 B.Ay=new A.a7("Impressum",null,B.a4,null,null,null,null,null,null,null)
-B.a1K=new A.a7("Hey-Hund",null,B.ij,null,null,null,null,null,null,null)
-B.a1M=new A.a7("Kaufberatung",null,null,null,null,null,null,null,null,null)
-B.a1N=new A.a7("Willkommen bei meinen Social Walks. An verschiedenen Orten erkunden wir spannende Themen rund um das Hundetraining.",null,B.aC,null,null,null,null,null,null,null)
-B.a1Q=new A.a7("Lea Massari",null,B.a4,null,null,null,null,null,null,null)
-B.a1S=new A.a7("Spielend Lernen",null,null,null,null,null,null,null,null,null)
+B.a1H=new A.a7("Hey-Hund",null,B.ij,null,null,null,null,null,null,null)
+B.a1J=new A.a7("Kaufberatung",null,null,null,null,null,null,null,null,null)
+B.a1K=new A.a7("Willkommen bei meinen Social Walks. An verschiedenen Orten erkunden wir spannende Themen rund um das Hundetraining.",null,B.aC,null,null,null,null,null,null,null)
+B.a1P=new A.a7("Lea Massari",null,B.a4,null,null,null,null,null,null,null)
+B.a1R=new A.a7("Spielend Lernen",null,null,null,null,null,null,null,null,null)
 B.Za=new A.n(!0,B.l,null,"Lora",null,null,24,B.bS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a1T=new A.a7("Gut zu wissen",null,B.Za,null,null,null,null,null,null,null)
-B.a1U=new A.a7("Angaben gem\xe4\xdf \xa7 5 TMG",null,B.a4,null,null,null,null,null,null,null)
+B.a1S=new A.a7("Gut zu wissen",null,B.Za,null,null,null,null,null,null,null)
+B.a1T=new A.a7("Angaben gem\xe4\xdf \xa7 5 TMG",null,B.a4,null,null,null,null,null,null,null)
 B.a20=new A.a7("Redderblock 28",null,B.a4,null,null,null,null,null,null,null)
 B.a5u=new A.al0(0,"system")
 B.Qb=new A.j(0.056,0.024)
