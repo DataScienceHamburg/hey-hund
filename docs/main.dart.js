@@ -86587,10 +86587,10 @@ $S:0}
 A.pD.prototype={
 an(){return new A.Tk(A.vS(null,null))}}
 A.Tk.prototype={
-L(a){var s,r,q=null,p=A.aG(a,q,t.w).w.a.a<800,o=p?"assets/images/KursEinzeltraining_S.jpg":"assets/images/KursEinzeltraining.jpg",n=t.z
-o=A.au(["title","Einzeltraining","image",o,"participants","1 Teilnehmer","duration","60 Minuten","bannerText","Neu","showBanner",!1,"price","ab 69\u20ac"],n,n)
-s=A.au(["title","Spiel und Spa\xdf f\xfcr eine bessere Bindung","image",p?"assets/images/KursSpielSpass_S.png":"assets/images/KursSpielSpass.png","participants","max. 5 Teilnehmer","duration","3 Termine a 60 Minuten","bannerText","In K\xfcrze","showBanner",!0,"price","54\u20ac"],n,n)
-r=A.b([o,s,A.au(["title","Hunde-Hotline","image",p?"assets/images/Hotline_S.png":"assets/images/Hotline.png","participants","1 Teilnehmer","duration","30 Minuten","bannerText","Neu","showBanner",!0,"price","ab 30\u20ac"],n,n)],t.n4)
+L(a){var s,r,q=null,p=A.aG(a,q,t.w).w.a.a<800?"assets/images/KursEinzeltraining_S.jpg":"assets/images/KursEinzeltraining.jpg",o=t.z
+p=A.au(["title","Einzeltraining","image",p,"participants","1 Teilnehmer","duration","60 Minuten","bannerText","Neu","showBanner",!1,"price","ab 69\u20ac"],o,o)
+s=A.au(["title","Spiel und Spa\xdf f\xfcr eine bessere Bindung","image","assets/images/KursSpielSpass_S.png","participants","max. 5 Teilnehmer","duration","3 Termine a 60 Minuten","bannerText","In K\xfcrze","showBanner",!0,"price","54\u20ac"],o,o)
+r=A.b([p,s,A.au(["title","Hunde-Hotline","image","assets/images/Hotline_S.png","participants","1 Teilnehmer","duration","30 Minuten","bannerText","Neu","showBanner",!0,"price","ab 30\u20ac"],o,o)],t.n4)
 return A.jD(A.k1(a,new A.bc(q,t.sW),"",!0),A.jF(new A.o(B.e,A.bT(A.b([A.aHJ(a,this.d,r)],t.p),B.w,B.n,B.o),q),q),q,!0,!1,q,q)}}
 A.ug.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
@@ -86607,17 +86607,17 @@ o=l?600:375
 return A.jD(s,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Der Schl\xfcssel zum harmonischen Zusammenleben",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0h,B.QE,B.aB,B.kL,B.QI,B.aB,B.QP,B.aB,B.Rw,B.aB,B.R7,B.aB,B.QJ,B.aB,B.QX,B.aB,B.R5,B.aB,B.QY,B.li],m),B.J,B.n,B.o),n,o),n)],m),B.J,q,n,B.n,B.o,0,n,n,B.U),n,r)],m),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.uh.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
-m=A.aG(a,n,m).w
-s=!l
-r=!s||k?A.k1(a,new A.bc(n,t.sW),"Hunde-Hotline",!1):A.mX(n,n,n,n,n,n,B.a1h,n)
-if(l)q=1200
-else q=k?800:375
-s=!s||k?B.H:B.ab
-p=l?400:375
-o=t.p
-p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/Hotline_S.png":"assets/images/Hotline.png",n,n,n),300,p),B.SZ,B.kS,B.T2],o),B.J,B.n,B.o)
-m=l?600:375
-return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Nicht allein - telefonische Unterst\xfctzung",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1m,B.Rj,B.Rr,new A.o(B.IK,A.dO(B.SV,B.A,n,n,new A.dB(B.GB,n,n,A.k9(10),n,n,B.aM),n,n,n,n,n),n)],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
+A.aG(a,n,m).toString
+m=!l
+s=!m||k?A.k1(a,new A.bc(n,t.sW),"Hunde-Hotline",!1):A.mX(n,n,n,n,n,n,B.a1h,n)
+if(l)r=1200
+else r=k?800:375
+m=!m||k?B.H:B.ab
+q=l?400:375
+p=t.p
+q=A.bT(A.b([A.bR(A.fH("assets/images/Hotline_S.png",n,n,n),300,q),B.SZ,B.kS,B.T2],p),B.J,B.n,B.o)
+o=l?600:375
+return A.jD(s,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,q,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Nicht allein - telefonische Unterst\xfctzung",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1m,B.Rj,B.Rr,new A.o(B.IK,A.dO(B.SV,B.A,n,n,new A.dB(B.GB,n,n,A.k9(10),n,n,B.aM),n,n,n,n,n),n)],p),B.J,B.n,B.o),n,o),n)],p),B.J,m,n,B.n,B.o,0,n,n,B.U),n,r)],p),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.ui.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
 A.aG(a,n,m).toString
@@ -86830,8 +86830,12 @@ p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/slider4_new_S.jpg":"assets/images
 m=l?600:375
 return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Hundekaufberatung: Welcher Hund passt zu mir?",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1b,B.R8,B.QM],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.PQ.prototype={
-L(a){var s=null,r=this.c,q=this.d,p=t.p
-return A.dO(A.bR(A.hn(B.bl,A.b([new A.AM(A.dO(s,B.A,s,s,new A.dB(s,new A.us(new A.tK(A.aG(a,s,t.w).w.a.a<800?"assets/images/home_screen_background2_S.jpg":"assets/images/home_screen_background2.jpg",s,s),B.dr),s,s,s,s,B.aM),r,s,s,s,q),B.nT,1.2,s),A.bT(A.b([A.bR(s,r/2,s),B.QZ,B.R6],p),B.J,B.n,B.o)],p),B.Q,B.bO),r,q),B.A,s,s,s,r,this.e,s,s,s)}}
+L(a){var s,r,q,p=null
+A.aG(a,p,t.w).toString
+s=this.c
+r=this.d
+q=t.p
+return A.dO(A.bR(A.hn(B.bl,A.b([new A.AM(A.dO(p,B.A,p,p,new A.dB(p,new A.us(new A.tK("assets/images/home_screen_background2_S.jpg",p,p),B.dr),p,p,p,p,B.aM),s,p,p,p,r),B.nT,1.2,p),A.bT(A.b([A.bR(p,s/2,p),B.QZ,B.R6],q),B.J,B.n,B.o)],q),B.Q,B.bO),s,r),B.A,p,p,p,s,this.e,p,p,p)}}
 A.D0.prototype={
 an(){return new A.XZ()}}
 A.XZ.prototype={
