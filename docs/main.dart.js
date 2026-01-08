@@ -364,7 +364,7 @@ case 2:s=A.b([r],t.s)
 break
 default:s=null}return s},
 aUA(){var s=A.eU().b,r=s==null?null:s.canvasKitVariant
-s=A.aXw(A.aOb(B.Mn,r==null?"auto":r))
+s=A.aXw(A.aOb(B.Mm,r==null?"auto":r))
 return new A.a5(s,new A.avE(),A.a4(s).h("a5<1,h>"))},
 aWH(a,b){return b+a},
 a0E(){var s=0,r=A.R(t.m),q,p,o,n
@@ -19029,7 +19029,7 @@ r.toString
 A.fv(r)
 q=a.i(0,"swipeEdge")
 q.toString
-return new A.Ol(s,r,B.Mc[A.f7(q)])},
+return new A.Ol(s,r,B.Mb[A.f7(q)])},
 DM:function DM(a,b){this.a=a
 this.b=b},
 Ol:function Ol(a,b,c){this.a=a
@@ -21060,7 +21060,7 @@ if(a.as!==q)return q?-1:1
 return 0},
 aO_(a,b){var s=A.a4(b).h("a5<1,dD>")
 s=A.a1(new A.a5(b,new A.a5Q(),s),s.h("az.E"))
-return A.aNs(!0,s,a,B.MC,!0,B.I4,null)},
+return A.aNs(!0,s,a,B.MB,!0,B.I4,null)},
 aNY(a){a.bL()
 a.b7(A.aHY())},
 zX(a){var s=a.a,r=s instanceof A.pW?s:null
@@ -21621,7 +21621,7 @@ _.as=!0
 _.at=!1
 _.$ti=d},
 a9b(a,b){var s
-if(a.j(0,b))return new A.Kg(B.MK)
+if(a.j(0,b))return new A.Kg(B.MJ)
 s=A.b([],t.fJ)
 A.bM("debugDidFindAncestor")
 a.mU(new A.a9c(b,A.aN(t.u),s))
@@ -26209,7 +26209,7 @@ O5(a,b){var s=A.b([],t.g)
 B.b.G(s,a)
 return new A.f2(s,b)},
 aIl(a,b){var s,r,q,p
-if(a==="")return A.O5(B.MN,b==null?B.bM:b)
+if(a==="")return A.O5(B.MM,b==null?B.bM:b)
 s=new A.ak0(a,B.df,a.length)
 s.tJ()
 r=A.b([],t.g)
@@ -30372,7 +30372,7 @@ gu(a){var s=this,r=s.b,q=r!=null?A.bo(r):null
 return A.H(s.a,q,s.c,s.d,s.e,s.x,s.f,s.r,s.w,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)}}
 A.a3a.prototype={
 JL(a,b,c,d){var s,r,q,p
-if(a<0||b<0)return B.MJ
+if(a<0||b<0)return B.MI
 s=this.a
 s===$&&A.a()
 s=s.a
@@ -34036,7 +34036,7 @@ if(r.f!==B.oq){r.f=B.oq
 r.Ps()}}return r.d.a.a_3(a)},
 Ps(){var s,r
 for(s=this.w,r=0;r<s.length;++r)s[r].$1(this.f)},
-a_0(a){if(B.b.p(B.Mv,a))return this.f===B.hd
+a_0(a){if(B.b.p(B.Mu,a))return this.f===B.hd
 return!1}}
 A.a6o.prototype={
 $0(){return new A.fE(Date.now(),0,!1)},
@@ -39583,7 +39583,7 @@ if(o>0)return s
 return null}}
 A.amV.prototype={
 D(a,b){this.MR(0,b,0,b.length,!1)},
-aQ(a){this.MR(0,B.Mz,0,0,!0)}}
+aQ(a){this.MR(0,B.My,0,0,!0)}}
 A.av1.prototype={
 MR(a,b,c,d,e){var s=this.b.am_(b,c,d,e)
 if(s!=null)this.a.fU(s,0,s.length,e)}}
@@ -44174,7 +44174,7 @@ r=A.ky(B.PV,B.h,r==null?1:r)
 r.toString
 q=p.ao(0,q.gq(q))
 if(q==null)q=1
-return A.aFr(A.aEs(null,B.A,new A.vc(q,B.M9,new A.cE(B.C6,this.e)),s,1,B.V8),r)}}
+return A.aFr(A.aEs(null,B.A,new A.vc(q,B.M8,new A.cE(B.C6,this.e)),s,1,B.V8),r)}}
 A.Iw.prototype={
 l(){var s=this,r=s.cb$
 if(r!=null)r.I(0,s.gje())
@@ -47404,7 +47404,7 @@ n=o.f
 o=o.cx
 r=q.gac7()
 q.a.toString
-return new A.EF(p,p,p,new A.aqY(),p,p,p,p,p,p,n,p,p,p,B.MD,q.gace(),o,p,B.Ys,s,p,r,p,p,B.oT,!1,!1,p,p,p,new A.q7(q,t.bT))},
+return new A.EF(p,p,p,new A.aqY(),p,p,p,p,p,p,n,p,p,p,B.MC,q.gace(),o,p,B.Ys,s,p,r,p,p,B.oT,!1,!1,p,p,p,new A.q7(q,t.bT))},
 L(a){var s,r=null,q=A.pY(!1,!1,this.a4Z(a),r,r,r,r,!0,r,r,r,new A.aqZ(),r,r)
 this.a.toString
 s=this.d
@@ -47720,7 +47720,7 @@ A.wU.prototype={
 H(){return"_CornerId."+this.b}}
 A.mw.prototype={}
 A.vd.prototype={
-kQ(){var s,r,q=this,p=A.aVI(B.Mr,new A.acM(q,q.b.gaP().W(0,q.a.gaP()))),o=q.a
+kQ(){var s,r,q=this,p=A.aVI(B.Mq,new A.acM(q,q.b.gaP().W(0,q.a.gaP()))),o=q.a
 o.toString
 s=p.a
 o=q.pk(o,s)
@@ -52168,7 +52168,7 @@ r.e=s.a.a
 r.f=s.d},
 $S:0}
 A.Nk.prototype={
-L(a){return A.aEs(new A.na(B.H7,null,null),B.P,new A.vc(1,B.MS,new A.cE(B.C4,B.x)),this.c.a_(0,new A.j(0,40.95)),1.25,B.V9)}}
+L(a){return A.aEs(new A.na(B.H7,null,null),B.P,new A.vc(1,B.MR,new A.cE(B.C4,B.x)),this.c.a_(0,new A.j(0,40.95)),1.25,B.V9)}}
 A.qE.prototype={
 H(){return"MaterialType."+this.b}}
 A.Ba.prototype={
@@ -52554,7 +52554,7 @@ gjk(){return A.aYE()},
 TO(a,b,c,d,e,f){return A.aN9(a,b,c,d,e,f)}}
 A.NZ.prototype={
 a4q(a){var s=t.Tr
-s=A.a1(new A.a5(B.Mq,new A.aer(a),s),s.h("az.E"))
+s=A.a1(new A.a5(B.Mp,new A.aer(a),s),s.h("az.E"))
 return s},
 j(a,b){if(b==null)return!1
 if(this===b)return!0
@@ -57655,10 +57655,10 @@ dH(a){var s,r,q=this.b,p=q.a.c,o=a.W(0,q.gig())
 p=p.a
 p===$&&A.a()
 s=p.a.getGlyphPositionAtCoordinate(o.a,o.b)
-r=B.Me[J.ac(s.affinity.value)]
+r=B.Md[J.ac(s.affinity.value)]
 return new A.at(J.ac(s.pos),r)},
 uk(){var s,r,q=this.b,p=q.gig()
-if(!isFinite(p.a)||!isFinite(p.b))return B.MM
+if(!isFinite(p.a)||!isFinite(p.b))return B.ML
 s=q.f
 if(s==null){s=q.a.c.uk()
 q.f=s}if(p.j(0,B.h))r=s
@@ -66869,7 +66869,7 @@ break
 case 1:return A.P(q,r)}})
 return A.Q($async$DN,r)},
 a7H(a,b){var s,r,q,p
-if(a===b)return B.MI
+if(a===b)return B.MH
 s=A.b([],t.QP)
 if(a==null)s.push(b)
 else{r=B.b.dB(B.eO,a)
@@ -68714,7 +68714,7 @@ A.m3.prototype={}
 A.Oq.prototype={
 lg(a,b,c){var s,r,q,p,o,n=$.ah.N$.d.c
 if(n==null||n.e==null)return!1
-for(s=t.J,r=0;r<2;++r){q=B.Mx[r]
+for(s=t.J,r=0;r<2;++r){q=B.Mw[r]
 p=n.e
 p.toString
 o=A.ay_(p,q,s)
@@ -71047,7 +71047,7 @@ h.Fq()
 r=h.ga8p()
 q=q.qw
 h.e!==$&&A.bC()
-h.e=new A.PV(s,new A.cB(B.OJ,l),new A.qy(),p,B.ck,0,k,h.gaau(),h.gaaw(),r,B.ck,0,j,h.gaao(),h.gaaq(),r,i,B.ML,f,g.CW,g.cx,g.cy,o,g,n,m,g.x,q,new A.KT(),new A.KT())
+h.e=new A.PV(s,new A.cB(B.OJ,l),new A.qy(),p,B.ck,0,k,h.gaau(),h.gaaw(),r,B.ck,0,j,h.gaao(),h.gaaq(),r,i,B.MK,f,g.CW,g.cx,g.cy,o,g,n,m,g.x,q,new A.KT(),new A.KT())
 return h},
 xo(a,b){var s,r,q,p=this,o=p.a.c,n=o.a.a.length
 if(n<a.b||n<a.a)return
@@ -74607,7 +74607,7 @@ if(b==null)return!1
 if(J.V(b)!==A.y(s))return!1
 return b instanceof A.dR&&b.a===s.a&&b.b==s.b&&b.c==s.c&&b.d===s.d&&A.cI(null,null)},
 gu(a){var s=this
-return A.H(s.a,s.b,s.c,s.d,A.bo(B.MA),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
+return A.H(s.a,s.b,s.c,s.d,A.bo(B.Mz),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
 k(a){return"IconData(U+"+B.c.ow(B.j.jI(this.a,16).toUpperCase(),5,"0")+")"}}
 A.qg.prototype={
 cm(a){return!this.w.j(0,a.w)},
@@ -75550,7 +75550,7 @@ g=s&&d
 b=s?d:b.ch
 if(b==null)b=B.dU
 s=s&&d
-f=new A.Bg(a,a1,q,p,m,o,n,a0,g===!0,l,k,h,c,j,i,b,new A.uw(d),B.MG,s===!0)
+f=new A.Bg(a,a1,q,p,m,o,n,a0,g===!0,l,k,h,c,j,i,b,new A.uw(d),B.MF,s===!0)
 if(!f.j(0,e.e))e.ag(new A.arf(e,f))},
 GV(){this.tQ()},
 UC(){if(this.d==null)this.tQ()},
@@ -75881,7 +75881,7 @@ r.G(0,s.XG(null,l))
 l.a.toString
 q=r.a
 p=0
-for(;!1;++p){o=B.ME[p]
+for(;!1;++p){o=B.MD[p]
 n=l.c
 n.toString
 m=new A.ig(o.GB(n),null,!0,B.m8,B.c6,new A.tq(new ($.a1_())(B.c6)),B.c6)
@@ -76238,7 +76238,7 @@ L(a){var s,r,q=this,p=null,o=q.gaa4(),n=A.nl(a),m=q.bv$,l=q.d
 l===$&&A.a()
 s=q.a.ay
 if(l.gJ()==null){r=q.gLO()
-r=J.qk(r.slice(0),A.a4(r).c)}else r=B.MF
+r=J.qk(r.slice(0),A.a4(r).c)}else r=B.ME
 return new A.qb(p,new A.dm(new A.ae0(q,a),A.B0(B.bT,new A.Js(!1,A.ayC(A.pY(!0,p,A.Ez(m,new A.vm(r,s,l)),p,p,p,q.y,!1,p,p,p,p,p,!0),n),p),o,q.gacE(),p,p,o),p,t.w3),p)}}
 A.ae_.prototype={
 $1(a){var s=this.a.c
@@ -81554,7 +81554,7 @@ r.yp()
 return s.aO()},
 l(){var s,r,q,p,o=this
 for(s=o.b,r=s.length,q=o.gDP(),p=0;p<s.length;s.length===r||(0,A.A)(s),++p)s[p].I(0,q)
-o.b=B.MH
+o.b=B.MG
 o.y=!1
 o.d9()},
 e0(a,b){return a.md(b)},
@@ -82416,7 +82416,7 @@ g.p2=A.u(t.D2,q)
 p=g.p1
 s=s.c
 g.p1=A.u(s,q)
-for(o=0;o<11;++o){n=B.LY[o]
+for(o=0;o<11;++o){n=B.LX[o]
 m=f.ajI(n)
 l=m==null?null:m.a
 k=p.i(0,n)
@@ -86602,7 +86602,7 @@ q=l||k?B.H:B.ab
 p=l?400:375
 p=A.bR(A.fH(m.a.a<800?"assets/images/gruppentraining_S.jpg":"assets/images/gruppentraining.jpg",n,n,100),300,p)
 m=t.p
-p=A.bT(A.b([p,A.eb(A.b([B.d8,new A.o(B.e,A.T(l?"Orte werden kurzfristig festgelegt":"kurzfristig festgelegt",n,n,n,B.aK,n,n),n)],m),B.w,B.n,B.o),B.T7,B.T3],m),B.J,B.n,B.o)
+p=A.bT(A.b([p,A.eb(A.b([B.d8,new A.o(B.e,A.T(l?"Orte werden kurzfristig festgelegt":"kurzfristig festgelegt",n,n,n,B.aK,n,n),n)],m),B.w,B.n,B.o),B.T7,B.T2],m),B.J,B.n,B.o)
 o=l?600:375
 return A.jD(s,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Der Schl\xfcssel zum harmonischen Zusammenleben",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0g,B.QE,B.aB,B.kL,B.QI,B.aB,B.QP,B.aB,B.Rv,B.aB,B.R6,B.aB,B.QJ,B.aB,B.QW,B.aB,B.R4,B.aB,B.QX,B.li],m),B.J,B.n,B.o),n,o),n)],m),B.J,q,n,B.n,B.o,0,n,n,B.U),n,r)],m),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.uh.prototype={
@@ -86615,7 +86615,7 @@ else r=k?800:375
 m=!m||k?B.H:B.ab
 q=l?400:375
 p=t.p
-q=A.bT(A.b([A.bR(A.fH("assets/images/Hotline_S.png",n,n,n),300,q),B.SY,B.kS,B.T1],p),B.J,B.n,B.o)
+q=A.bT(A.b([A.bR(A.fH("assets/images/Hotline_S.png",n,n,n),300,q),B.SX,B.kS,B.T0],p),B.J,B.n,B.o)
 o=l?600:375
 return A.jD(s,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,q,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Nicht allein - telefonische Unterst\xfctzung",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1k,B.Ri,B.Rr,new A.o(B.IK,A.dO(B.SU,B.A,n,n,new A.dB(B.GB,n,n,A.k9(10),n,n,B.aM),n,n,n,n,n),n)],p),B.J,B.n,B.o),n,o),n)],p),B.J,m,n,B.n,B.o,0,n,n,B.U),n,r)],p),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.ui.prototype={
@@ -86628,7 +86628,7 @@ r=l||k?B.H:B.ab
 q=l?400:375
 q=A.bR(A.fH("assets/images/move_your_dog.jpg",n,n,100),300,q)
 p=t.p
-q=A.bT(A.b([q,A.eb(A.b([B.d8,new A.o(B.e,A.T("Volksdorfer Wald",n,n,n,B.aK,n,n),n)],p),B.w,B.n,B.o),B.T6,B.T0],p),B.J,B.n,B.o)
+q=A.bT(A.b([q,A.eb(A.b([B.d8,new A.o(B.e,A.T("Volksdorfer Wald",n,n,n,B.aK,n,n),n)],p),B.w,B.n,B.o),B.T6,B.T_],p),B.J,B.n,B.o)
 o=l?600:375
 return A.jD(m,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,q,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Ein Spaziergang, der mehr kann",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0q,B.QL,B.Rf,B.aB,B.kL,B.Rp,B.Vf,A.aCQ(B.a0o,new A.a3N(a),A.aO2(n,n,B.jf,n,n,n,n,n,n,n,n,n,B.IX,n,n,n,n,n,n,n)),B.li],p),B.J,B.n,B.o),n,o),n)],p),B.J,r,n,B.n,B.o,0,n,n,B.U),n,s)],p),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.a3N.prototype={
@@ -86644,7 +86644,7 @@ else q=k?800:375
 s=!s||k?B.H:B.ab
 p=l?400:375
 o=t.p
-p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/KursEinzeltraining_S.jpg":"assets/images/KursEinzeltraining.jpg",n,n,n),300,p),B.SX,B.kS,B.SW],o),B.J,B.n,B.o)
+p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/KursEinzeltraining_S.jpg":"assets/images/KursEinzeltraining.jpg",n,n,n),300,p),B.SW,B.kS,B.T4],o),B.J,B.n,B.o)
 m=l?600:375
 return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Individuelles Training f\xfcr dich und deinen Hund",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0t,B.Re,new A.o(new A.ag(0,16,0,0),A.T("Durch Beobachtung und Analyse von euch beiden unterst\xfctze ich dich dabei, eine harmonische und entspannte Beziehung zu deinem vierbeinigen Begleiter aufzubauen.",n,n,n,A.cM(n,n,n,n,n,n,n,n,n,n,n,24,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n)],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.uk.prototype={
@@ -86657,9 +86657,9 @@ else q=k?800:375
 s=!s||k?B.H:B.ab
 p=l?400:375
 o=t.p
-p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/slider1_new_S.jpg":"assets/images/slider1_new.jpg",n,n,n),300,p),B.SV,B.T8,B.T2],o),B.J,B.n,B.o)
+p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/slider1_new_S.jpg":"assets/images/slider1_new.jpg",n,n,n),300,p),B.SV,B.T8,B.T1],o),B.J,B.n,B.o)
 m=l?600:375
-return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Ein gemeinsamer Spaziergang f\xfcr dich und deinen Hund",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1J,B.Rk,B.QK,B.Rm,B.R_,B.QD,A.RW(A.b([new A.o(B.Q,A.vO(n,n,n,B.bs,n,n,!0,n,B.WK,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.Q,A.vO(n,n,n,B.bs,n,n,!0,n,B.WI,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.Q,A.vO(n,n,n,B.bs,n,n,!0,n,B.WM,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.Q,A.vO(n,n,n,B.bs,n,n,!0,n,B.WH,B.aO,n,n,B.aj,B.ax),n)],o))],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
+return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Ein gemeinsamer Spaziergang f\xfcr dich und deinen Hund",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a1J,B.Rk,B.QK,B.Rm,B.R_,B.QC,A.RW(A.b([new A.o(B.Q,A.vO(n,n,n,B.bs,n,n,!0,n,B.WK,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.Q,A.vO(n,n,n,B.bs,n,n,!0,n,B.WI,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.Q,A.vO(n,n,n,B.bs,n,n,!0,n,B.WM,B.aO,n,n,B.aj,B.ax),n)],o)),A.RW(A.b([new A.o(B.Q,A.vO(n,n,n,B.bs,n,n,!0,n,B.WH,B.aO,n,n,B.aj,B.ax),n)],o))],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.ul.prototype={
 L(a){var s,r,q,p,o,n=null,m=t.w,l=A.aG(a,n,m).w.a.a>1260,k=A.jz(a)
 m=A.aG(a,n,m).w
@@ -86670,7 +86670,7 @@ q=l||k?B.H:B.ab
 p=l?400:375
 p=A.bR(A.fH(m.a.a<800?"assets/images/KursSpielSpass_S.jpg":"assets/images/KursSpielSpass.jpg",n,n,100),300,p)
 m=t.p
-p=A.bT(A.b([p,A.eb(A.b([B.d8,new A.o(B.e,A.T(l?"Orte werden kurzfristig festgelegt":"kurzfristig festgelegt",n,n,n,B.aK,n,n),n)],m),B.w,B.n,B.o),B.SZ,B.Ta],m),B.J,B.n,B.o)
+p=A.bT(A.b([p,A.eb(A.b([B.d8,new A.o(B.e,A.T(l?"Orte werden kurzfristig festgelegt":"kurzfristig festgelegt",n,n,n,B.aK,n,n),n)],m),B.w,B.n,B.o),B.SY,B.Ta],m),B.J,B.n,B.o)
 o=l?600:375
 return A.jD(s,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Freude und Vertrauen durch gemeinsame Erlebnisse",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a0f,B.QQ,B.QN,B.aB,B.kL,B.Rg,B.aB,B.Ro,B.aB,B.Rt,B.aB,B.Rd,B.aB,B.Rc,B.aB,B.Ra,B.aB,B.Rh,B.aB,B.R2,B.li],m),B.J,B.n,B.o),n,o),n)],m),B.J,q,n,B.n,B.o,0,n,n,B.U),n,r)],m),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.qL.prototype={
@@ -86826,7 +86826,7 @@ else q=k?800:375
 s=!s||k?B.H:B.ab
 p=l?400:375
 o=t.p
-p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/slider4_new_S.jpg":"assets/images/slider4_new.jpg",n,n,n),300,p),B.T4,B.kS,B.T_],o),B.J,B.n,B.o)
+p=A.bT(A.b([A.bR(A.fH(m.a.a<800?"assets/images/slider4_new_S.jpg":"assets/images/slider4_new.jpg",n,n,n),300,p),B.T3,B.kS,B.SZ],o),B.J,B.n,B.o)
 m=l?600:375
 return A.jD(r,A.jF(A.dN(A.bT(A.b([A.bR(A.lv(A.b([new A.o(B.c9,p,n),new A.o(B.e,A.bR(A.bT(A.b([new A.o(B.cU,A.T("Hundekaufberatung: Welcher Hund passt zu mir?",n,n,n,A.cM(n,n,n,n,n,n,n,n,"Lora",n,n,l?48:30,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),B.a19,B.R7,B.QM],o),B.J,B.n,B.o),n,m),n)],o),B.J,s,n,B.n,B.o,0,n,n,B.U),n,q)],o),B.w,B.n,B.o),n,n),n),n,!0,!1,n,n)}}
 A.PQ.prototype={
@@ -86843,7 +86843,7 @@ gGd(){var s=this.d
 return s===$?this.d=new A.a2N(new A.bL(new A.aB($.av,t.wC),t.Fe)):s},
 aA(){this.aK()},
 X_(a,b,c){var s=null
-return A.bT(A.b([new A.o(new A.ag(b,32,0,48),B.a1s,s),new A.o(new A.ag(b,0,b,0),A.T("Mit und nicht gegeneinander, so stelle ich mir gutes Hundetraining vor. Alle Bed\xfcrfnisse im Blick und zwar die der Hunde genauso wie die der Menschen. Ich bin davon \xfcberzeugt, dass mit gegenseitigem Verst\xe4ndnis, konsequentem und fairem Training und immer auch einer Portion Humor ein entspanntes und zufriedenes Zusammenleben m\xf6glich ist und genau das ist mein Ziel.",s,s,s,a,s,s),s),new A.o(new A.ag(b,c,b,0),A.T("Ich m\xf6chte euch und euren Hunden zu einer guten, vertrauensvollen Beziehung und damit zu einem harmonischen Miteinander verhelfen.",s,s,s,a,s,s),s),new A.o(new A.ag(b,20,b,20),B.a1R,s),new A.o(new A.ag(b,c,b,20),A.T('Auf dieser Website verwende ich das "Du" f\xfcr eine lockere und pers\xf6nliche Atmosph\xe4re. F\xfcr alle, denen das "Sie" lieber ist, ist das vollkommen in Ordnung. Bitte z\xf6gern Sie nicht, mich zu siezen oder zu duzen \u2013 ich freue mich \xfcber alle Nachrichten, ganz gleich in welcher Form.',s,s,s,a,s,s),s)],t.p),B.J,B.n,B.d5)},
+return A.bT(A.b([new A.o(new A.ag(b,32,0,48),B.a1s,s),new A.o(new A.ag(b,0,b,0),A.T("Mit und nicht gegeneinander, so stelle ich mir gutes Hundetraining vor. Alle Bed\xfcrfnisse im Blick und zwar die der Hunde genauso wie die der Menschen. Ich bin davon \xfcberzeugt, dass mit gegenseitigem Verst\xe4ndnis, konsequentem und fairem Training und immer auch einer Portion Humor ein entspanntes und zufriedenes Zusammenleben m\xf6glich ist und genau das ist mein Ziel.",s,s,s,a,s,s),s),new A.o(new A.ag(b,c,b,0),A.T("Ich m\xf6chte euch und euren Hunden zu einer guten, vertrauensvollen Beziehung und damit zu einem harmonischen Miteinander verhelfen.",s,s,s,a,s,s),s),new A.o(new A.ag(b,20,b,20),B.a1S,s),new A.o(new A.ag(b,c,b,20),A.T('Auf dieser Website verwende ich das "Du" f\xfcr eine lockere und pers\xf6nliche Atmosph\xe4re. F\xfcr alle, denen das "Sie" lieber ist, ist das vollkommen in Ordnung. Bitte z\xf6gern Sie nicht, mich zu siezen oder zu duzen \u2013 ich freue mich \xfcber alle Nachrichten, ganz gleich in welcher Form.',s,s,s,a,s,s),s)],t.p),B.J,B.n,B.d5)},
 L(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=t.w,f=A.aG(a,h,g).w.a.a>1260,e=A.jz(a)
 g=A.aG(a,h,g).w
 if(f)s=72
@@ -86880,7 +86880,7 @@ A.ur.prototype={
 L(a){var s=null,r="Sie k\xf6nnen Ihren Browser so einstellen, dass Sie \xfcber das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies f\xfcr bestimmte F\xe4lle oder generell ausschlie\xdfen sowie das automatische L\xf6schen der Cookies beim Schlie\xdfen des Browsers aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalit\xe4t dieser Website eingeschr\xe4nkt sein."
 return A.jD(A.k1(a,new A.bc(s,t.sW),"Datenschutzerkl\xe4rung",!0),A.jF(A.dN(A.dO(A.bT(A.b([new A.o(B.e,A.T("1. Datenschutz auf einen Blick",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Allgemeine Hinweise",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Die folgenden Hinweise geben einen einfachen \xdcberblick dar\xfcber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie pers\xf6nlich identifiziert werden k\xf6nnen. Ausf\xfchrliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgef\xfchrten Datenschutzerkl\xe4rung.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Datenerfassung auf dieser Website",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Wer ist verantwortlich f\xfcr die Datenerfassung auf dieser Website?",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten k\xf6nnen Sie dem Abschnitt \u201eHinweis zur Verantwortlichen Stelle\u201c in dieser Datenschutzerkl\xe4rung entnehmen.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wie erfassen wir Ihre Daten?",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere ITSysteme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wof\xfcr nutzen wir Ihre Daten?",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gew\xe4hrleisten. Andere Daten k\xf6nnen zur Analyse Ihres Nutzerverhaltens verwendet werden.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Welche Rechte haben Sie bez\xfcglich Ihrer Daten?",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Sie haben jederzeit das Recht unentgeltlich Auskunft \xfcber Herkunft, Empf\xe4nger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben au\xdferdem ein Recht, die Berichtigung, Sperrung oder L\xf6schung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, k\xf6nnen Sie diese Einwilligung jederzeit f\xfcr die Zukunft widerrufen. Au\xdferdem haben Sie das Recht, unter bestimmten Umst\xe4nden die Einschr\xe4nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zust\xe4ndigen Aufsichtsbeh\xf6rde zu. Hierzu sowie zu weiteren Fragen zum Thema Datenschutz k\xf6nnen Sie sich jederzeit an uns wenden.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Analyse-Tools und Tools von Drittanbietern",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Beim Besuch dieser Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit Cookies und mit sogenannten Analyseprogrammen. Die Analyse Ihres Surf-Verhaltens erfolgt in der Regel anonym; das Surf-Verhalten kann nicht zu Ihnen zur\xfcckverfolgt werden. Sie k\xf6nnen dieser Analyse widersprechen oder sie durch die Nichtbenutzung bestimmter Tools verhindern. Detaillierte Informationen dazu finden Sie in der folgenden Datenschutzerkl\xe4rung.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("2. Hosting",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Wir hosten die Inhalte unserer Website bei folgendem Anbieter:",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Externes Hosting",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Diese Website wird extern gehostet. Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters / der Hoster gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die \xfcber eine Website generiert werden, handeln.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Das externe Hosting erfolgt zum Zwecke der Vertragserf\xfcllung gegen\xfcber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO). Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschlie\xdflich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und \xa7 25 Abs. 1 TDDDG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endger\xe4t des Nutzers (z. B. Device-Fingerprinting) im Sinne des TDDDG umfasst. Die Einwilligung ist jederzeit widerrufbar",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Unser(e) Hoster wird bzw. werden Ihre Daten nur insoweit verarbeiten, wie dies zur Erf\xfcllung seiner Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wir setzen folgende(n) Hoster ein: github Pages",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("3. Allgemeine Hinweise und Pflichtinformationen",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Datenschutz",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Die Betreiber dieser Seiten nehmen den Schutz Ihrer pers\xf6nlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerkl\xe4rung.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie pers\xf6nlich identifiziert werden k\xf6nnen. Die vorliegende Datenschutzerkl\xe4rung erl\xe4utert, welche Daten wir erheben und wof\xfcr wir sie nutzen. Sie erl\xe4utert auch, wie und zu welchem Zweck das geschieht.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wir weisen darauf hin, dass die Daten\xfcbertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitsl\xfccken aufweisen kann. Ein l\xfcckenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht m\xf6glich.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Hinweise zur verantwortlichen Stelle",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Die verantwortliche Stelle f\xfcr die Datenverarbeitung auf dieser Website ist:",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Kontaktinformationen",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Lea Massari",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Redderblock 28",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("22145 Hamburg",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Telefon: +49 172 22 89 23 26",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("E-Mail: lea@hey-hund.de",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Verantwortliche Stelle ist die nat\xfcrliche oder juristische Person, die allein oder gemeinsam mit anderen \xfcber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. \xc4.) entscheidet.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Speicherdauer",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Soweit innerhalb dieser Datenschutzerkl\xe4rung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck f\xfcr die Datenverarbeitung entf\xe4llt. Wenn Sie ein berechtigtes L\xf6schersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gel\xf6scht, sofern wir keine anderen rechtlich zul\xe4ssigen Gr\xfcnde f\xfcr die Speicherung Ihrer personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die L\xf6schung nach Fortfall dieser Gr\xfcnde.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Sofern Sie in die Datenverarbeitung eingewilligt haben, verarbeiten wir Ihre personenbezogenen Daten auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO, sofern besondere Datenkategorien nach Art. 9 Abs. 1 DSGVO verarbeitet werden. Im Falle einer ausdr\xfccklichen Einwilligung in die \xdcbertragung personenbezogener Daten in Drittstaaten erfolgt die Datenverarbeitung au\xdferdem auf Grundlage von Art. 49 Abs. 1 lit. a DSGVO. Sofern Sie in die Speicherung von Cookies oder in den Zugriff auf Informationen in Ihr Endger\xe4t (z. B. via Device-Fingerprinting) eingewilligt haben, erfolgt die Datenverarbeitung zus\xe4tzlich auf Grundlage von \xa7 25 Abs. 1 TDDDG. Die Einwilligung ist jederzeit widerrufbar. Sind Ihre Daten zur Vertragserf\xfcllung oder zur Durchf\xfchrung vorvertraglicher Ma\xdfnahmen erforderlich, verarbeiten wir Ihre Daten auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO. Des Weiteren verarbeiten wir Ihre Daten, sofern diese zur Erf\xfcllung einer rechtlichen Verpflichtung erforderlich sind auf Grundlage von Art. 6 Abs. 1 lit. c DSGVO. Die Datenverarbeitung kann ferner auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f DSGVO erfolgen. \xdcber die jeweils im Einzelfall einschl\xe4gigen Rechtsgrundlagen wird in den folgenden Abs\xe4tzen dieser Datenschutzerkl\xe4rung informiert.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Empf\xe4nger von personenbezogenen Daten",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Im Rahmen unserer Gesch\xe4ftst\xe4tigkeit arbeiten wir mit verschiedenen externen Stellen zusammen. Dabei ist teilweise auch eine \xdcbermittlung von personenbezogenen Daten an diese externen Stellen erforderlich. Wir geben personenbezogene Daten nur dann an externe Stellen weiter, wenn dies im Rahmen einer Vertragserf\xfcllung erforderlich ist, wenn wir gesetzlich hierzu verpflichtet sind (z. B. Weitergabe von Daten an Steuerbeh\xf6rden), wenn wir ein berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO an der Weitergabe haben oder wenn eine sonstige Rechtsgrundlage die Datenweitergabe erlaubt. Beim Einsatz von Auftragsverarbeitern geben wir personenbezogene Daten unserer Kunden nur auf Grundlage eines g\xfcltigen Vertrags \xfcber Auftragsverarbeitung weiter. Im Falle einer gemeinsamen Verarbeitung wird ein Vertrag \xfcber gemeinsame Verarbeitung geschlossen",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Widerruf Ihrer Einwilligung zur Datenverarbeitung",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Viele Datenverarbeitungsvorg\xe4nge sind nur mit Ihrer ausdr\xfccklichen Einwilligung m\xf6glich. Sie k\xf6nnen eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtm\xe4\xdfigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unber\xfchrt.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Widerspruchsrecht gegen die Datenerhebung in besonderen F\xe4llen sowie gegen Direktwerbung (Art. 21 DSGVO)",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GR\xdcNDEN, DIE SICH AUS IHRER BESONDEREN SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN WIDERSPRUCH EINZULEGEN; DIES GILT AUCH F\xdcR EIN AUF DIESE BESTIMMUNGEN GEST\xdcTZTES PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT, ENTNEHMEN SIE DIESER DATENSCHUTZERKL\xc4RUNG. WENN SIE WIDERSPRUCH EINLEGEN, WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES SEI DENN, WIR K\xd6NNEN ZWINGENDE SCHUTZW\xdcRDIGE GR\xdcNDE F\xdcR DIE VERARBEITUNG NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN \xdcBERWIEGEN ODER DIE VERARBEITUNG DIENT DER GELTENDMACHUNG, AUS\xdcBUNG ODER VERTEIDIGUNG VON RECHTSANSPR\xdcCHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE  VERARBEITUNG SIE BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG EINZULEGEN; DIES GILT AUCH F\xdcR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO).",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Beschwerderecht bei der zust\xe4ndigen Aufsichtsbeh\xf6rde",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Im Falle von Verst\xf6\xdfen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer Aufsichtsbeh\xf6rde, insbesondere in dem Mitgliedstaat ihres gew\xf6hnlichen Aufenthalts, ihres Arbeitsplatzes oder des Orts des mutma\xdflichen Versto\xdfes zu. Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Recht auf Daten\xfcbertragbarkeit",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erf\xfcllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem g\xe4ngigen, maschinenlesbaren Format aush\xe4ndigen zu lassen. Sofern Sie die direkte \xdcbertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Auskunft, Berichtigung und L\xf6schung",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft \xfcber Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empf\xe4nger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder L\xf6schung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten k\xf6nnen Sie sich jederzeit an uns wenden.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Recht auf Einschr\xe4nkung der Verarbeitung",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Sie haben das Recht, die Einschr\xe4nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu k\xf6nnen Sie sich jederzeit an uns wenden. Das Recht auf Einschr\xe4nkung der Verarbeitung besteht in folgenden F\xe4llen:",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, ben\xf6tigen wir in der Regel Zeit, um dies zu \xfcberpr\xfcfen. F\xfcr die Dauer der Pr\xfcfung haben Sie das Recht, die Einschr\xe4nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtm\xe4\xdfig geschah/geschieht, k\xf6nnen Sie statt der L\xf6schung die Einschr\xe4nkung der Datenverarbeitung verlangen.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wenn wir Ihre personenbezogenen Daten nicht mehr ben\xf6tigen, Sie sie jedoch zur Aus\xfcbung, Verteidigung oder Geltendmachung von Rechtsanspr\xfcchen ben\xf6tigen, haben Sie das Recht, statt der L\xf6schung die Einschr\xe4nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abw\xe4gung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen \xfcberwiegen, haben Sie das Recht, die Einschr\xe4nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschr\xe4nkt haben, d\xfcrfen diese Daten \u2013 von ihrer Speicherung abgesehen \u2013 nur mit Ihrer Einwilligung oder zur Geltendmachung, Aus\xfcbung oder Verteidigung von Rechtsanspr\xfcchen oder zum Schutz der Rechte einer anderen nat\xfcrlichen oder juristischen Person oder aus Gr\xfcnden eines wichtigen \xf6ffentlichen Interesses der Europ\xe4ischen Union oder eines Mitgliedstaats verarbeitet werden.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("SSL- bzw. TLS-Verschl\xfcsselung",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Diese Seite nutzt aus Sicherheitsgr\xfcnden und zum Schutz der \xdcbertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLS-Verschl\xfcsselung. Eine verschl\xfcsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von \u201ehttp://\u201c auf \u201ehttps://\u201c wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Wenn die SSL- bzw. TLS-Verschl\xfcsselung aktiviert ist, k\xf6nnen die Daten, die Sie an uns \xfcbermitteln, nicht von Dritten mitgelesen werden.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("4. Datenerfassung auf dieser Website",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Cookies",s,s,s,B.S,s,s),s),new A.o(B.e,A.T("Unsere Internetseiten verwenden so genannte \u201eCookies\u201c. Cookies sind kleine Textdateien und richten auf Ihrem Endger\xe4t keinen Schaden an. Sie werden entweder vor\xfcbergehend f\xfcr die Dauer einer Sitzung (Session-Cookies) oder dauerhaft (permanente Cookies) auf Ihrem Endger\xe4t gespeichert. Session-Cookies werden nach Ende Ihres Besuchs automatisch gel\xf6scht. Permanente Cookies bleiben auf Ihrem Endger\xe4t gespeichert, bis Sie diese selbst l\xf6schen oder eine automatische L\xf6schung durch Ihren Webbrowser erfolgt.",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Cookies k\xf6nnen von uns (First-Party-Cookies) oder von Drittunternehmen stammen (sog. Third-PartyCookies). Third-Party-Cookies erm\xf6glichen die Einbindung bestimmter Dienstleistungen von Drittunternehmen innerhalb von Webseiten (z. B. Cookies zur Abwicklung von Zahlungsdienstleistungen).",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwendig, da bestimmte Webseitenfunktionen ohne diese nicht funktionieren w\xfcrden (z. B. die Warenkorbfunktion oder die Anzeige von Videos). Andere Cookies k\xf6nnen zur Auswertung des Nutzerverhaltens oder zu Werbezwecken verwendet werden",s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Cookies, die zur Durchf\xfchrung des elektronischen Kommunikationsvorgangs, zur Bereitstellung bestimmter, von Ihnen erw\xfcnschter Funktionen (z. B. f\xfcr die Warenkorbfunktion) oder zur Optimierung der Website (z. B. Cookies zur Messung des Webpublikums) erforderlich sind (notwendige Cookies), werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert, sofern keine andere Rechtsgrundlage angegeben wird. Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von notwendigen Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. Sofern eine Einwilligung zur Speicherung von Cookies und vergleichbaren Wiedererkennungstechnologien  abgefragt wurde, erfolgt die Verarbeitung ausschlie\xdflich auf Grundlage dieser Einwilligung (Art. 6 Abs. 1 lit. a DSGVO und \xa7 25 Abs. 1 TDDDG); die Einwilligung ist jederzeit widerrufbar",s,s,s,B.p,s,s),s),new A.o(B.e,A.T(r,s,s,s,B.p,s,s),s),new A.o(B.e,A.T(r,s,s,s,B.p,s,s),s),new A.o(B.e,A.T("Welche Cookies und Dienste auf dieser Website eingesetzt werden, k\xf6nnen Sie dieser Datenschutzerkl\xe4rung entnehmen.",s,s,s,B.p,s,s),s)],t.p),B.J,B.n,B.o),B.A,s,B.iX,s,s,s,s,s,1/0),s,s),s),s,!0,!1,s,s)}}
 A.PR.prototype={
-L(a){var s=null,r="max. 6 Teilnehmer",q=A.aG(a,s,t.w).w.a.a<800,p=t.z,o=A.au(["title","Move Your Dog","subtitle","Bewusst bewegen","image","assets/images/move_your_dog.jpg","participants","12 Teilnehmer","duration","90 min","bannerText","Neu","showBanner",!1,"route","/moveyourdog","price","20\u20ac"],p,p),n=A.au(["title","Einzeltraining","subtitle","Individuell und effektiv","image",q?"assets/images/KursEinzeltraining_S.jpg":"assets/images/KursEinzeltraining.jpg","participants","1 Teilnehmer","duration","1 h","bannerText","Neu","showBanner",!1,"route","/einzeltraining","price","69\u20ac"],p,p),m=A.au(["title","Gruppentraining Basics","subtitle","Von Sitz bis Bleib","image",q?"assets/images/gruppentraining_S.jpg":"assets/images/gruppentraining.jpg","participants","6 Teilnehmer","duration","8 Termine / 45 min","bannerText","Neu","showBanner",!0,"route","/gruppentraining","price","insgesamt 160\u20ac"],p,p),l=A.au(["title","Spielend Lernen","subtitle","Gemeinsam wachsen","image",q?"assets/images/KursSpielSpass_S.jpg":"assets/images/KursSpielSpass.jpg","participants",r,"duration","3 Termine / 1h","bannerText","verf\xfcgbar","showBanner",!1,"route","/spielundspass","price","insg. 54\u20ac pro Hund"],p,p),k=A.au(["title","Social Walk","subtitle","Zusammen unterwegs","image",q?"assets/images/slider1_new.jpg":"assets/images/slider1_new_S.jpg","participants",r,"duration","1 h","bannerText","","showBanner",!1,"route","/socialwalk","price","20\u20ac pro Hund"],p,p),j=A.au(["title","Kaufberatung","subtitle","Welcher Hund passt zu mir?","image",q?"assets/images/slider4_new.jpg":"assets/images/slider4_new_S.jpg","participants","1 Teilnehmer","duration","1 h","bannerText","Neu","showBanner",!0,"route","/kaufberatung","price","69\u20ac"],p,p),i=A.b([o,n,m,l,k,j,A.au(["title","Hunde-Hotline","subtitle","Telefonische Beratung","image",q?"assets/images/Hotline_S.jpg":"assets/images/Hotline.jpg","participants","1 Teilnehmer","duration","30 min","bannerText","Neu","showBanner",!0,"route","/hundehotline","price","30\u20ac"],p,p)],t.n4)
+L(a){var s=null,r="max. 6 Teilnehmer",q=A.aG(a,s,t.w).w.a.a<800,p=t.z,o=A.au(["title","Move Your Dog","subtitle","Bewusst bewegen","image","assets/images/move_your_dog.jpg","participants","12 Teilnehmer","duration","90 min","bannerText","Neu","showBanner",!1,"route","/moveyourdog","price","20\u20ac"],p,p),n=A.au(["title","Einzeltraining","subtitle","Individuell und effektiv","image",q?"assets/images/KursEinzeltraining_S.jpg":"assets/images/KursEinzeltraining.jpg","participants","1 Teilnehmer","duration","1 h","bannerText","Neu","showBanner",!1,"route","/einzeltraining","price","75\u20ac"],p,p),m=A.au(["title","Gruppentraining Basics","subtitle","Von Sitz bis Bleib","image",q?"assets/images/gruppentraining_S.jpg":"assets/images/gruppentraining.jpg","participants","6 Teilnehmer","duration","8 Termine / 45 min","bannerText","Neu","showBanner",!0,"route","/gruppentraining","price","insgesamt 160\u20ac"],p,p),l=A.au(["title","Spielend Lernen","subtitle","Gemeinsam wachsen","image",q?"assets/images/KursSpielSpass_S.jpg":"assets/images/KursSpielSpass.jpg","participants",r,"duration","3 Termine / 1h","bannerText","verf\xfcgbar","showBanner",!1,"route","/spielundspass","price","insg. 54\u20ac pro Hund"],p,p),k=A.au(["title","Social Walk","subtitle","Zusammen unterwegs","image",q?"assets/images/slider1_new.jpg":"assets/images/slider1_new_S.jpg","participants",r,"duration","1 h","bannerText","","showBanner",!1,"route","/socialwalk","price","20\u20ac pro Hund"],p,p),j=A.au(["title","Kaufberatung","subtitle","Welcher Hund passt zu mir?","image",q?"assets/images/slider4_new.jpg":"assets/images/slider4_new_S.jpg","participants","1 Teilnehmer","duration","1 h","bannerText","Neu","showBanner",!0,"route","/kaufberatung","price","75\u20ac"],p,p),i=A.b([o,n,m,l,k,j,A.au(["title","Hunde-Hotline","subtitle","Telefonische Beratung","image",q?"assets/images/Hotline_S.jpg":"assets/images/Hotline.jpg","participants","1 Teilnehmer","duration","30 min","bannerText","Neu","showBanner",!0,"route","/hundehotline","price","30\u20ac"],p,p)],t.n4)
 return A.dO(A.bT(A.b([B.Rj,A.aHJ(a,A.vS(s,s),i)],t.p),B.J,B.n,B.o),B.A,B.m,s,s,s,this.f,s,s,s)}}
 A.aww.prototype={
 $1(a){var s=null,r=this.a?600:210
@@ -86974,7 +86974,7 @@ $0(){A.ae3(this.a,"/agb",t.X)},
 $S:0}
 A.ax6.prototype={
 $1(a){var s=null,r=t.p,q=A.eb(A.b([B.Ay,A.e7(s,B.oC,B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ax4(this.a),s,s,s,s,s,s)],r),B.w,B.hv,B.o)
-return A.aBG(B.l,A.dO(A.bT(A.b([B.a1S,B.a1z,B.a1O,B.aB,B.a0w,B.a1Z,B.a10,B.a1C,B.aB,B.a1j,A.e7(s,B.a0T,B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ax5(),s,s,s,s,s,s),B.a1y,B.a0B,B.aB,B.a0R,A.eb(A.b([B.a0Q,A.e7(s,B.a0K,B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,A.aXI(),s,s,s,s,s,s)],r),B.w,B.n,B.o)],r),B.J,B.n,B.o),B.A,s,s,s,350,s,s,s,s),B.ms,q)},
+return A.aBG(B.l,A.dO(A.bT(A.b([B.a1T,B.a1z,B.a1O,B.aB,B.a0w,B.a2_,B.a10,B.a1C,B.aB,B.a1j,A.e7(s,B.a0T,B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ax5(),s,s,s,s,s,s),B.a1y,B.a0B,B.aB,B.a0R,A.eb(A.b([B.a0Q,A.e7(s,B.a0K,B.Y,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,A.aXI(),s,s,s,s,s,s)],r),B.w,B.n,B.o)],r),B.J,B.n,B.o),B.A,s,s,s,350,s,s,s,s),B.ms,q)},
 $S:194}
 A.ax4.prototype={
 $0(){A.iC(this.a,!1).dn()},
@@ -87532,7 +87532,7 @@ $ifc:1}
 A.as.prototype={
 b3(a,b){var s=this.aV(new A.uf(a,b))
 return s instanceof A.bv?-1:s.b},
-geF(a){return B.MB},
+geF(a){return B.MA},
 iX(a,b,c){},
 k(a){var s=this.j8(0)
 return B.c.aT(s,"Instance of '")?B.c.mI(B.c.bK(s,13),"'",""):s}}
@@ -89101,7 +89101,7 @@ c5=A.b([],k)
 if((c0&1)!==0)c5.push(B.ic)
 if((c0&2)!==0)c5.push(B.Wg)
 if((c0&4)!==0)c5.push(B.Wi)
-l.push(new A.YZ(c4,c3,c,d,B.ki[b9],A.aRZ(c5),B.Mg[c1],A.bi(b)))
+l.push(new A.YZ(c4,c3,c,d,B.ki[b9],A.aRZ(c5),B.Mf[c1],A.bi(b)))
 continue $label0$1
 case 44:d=r.getUint16(s.b,!0)
 c=r.getUint16(s.b+=2,!0)
@@ -89215,7 +89215,7 @@ q=a.BB(0)
 p=c?this.a6l(a.K6(q)):a.wb(q)
 $.a8()
 o=A.cm()
-o.sV8(B.M6[e])
+o.sV8(B.M5[e])
 b.y.push(o)
 b.ch=o
 $label0$1:for(n=0,m=0;n<s;++n)switch(r[n]){case 0:l=p[m]
@@ -90110,7 +90110,7 @@ case"round":return B.VG
 default:return null}},
 adR(a){var s,r,q,p,o,n,m
 if(a==null||a==="")return null
-else if(a==="none")return B.MO
+else if(a==="none")return B.MN
 s=B.c.rN(a,A.c0("[ ,]+",!1))
 r=A.b([],t.n)
 for(q=s.length,p=this.a,o=!1,n=0;n<s.length;s.length===q||(0,A.A)(s),++n){m=A.dA(s[n],p,!1)
@@ -94287,9 +94287,9 @@ B.mA=new A.am(1/0,1/0,1/0,1/0)
 B.GX=new A.F(0.23529411764705882,0,0,0,B.f)
 B.PX=new A.j(0,4)
 B.Cx=new A.e2(0.5,B.ei,B.GX,B.PX,10)
-B.Mu=A.b(s([B.Cx]),t.sq)
+B.Mt=A.b(s([B.Cx]),t.sq)
 B.aM=new A.K5(0,"rectangle")
-B.Cr=new A.dB(null,null,null,B.mw,B.Mu,null,B.aM)
+B.Cr=new A.dB(null,null,null,B.mw,B.Mt,null,B.aM)
 B.Cs=new A.dB(B.l,null,null,null,null,null,B.aM)
 B.Ct=new A.yG(1,"contain")
 B.dr=new A.yG(2,"cover")
@@ -94530,7 +94530,7 @@ B.a9=new A.RA()
 B.c5=new A.alv()
 B.dv=new A.alx()
 B.e8=new A.RH(0,0,0,0)
-B.MG=A.b(s([]),A.ak("x<a4A>"))
+B.MF=A.b(s([]),A.ak("x<a4A>"))
 B.a5d=new A.alF()
 B.bA={}
 B.f1=new A.bA(B.bA,[],t.li)
@@ -94914,8 +94914,8 @@ B.J9=new A.zS(1,"enabled")
 B.eH=new A.zS(2,"disabled")
 B.Ja=new A.LO(null)
 B.Jb=new A.pN(B.m,B.fy,null,B.j4)
-B.Mf=A.b(s([0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2126,0.7152,0.0722,0,0]),t.n)
-B.Jc=new A.pN(null,null,B.Mf,B.n1)
+B.Me=A.b(s([0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2126,0.7152,0.0722,0,0]),t.n)
+B.Jc=new A.pN(null,null,B.Me,B.n1)
 B.nZ=new A.cs(0,"incrementable")
 B.jD=new A.cs(1,"scrollable")
 B.jE=new A.cs(10,"link")
@@ -95159,14 +95159,14 @@ B.L1=A.b(s([192,193,194]),t.t)
 B.oQ=A.b(s(["text","multiline","number","phone","datetime","emailAddress","url","visiblePassword","name","address","none","webSearch","twitter"]),t.s)
 B.L3=A.b(s([239,191,189]),t.t)
 B.Lq=A.b(s([4,9,14,19]),t.t)
-B.N_=A.b(s([137,80,78,71,13,10,26,10]),t.Z)
+B.MZ=A.b(s([137,80,78,71,13,10,26,10]),t.Z)
 B.Ka=new A.nr(0,"png")
 B.Km=new A.kn(B.Ka,!1,0,"png")
-B.K8=new A.lC(B.N_,B.Km,0,"png")
-B.N3=A.b(s([71,73,70,56,55,97]),t.Z)
-B.K7=new A.lC(B.N3,B.hf,1,"gif87a")
-B.Mp=A.b(s([71,73,70,56,57,97]),t.Z)
-B.K6=new A.lC(B.Mp,B.hf,2,"gif89a")
+B.K8=new A.lC(B.MZ,B.Km,0,"png")
+B.N2=A.b(s([71,73,70,56,55,97]),t.Z)
+B.K7=new A.lC(B.N2,B.hf,1,"gif87a")
+B.Mo=A.b(s([71,73,70,56,57,97]),t.Z)
+B.K6=new A.lC(B.Mo,B.hf,2,"gif89a")
 B.L4=A.b(s([255,216,255]),t.Z)
 B.Kb=new A.nr(2,"jpeg")
 B.Kq=new A.kn(B.Kb,!1,3,"jpeg")
@@ -95239,7 +95239,7 @@ B.aQ=new A.eS(7,"suffixIcon")
 B.bP=new A.eS(8,"helperError")
 B.c1=new A.eS(9,"counter")
 B.cr=new A.eS(10,"container")
-B.LY=A.b(s([B.aL,B.aU,B.ah,B.b1,B.b2,B.b3,B.ag,B.aQ,B.bP,B.c1,B.cr]),A.ak("x<eS>"))
+B.LX=A.b(s([B.aL,B.aU,B.ah,B.b1,B.b2,B.b3,B.ag,B.aQ,B.bP,B.c1,B.cr]),A.ak("x<eS>"))
 B.lI=new A.rP(1,"repeated")
 B.lJ=new A.rP(2,"mirror")
 B.lK=new A.rP(3,"decal")
@@ -95255,17 +95255,17 @@ B.a43=new A.mx(12,0.14)
 B.oU=A.b(s([B.a42,B.a47,B.a45,B.a46,B.a44,B.a43]),A.ak("x<mx>"))
 B.dV=new A.BU(0,"nonZero")
 B.vf=new A.BU(1,"evenOdd")
-B.M6=A.b(s([B.dV,B.vf]),A.ak("x<BU>"))
-B.M8=A.b(s([-1,0,0,1,0,0,-1,0,1,0,0,0,-1,1,0,1,1,1,1,0]),t.n)
+B.M5=A.b(s([B.dV,B.vf]),A.ak("x<BU>"))
+B.M7=A.b(s([-1,0,0,1,0,0,-1,0,1,0,0,0,-1,1,0,1,1,1,1,0]),t.n)
 B.C1=new A.K_(2,"outer")
 B.nm=new A.F(0.09803921568627451,0,0,0,B.f)
 B.Cw=new A.e2(0.2,B.C1,B.nm,B.h,11)
-B.M9=A.b(s([B.Cw]),t.sq)
+B.M8=A.b(s([B.Cw]),t.sq)
 B.VQ=new A.DM(0,"left")
 B.VR=new A.DM(1,"right")
-B.Mc=A.b(s([B.VQ,B.VR]),A.ak("x<DM>"))
+B.Mb=A.b(s([B.VQ,B.VR]),A.ak("x<DM>"))
 B.as=new A.E_(0,"upstream")
-B.Me=A.b(s([B.as,B.k]),A.ak("x<E_>"))
+B.Md=A.b(s([B.as,B.k]),A.ak("x<E_>"))
 B.aP=new A.E3(0,"rtl")
 B.an=new A.E3(1,"ltr")
 B.kf=A.b(s([B.aP,B.an]),A.ak("x<E3>"))
@@ -95274,13 +95274,13 @@ B.Ao=new A.on(1,"double")
 B.Wa=new A.on(2,"dotted")
 B.Wc=new A.on(3,"dashed")
 B.We=new A.on(4,"wavy")
-B.Mg=A.b(s([B.W7,B.Ao,B.Wa,B.Wc,B.We]),A.ak("x<on>"))
+B.Mf=A.b(s([B.W7,B.Ao,B.Wa,B.Wc,B.We]),A.ak("x<on>"))
 B.DO=new A.tT(0,"auto")
 B.DP=new A.tT(1,"full")
 B.DQ=new A.tT(2,"chromium")
-B.Mn=A.b(s([B.DO,B.DP,B.DQ]),A.ak("x<tT>"))
+B.Mm=A.b(s([B.DO,B.DP,B.DQ]),A.ak("x<tT>"))
 B.br=new A.fN(1,"fuchsia")
-B.Mq=A.b(s([B.am,B.br,B.W,B.bi,B.aZ,B.bj]),A.ak("x<fN>"))
+B.Mp=A.b(s([B.am,B.br,B.W,B.bi,B.aZ,B.bj]),A.ak("x<fN>"))
 B.AO=new A.wU(0,"topLeft")
 B.AR=new A.wU(3,"bottomRight")
 B.a3Y=new A.mw(B.AO,B.AR)
@@ -95289,33 +95289,33 @@ B.AP=new A.wU(1,"topRight")
 B.AQ=new A.wU(2,"bottomLeft")
 B.a3Z=new A.mw(B.AP,B.AQ)
 B.a4_=new A.mw(B.AQ,B.AP)
-B.Mr=A.b(s([B.a3Y,B.a40,B.a3Z,B.a4_]),A.ak("x<mw>"))
-B.Mv=A.b(s(["click","scroll"]),t.s)
+B.Mq=A.b(s([B.a3Y,B.a40,B.a3Z,B.a4_]),A.ak("x<mw>"))
+B.Mu=A.b(s(["click","scroll"]),t.s)
 B.CD=new A.tC()
 B.fb=new A.PJ(1,"page")
 B.hR=new A.ev(B.a_,B.fb)
-B.Mx=A.b(s([B.CD,B.hR]),A.ak("x<b3>"))
-B.MI=A.b(s([]),t.QP)
+B.Mw=A.b(s([B.CD,B.hR]),A.ak("x<b3>"))
+B.MH=A.b(s([]),t.QP)
 B.oV=A.b(s([]),A.ak("x<aZv>"))
-B.MC=A.b(s([]),t.D)
-B.MK=A.b(s([]),t.fJ)
-B.MM=A.b(s([]),t.ER)
-B.MD=A.b(s([]),t.tc)
+B.MB=A.b(s([]),t.D)
+B.MJ=A.b(s([]),t.fJ)
+B.ML=A.b(s([]),t.ER)
+B.MC=A.b(s([]),t.tc)
 B.hm=A.b(s([]),t.jl)
-B.MF=A.b(s([]),t.wi)
-B.ME=A.b(s([]),A.ak("x<aE9<@>>"))
-B.MB=A.b(s([]),t.Vz)
-B.MN=A.b(s([]),t.g)
+B.ME=A.b(s([]),t.wi)
+B.MD=A.b(s([]),A.ak("x<aE9<@>>"))
+B.MA=A.b(s([]),t.Vz)
+B.MM=A.b(s([]),t.g)
 B.kg=A.b(s([]),t.AO)
-B.MH=A.b(s([]),t.D1)
+B.MG=A.b(s([]),t.D1)
 B.kh=A.b(s([]),t.QF)
-B.MJ=A.b(s([]),t.Lx)
-B.ML=A.b(s([]),t.fm)
+B.MI=A.b(s([]),t.Lx)
+B.MK=A.b(s([]),t.fm)
 B.a5o=A.b(s([]),t.p)
-B.MO=A.b(s([]),t.n)
-B.Mz=A.b(s([]),t.t)
+B.MN=A.b(s([]),t.n)
+B.My=A.b(s([]),t.t)
 B.v=A.b(s([]),t.ee)
-B.MA=A.b(s([]),t.XS)
+B.Mz=A.b(s([]),t.XS)
 B.Ju=new A.it(1)
 B.Jw=new A.it(2)
 B.u=new A.it(3)
@@ -95327,7 +95327,7 @@ B.oo=new A.it(8)
 B.ki=A.b(s([B.ay,B.Ju,B.Jw,B.u,B.af,B.Jz,B.bS,B.JB,B.oo]),A.ak("x<it>"))
 B.PT=new A.j(0,2)
 B.Cv=new A.e2(0.75,B.ei,B.nm,B.PT,1.5)
-B.MS=A.b(s([B.Cv]),t.sq)
+B.MR=A.b(s([B.Cv]),t.sq)
 B.eO=A.b(s([B.cK,B.cs,B.fu,B.fv,B.iR]),t.QP)
 B.oW=A.b(s(["bind","if","ref","repeat","syntax"]),t.s)
 B.kj=A.b(s(["A::href","AREA::href","BLOCKQUOTE::cite","BODY::background","COMMAND::icon","DEL::cite","FORM::action","IMG::src","INPUT::src","INS::cite","Q::cite","VIDEO::poster"]),t.s)
@@ -96055,57 +96055,57 @@ B.Lx=A.b(s([54,null,null,8589935158]),t.Z)
 B.Ly=A.b(s([55,null,null,8589935159]),t.Z)
 B.Lz=A.b(s([56,null,null,8589935160]),t.Z)
 B.LB=A.b(s([57,null,null,8589935161]),t.Z)
-B.Mj=A.b(s([8589934852,8589934852,8589934853,null]),t.Z)
+B.Mi=A.b(s([8589934852,8589934852,8589934853,null]),t.Z)
 B.L8=A.b(s([4294967555,null,4294967555,null]),t.Z)
 B.L9=A.b(s([4294968065,null,null,8589935154]),t.Z)
 B.La=A.b(s([4294968066,null,null,8589935156]),t.Z)
 B.Lb=A.b(s([4294968067,null,null,8589935158]),t.Z)
 B.Lc=A.b(s([4294968068,null,null,8589935160]),t.Z)
 B.Lh=A.b(s([4294968321,null,null,8589935157]),t.Z)
-B.Mk=A.b(s([8589934848,8589934848,8589934849,null]),t.Z)
+B.Mj=A.b(s([8589934848,8589934848,8589934849,null]),t.Z)
 B.L7=A.b(s([4294967423,null,null,8589935150]),t.Z)
 B.Ld=A.b(s([4294968069,null,null,8589935153]),t.Z)
 B.L6=A.b(s([4294967309,null,null,8589935117]),t.Z)
 B.Le=A.b(s([4294968070,null,null,8589935159]),t.Z)
 B.Li=A.b(s([4294968327,null,null,8589935152]),t.Z)
-B.Ml=A.b(s([8589934854,8589934854,8589934855,null]),t.Z)
+B.Mk=A.b(s([8589934854,8589934854,8589934855,null]),t.Z)
 B.Lf=A.b(s([4294968071,null,null,8589935155]),t.Z)
 B.Lg=A.b(s([4294968072,null,null,8589935161]),t.Z)
-B.Mm=A.b(s([8589934850,8589934850,8589934851,null]),t.Z)
-B.uY=new A.d2(["*",B.Lj,"+",B.Lk,"-",B.Ll,".",B.Lm,"/",B.Ln,"0",B.Lo,"1",B.Lp,"2",B.Ls,"3",B.Lu,"4",B.Lv,"5",B.Lw,"6",B.Lx,"7",B.Ly,"8",B.Lz,"9",B.LB,"Alt",B.Mj,"AltGraph",B.L8,"ArrowDown",B.L9,"ArrowLeft",B.La,"ArrowRight",B.Lb,"ArrowUp",B.Lc,"Clear",B.Lh,"Control",B.Mk,"Delete",B.L7,"End",B.Ld,"Enter",B.L6,"Home",B.Le,"Insert",B.Li,"Meta",B.Ml,"PageDown",B.Lf,"PageUp",B.Lg,"Shift",B.Mm],A.ak("d2<h,J<t?>>"))
+B.Ml=A.b(s([8589934850,8589934850,8589934851,null]),t.Z)
+B.uY=new A.d2(["*",B.Lj,"+",B.Lk,"-",B.Ll,".",B.Lm,"/",B.Ln,"0",B.Lo,"1",B.Lp,"2",B.Ls,"3",B.Lu,"4",B.Lv,"5",B.Lw,"6",B.Lx,"7",B.Ly,"8",B.Lz,"9",B.LB,"Alt",B.Mi,"AltGraph",B.L8,"ArrowDown",B.L9,"ArrowLeft",B.La,"ArrowRight",B.Lb,"ArrowUp",B.Lc,"Clear",B.Lh,"Control",B.Mj,"Delete",B.L7,"End",B.Ld,"Enter",B.L6,"Home",B.Le,"Insert",B.Li,"Meta",B.Mk,"PageDown",B.Lf,"PageUp",B.Lg,"Shift",B.Ml],A.ak("d2<h,J<t?>>"))
 B.LA=A.b(s([B.p4,null,null,B.uL]),t.L)
-B.MP=A.b(s([B.ux,null,null,B.uM]),t.L)
-B.LW=A.b(s([B.uy,null,null,B.uN]),t.L)
-B.Mo=A.b(s([B.uz,null,null,B.d0]),t.L)
+B.MO=A.b(s([B.ux,null,null,B.uM]),t.L)
+B.LV=A.b(s([B.uy,null,null,B.uN]),t.L)
+B.Mn=A.b(s([B.uz,null,null,B.d0]),t.L)
 B.KZ=A.b(s([B.uA,null,null,B.uO]),t.L)
-B.N4=A.b(s([B.uB,null,null,B.kv]),t.L)
-B.MZ=A.b(s([B.uC,null,null,B.eX]),t.L)
+B.N3=A.b(s([B.uB,null,null,B.kv]),t.L)
+B.MY=A.b(s([B.uC,null,null,B.eX]),t.L)
 B.LH=A.b(s([B.uD,null,null,B.d1]),t.L)
 B.N9=A.b(s([B.uE,null,null,B.eY]),t.L)
-B.MW=A.b(s([B.uF,null,null,B.d2]),t.L)
+B.MV=A.b(s([B.uF,null,null,B.d2]),t.L)
 B.LE=A.b(s([B.uG,null,null,B.kw]),t.L)
 B.L5=A.b(s([B.uH,null,null,B.d3]),t.L)
 B.LS=A.b(s([B.uI,null,null,B.eZ]),t.L)
-B.MQ=A.b(s([B.uJ,null,null,B.d4]),t.L)
-B.MR=A.b(s([B.uK,null,null,B.f_]),t.L)
+B.MP=A.b(s([B.uJ,null,null,B.d4]),t.L)
+B.MQ=A.b(s([B.uK,null,null,B.f_]),t.L)
 B.LI=A.b(s([B.eV,B.eV,B.ht,null]),t.L)
-B.N5=A.b(s([B.hp,null,B.hp,null]),t.L)
-B.M0=A.b(s([B.bV,null,null,B.d1]),t.L)
-B.M1=A.b(s([B.bK,null,null,B.d2]),t.L)
-B.M2=A.b(s([B.bL,null,null,B.d3]),t.L)
+B.N4=A.b(s([B.hp,null,B.hp,null]),t.L)
+B.M_=A.b(s([B.bV,null,null,B.d1]),t.L)
+B.M0=A.b(s([B.bK,null,null,B.d2]),t.L)
+B.M1=A.b(s([B.bL,null,null,B.d3]),t.L)
 B.N7=A.b(s([B.bW,null,null,B.d4]),t.L)
-B.MU=A.b(s([B.ko,null,null,B.kw]),t.L)
+B.MT=A.b(s([B.ko,null,null,B.kw]),t.L)
 B.LJ=A.b(s([B.eU,B.eU,B.hs,null]),t.L)
-B.Ms=A.b(s([B.aR,null,null,B.d0]),t.L)
-B.M3=A.b(s([B.cY,null,null,B.eX]),t.L)
+B.Mr=A.b(s([B.aR,null,null,B.d0]),t.L)
+B.M2=A.b(s([B.cY,null,null,B.eX]),t.L)
 B.LD=A.b(s([B.ho,null,null,B.ku]),t.L)
-B.M4=A.b(s([B.cZ,null,null,B.eZ]),t.L)
-B.MV=A.b(s([B.kp,null,null,B.kv]),t.L)
+B.M3=A.b(s([B.cZ,null,null,B.eZ]),t.L)
+B.MU=A.b(s([B.kp,null,null,B.kv]),t.L)
 B.LK=A.b(s([B.eW,B.eW,B.hu,null]),t.L)
-B.M5=A.b(s([B.eS,null,null,B.eY]),t.L)
-B.My=A.b(s([B.eT,null,null,B.f_]),t.L)
+B.M4=A.b(s([B.eS,null,null,B.eY]),t.L)
+B.Mx=A.b(s([B.eT,null,null,B.f_]),t.L)
 B.LL=A.b(s([B.cz,B.cz,B.d_,null]),t.L)
-B.P0=new A.d2(["*",B.LA,"+",B.MP,"-",B.LW,".",B.Mo,"/",B.KZ,"0",B.N4,"1",B.MZ,"2",B.LH,"3",B.N9,"4",B.MW,"5",B.LE,"6",B.L5,"7",B.LS,"8",B.MQ,"9",B.MR,"Alt",B.LI,"AltGraph",B.N5,"ArrowDown",B.M0,"ArrowLeft",B.M1,"ArrowRight",B.M2,"ArrowUp",B.N7,"Clear",B.MU,"Control",B.LJ,"Delete",B.Ms,"End",B.M3,"Enter",B.LD,"Home",B.M4,"Insert",B.MV,"Meta",B.LK,"PageDown",B.M5,"PageUp",B.My,"Shift",B.LL],A.ak("d2<h,J<f?>>"))
+B.P0=new A.d2(["*",B.LA,"+",B.MO,"-",B.LV,".",B.Mn,"/",B.KZ,"0",B.N3,"1",B.MY,"2",B.LH,"3",B.N9,"4",B.MV,"5",B.LE,"6",B.L5,"7",B.LS,"8",B.MP,"9",B.MQ,"Alt",B.LI,"AltGraph",B.N4,"ArrowDown",B.M_,"ArrowLeft",B.M0,"ArrowRight",B.M1,"ArrowUp",B.N7,"Clear",B.MT,"Control",B.LJ,"Delete",B.Mr,"End",B.M2,"Enter",B.LD,"Home",B.M3,"Insert",B.MU,"Meta",B.LK,"PageDown",B.M4,"PageUp",B.Mx,"Shift",B.LL],A.ak("d2<h,J<f?>>"))
 B.PE={multiply:0,screen:1,overlay:2,darken:3,lighten:4,"color-dodge":5,"color-burn":6,"hard-light":7,"soft-light":8,difference:9,exclusion:10,hue:11,saturation:12,color:13,luminosity:14}
 B.BP=new A.el(24,"multiply")
 B.Bu=new A.el(14,"screen")
@@ -96545,8 +96545,8 @@ B.Qz=new A.NV(0,"portrait")
 B.QA=new A.NV(1,"landscape")
 B.QB=new A.BL(null)
 B.ii=new A.n(!0,null,null,null,null,null,24,B.bS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a2_=new A.a7("Warum teilnehmen?",null,B.ii,null,null,null,null,null,null,null)
-B.QD=new A.o(B.Q,B.a2_,null)
+B.a20=new A.a7("Warum teilnehmen?",null,B.ii,null,null,null,null,null,null,null)
+B.QC=new A.o(B.Q,B.a20,null)
 B.aJ=new A.n(!0,null,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a0P=new A.a7("Wir arbeiten an den essentiellen Grundlagen f\xfcr einen zuverl\xe4ssigen R\xfcckruf und \xfcben eine entspannte Leinenf\xfchrung in alltagsnahen Situationen. Dabei lernst du, die K\xf6rpersprache deines Hundes besser zu verstehen und baust eine vertrauensvolle Beziehung auf. Das Training in der Gruppe bietet dir ideale \xdcbungsbedingungen: Dein Hund lernt, sich trotz Ablenkung auf dich zu konzentrieren. Dieser Kurs legt wichtige Grundsteine f\xfcr die weitere Entwicklung eures Teams.",null,B.aJ,null,null,null,null,null,null,null)
 B.QE=new A.o(B.Q,B.a0P,null)
@@ -96591,8 +96591,8 @@ B.IZ=new A.ag(32,8,0,0)
 B.WT=new A.n(!0,B.aW,null,"PlayfairDisplay",null,null,28,B.ay,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a0U=new A.a7("Gemeinsam mit Spa\xdf zum Erfolg",null,B.WT,null,null,null,null,null,null,null)
 B.R5=new A.o(B.IZ,B.a0U,null)
-B.a1X=new A.a7("30.11., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
-B.R6=new A.o(B.Q,B.a1X,null)
+B.a1Y=new A.a7("30.11., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
+B.R6=new A.o(B.Q,B.a1Y,null)
 B.a0p=new A.a7("Hier hilft ein Blick von au\xdfen! Ich unterst\xfctze und berate dich gerne, um gemeinsam den idealen Hund zu finden. Deine W\xfcnsche und Lebensumst\xe4nde sind dabei ausschlaggebend f\xfcr die Wahl des passenden Vierbeiners. Mit Bauchgef\xfchl und fundiertem Praxiswissen machen wir uns zusammen auf die spannende Suche nach dem perfekten Match.",null,B.aJ,null,null,null,null,null,null,null)
 B.R7=new A.o(B.Q,B.a0p,null)
 B.a0s=new A.a7("27.04.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
@@ -96632,20 +96632,20 @@ B.KW=new A.AY(B.oy,20,B.aW,null,null)
 B.R9=new A.o(B.h0,B.KW,null)
 B.a4=new A.n(!0,B.aW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a0e=new A.a7("+49 176 22 89 23 26",null,B.a4,null,null,null,null,null,null,null)
-B.MX=A.b(s([B.R9,B.a0e]),t.p)
-B.T5=new A.dx(B.H,B.f0,B.o,B.w,null,B.U,null,0,B.MX,null)
+B.MW=A.b(s([B.R9,B.a0e]),t.p)
+B.T5=new A.dx(B.H,B.f0,B.o,B.w,null,B.U,null,0,B.MW,null)
 B.KV=new A.AY(B.ow,20,B.aW,null,null)
 B.QT=new A.o(B.h0,B.KV,null)
 B.a1D=new A.a7("lea@hey-hund.de",null,B.a4,null,null,null,null,null,null,null)
 B.Rn=new A.o(B.h0,B.a1D,null)
-B.Mt=A.b(s([B.QT,B.Rn]),t.p)
-B.T9=new A.dx(B.H,B.f0,B.o,B.w,null,B.U,null,0,B.Mt,null)
+B.Ms=A.b(s([B.QT,B.Rn]),t.p)
+B.T9=new A.dx(B.H,B.f0,B.o,B.w,null,B.U,null,0,B.Ms,null)
 B.Ks=new A.AB(B.T9,A.aXu(),null,null,null,null,null,null,null,null,null,null,null,null,!0,B.aM,null,null,null,null,null,null,null,null,null,!0,!1,null,!1,null,!0,null,null,null)
-B.MY=A.b(s([B.a0A,B.T5,B.Ks]),t.p)
-B.Hm=new A.ub(B.ab,B.n,B.o,B.w,null,B.U,null,0,B.MY,null)
+B.MX=A.b(s([B.a0A,B.T5,B.Ks]),t.p)
+B.Hm=new A.ub(B.ab,B.n,B.o,B.w,null,B.U,null,0,B.MX,null)
 B.Rq=new A.o(B.e,B.Hm,null)
-B.a1W=new A.a7("Auch wenn dies keine vollst\xe4ndige Alternative zum pers\xf6nlichen Training ist, kann es vor\xfcbergehend Ruhe und Klarheit bringen. Z\xf6gere nicht, mich zu kontaktieren \u2013 ich bin hier, um Euch zu unterst\xfctzen.",null,B.aJ,null,null,null,null,null,null,null)
-B.Rr=new A.o(B.Q,B.a1W,null)
+B.a1X=new A.a7("Auch wenn dies keine vollst\xe4ndige Alternative zum pers\xf6nlichen Training ist, kann es vor\xfcbergehend Ruhe und Klarheit bringen. Z\xf6gere nicht, mich zu kontaktieren \u2013 ich bin hier, um Euch zu unterst\xfctzen.",null,B.aJ,null,null,null,null,null,null,null)
+B.Rr=new A.o(B.Q,B.a1X,null)
 B.a0E=new A.a7("30.03.2025, 12:00 - 13:00",null,B.aT,null,null,null,null,null,null,null)
 B.Rt=new A.o(B.Q,B.a0E,null)
 B.a0i=new A.a7("23.11., 10:00 - 10:45",null,B.aT,null,null,null,null,null,null,null)
@@ -96759,79 +96759,79 @@ B.QF=new A.o(B.c9,B.K2,null)
 B.a_M=new A.n(!0,B.m,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a0J=new A.a7("0176 22 89 26 23",null,B.a_M,null,null,null,null,null,null,null)
 B.R8=new A.o(B.e,B.a0J,null)
-B.LZ=A.b(s([B.QF,B.R8]),t.p)
-B.SU=new A.dx(B.H,B.f0,B.o,B.w,null,B.U,null,0,B.LZ,null)
+B.LY=A.b(s([B.QF,B.R8]),t.p)
+B.SU=new A.dx(B.H,B.f0,B.o,B.w,null,B.U,null,0,B.LY,null)
 B.aK=new A.n(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a17=new A.a7("unterschiedliche Orte in der Natur",null,B.aK,null,null,null,null,null,null,null)
 B.R1=new A.o(B.e,B.a17,null)
 B.LR=A.b(s([B.d8,B.R1]),t.p)
 B.SV=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.LR,null)
-B.DZ=new A.pw(60643,"Clarity","icons_plus",!1)
-B.K_=new A.e8(B.DZ,40,null,null,null)
-B.d9=new A.o(B.e,B.K_,null)
-B.a20=new A.a7("69 \u20ac je Stunde",null,B.aK,null,null,null,null,null,null,null)
-B.QC=new A.o(B.e,B.a20,null)
-B.LV=A.b(s([B.d9,B.QC]),t.p)
-B.SW=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.LV,null)
 B.a1i=new A.a7("Von Hausbesuch bis Wiese",null,B.aK,null,null,null,null,null,null,null)
 B.QO=new A.o(B.e,B.a1i,null)
-B.MT=A.b(s([B.d8,B.QO]),t.p)
-B.SX=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.MT,null)
+B.MS=A.b(s([B.d8,B.QO]),t.p)
+B.SW=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.MS,null)
 B.a1c=new A.a7("Telefonisch",null,B.aK,null,null,null,null,null,null,null)
 B.Rw=new A.o(B.e,B.a1c,null)
 B.L2=A.b(s([B.d8,B.Rw]),t.p)
-B.SY=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.L2,null)
+B.SX=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.L2,null)
 B.DV=new A.pw(59864,"Clarity","icons_plus",!1)
 B.JZ=new A.e8(B.DV,40,null,null,null)
 B.f4=new A.o(B.e,B.JZ,null)
 B.a1b=new A.a7("3 Termine je 1h",null,B.aK,null,null,null,null,null,null,null)
 B.R3=new A.o(B.e,B.a1b,null)
-B.Mb=A.b(s([B.f4,B.R3]),t.p)
-B.SZ=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Mb,null)
+B.Ma=A.b(s([B.f4,B.R3]),t.p)
+B.SY=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Ma,null)
+B.DZ=new A.pw(60643,"Clarity","icons_plus",!1)
+B.K_=new A.e8(B.DZ,40,null,null,null)
+B.d9=new A.o(B.e,B.K_,null)
 B.a1H=new A.a7("69\u20ac je Stunde",null,B.aK,null,null,null,null,null,null,null)
 B.Rl=new A.o(B.e,B.a1H,null)
-B.Mi=A.b(s([B.d9,B.Rl]),t.p)
-B.T_=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Mi,null)
+B.Mh=A.b(s([B.d9,B.Rl]),t.p)
+B.SZ=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Mh,null)
 B.a0V=new A.a7("insgesamt 20\u20ac pro Hund",null,B.aK,null,null,null,null,null,null,null)
 B.QS=new A.o(B.e,B.a0V,null)
 B.Nb=A.b(s([B.d9,B.QS]),t.p)
-B.T0=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Nb,null)
-B.a1Y=new A.a7("30\u20ac je 30 Minuten",null,B.aK,null,null,null,null,null,null,null)
-B.R0=new A.o(B.e,B.a1Y,null)
-B.N1=A.b(s([B.d9,B.R0]),t.p)
-B.T1=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.N1,null)
+B.T_=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Nb,null)
+B.a1Z=new A.a7("30\u20ac je 30 Minuten",null,B.aK,null,null,null,null,null,null,null)
+B.R0=new A.o(B.e,B.a1Z,null)
+B.N0=A.b(s([B.d9,B.R0]),t.p)
+B.T0=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.N0,null)
 B.a0d=new A.a7("20\u20ac je Stunde und Hund",null,B.aK,null,null,null,null,null,null,null)
 B.QH=new A.o(B.e,B.a0d,null)
-B.Md=A.b(s([B.d9,B.QH]),t.p)
-B.T2=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Md,null)
+B.Mc=A.b(s([B.d9,B.QH]),t.p)
+B.T1=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Mc,null)
 B.a1v=new A.a7("insgesamt 160\u20ac pro Hund",null,B.aK,null,null,null,null,null,null,null)
 B.QZ=new A.o(B.e,B.a1v,null)
 B.LU=A.b(s([B.d9,B.QZ]),t.p)
-B.T3=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.LU,null)
+B.T2=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.LU,null)
 B.a1o=new A.a7("nach Absprache",null,B.aK,null,null,null,null,null,null,null)
 B.Ru=new A.o(B.e,B.a1o,null)
-B.Mh=A.b(s([B.d8,B.Ru]),t.p)
-B.T4=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Mh,null)
-B.a1V=new A.a7("90min",null,B.aK,null,null,null,null,null,null,null)
-B.QU=new A.o(B.e,B.a1V,null)
+B.Mg=A.b(s([B.d8,B.Ru]),t.p)
+B.T3=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Mg,null)
+B.a1R=new A.a7("75 \u20ac je Stunde",null,B.aK,null,null,null,null,null,null,null)
+B.QD=new A.o(B.e,B.a1R,null)
+B.N5=A.b(s([B.d9,B.QD]),t.p)
+B.T4=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.N5,null)
+B.a1W=new A.a7("90min",null,B.aK,null,null,null,null,null,null,null)
+B.QU=new A.o(B.e,B.a1W,null)
 B.Lr=A.b(s([B.f4,B.QU]),t.p)
 B.T6=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Lr,null)
 B.a1P=new A.a7("Individuell nach Absprache",null,B.aK,null,null,null,null,null,null,null)
 B.QV=new A.o(B.e,B.a1P,null)
-B.Ma=A.b(s([B.f4,B.QV]),t.p)
-B.kS=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.Ma,null)
+B.M9=A.b(s([B.f4,B.QV]),t.p)
+B.kS=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.M9,null)
 B.a0S=new A.a7("8 Termine je 45min",null,B.aK,null,null,null,null,null,null,null)
 B.Rb=new A.o(B.e,B.a0S,null)
-B.N0=A.b(s([B.f4,B.Rb]),t.p)
-B.T7=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.N0,null)
+B.N_=A.b(s([B.f4,B.Rb]),t.p)
+B.T7=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.N_,null)
 B.a1u=new A.a7("1h",null,B.aK,null,null,null,null,null,null,null)
 B.QG=new A.o(B.e,B.a1u,null)
 B.LP=A.b(s([B.f4,B.QG]),t.p)
 B.T8=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.LP,null)
 B.a1q=new A.a7("insgesamt 54\u20ac pro Hund",null,B.aK,null,null,null,null,null,null,null)
 B.Rs=new A.o(B.e,B.a1q,null)
-B.M_=A.b(s([B.d9,B.Rs]),t.p)
-B.Ta=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.M_,null)
+B.LZ=A.b(s([B.d9,B.Rs]),t.p)
+B.Ta=new A.dx(B.H,B.n,B.o,B.w,null,B.U,null,0,B.LZ,null)
 B.Tb=new A.Pv(null,null)
 B.dd=new A.rh(0,"idle")
 B.yZ=new A.rh(1,"transientCallbacks")
@@ -97056,9 +97056,9 @@ B.V9=new A.I(77.37,37.9)
 B.aI=new A.hj(0,0,null,null)
 B.Vb=new A.hj(20,null,null,null)
 B.a0n=new A.a7("This website uses cookies. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you\u2019ve provided to them or that they\u2019ve collected from your use of their services. ",null,B.a4,null,null,null,null,null,null,null)
-B.a1U=new A.a7("Cookies are small text files that can be used by websites to make a user's experience more efficient.",null,B.a4,null,null,null,null,null,null,null)
+B.a1V=new A.a7("Cookies are small text files that can be used by websites to make a user's experience more efficient.",null,B.a4,null,null,null,null,null,null,null)
 B.a0L=new A.a7("The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.",null,B.a4,null,null,null,null,null,null,null)
-B.a1T=new A.a7("This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.",null,B.a4,null,null,null,null,null,null,null)
+B.a1U=new A.a7("This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.",null,B.a4,null,null,null,null,null,null,null)
 B.a0O=new A.a7("You can at any time change or withdraw your consent from the Cookie Declaration on our website.",null,B.a4,null,null,null,null,null,null,null)
 B.a1n=new A.a7("Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.",null,B.a4,null,null,null,null,null,null,null)
 B.a0v=new A.a7("Please state your consent ID and date when you contact us regarding your consent.",null,B.a4,null,null,null,null,null,null,null)
@@ -97066,8 +97066,8 @@ B.a16=new A.a7("Cookie declaration last updated on 22.10.2023 by ",null,B.a4,nul
 B.a0h=new A.a7("Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.",null,B.a4,null,null,null,null,null,null,null)
 B.a1a=new A.a7("Name: CookieConsent, Provider: gollnickdata.de, Purpose: Stores the user's cookie consent state for the current domain, Expiry: 1year, Type: HTTP Cookie",null,B.a4,null,null,null,null,null,null,null)
 B.Ve=new A.hj(null,10,null,null)
-B.M7=A.b(s([B.a0n,B.a1U,B.a0L,B.a1T,B.a0O,B.a1n,B.a0v,B.a16,B.a0h,B.a1a,B.Ve]),t.p)
-B.Hl=new A.ub(B.ab,B.n,B.o,B.J,null,B.U,null,0,B.M7,null)
+B.M6=A.b(s([B.a0n,B.a1V,B.a0L,B.a1U,B.a0O,B.a1n,B.a0v,B.a16,B.a0h,B.a1a,B.Ve]),t.p)
+B.Hl=new A.ub(B.ab,B.n,B.o,B.J,null,B.U,null,0,B.M6,null)
 B.V1=new A.Dk(null,B.Hl,null)
 B.Vd=new A.hj(350,600,B.V1,null)
 B.aB=new A.hj(null,16,null,null)
@@ -97200,16 +97200,16 @@ B.ih=new A.n(!0,B.l,null,null,null,null,24,null,null,null,null,null,null,null,nu
 B.WH=new A.ec(null,B.Nc,B.av,B.ih)
 B.WJ=new A.ec("\u2022 Sozialisierung: ",null,B.av,B.dg)
 B.WO=new A.ec("Dein Hund lernt neue Umgebungen und Situationen kennen.",null,B.av,null)
-B.Mw=A.b(s([B.WJ,B.WO]),t.VO)
-B.WI=new A.ec(null,B.Mw,B.av,B.ih)
+B.Mv=A.b(s([B.WJ,B.WO]),t.VO)
+B.WI=new A.ec(null,B.Mv,B.av,B.ih)
 B.WQ=new A.ec("\u2022 Praxisnahes Lernen: ",null,B.av,B.dg)
 B.WP=new A.ec("Theorie direkt im Alltag anwenden",null,B.av,null)
-B.N2=A.b(s([B.WQ,B.WP]),t.VO)
-B.WK=new A.ec(null,B.N2,B.av,B.ih)
+B.N1=A.b(s([B.WQ,B.WP]),t.VO)
+B.WK=new A.ec(null,B.N1,B.av,B.ih)
 B.WL=new A.ec("\u2022 Gemeinschaft: ",null,B.av,B.dg)
 B.WG=new A.ec("Tausche dich mit anderen Hundehaltern aus.",null,B.av,null)
-B.LX=A.b(s([B.WL,B.WG]),t.VO)
-B.WM=new A.ec(null,B.LX,B.av,B.ih)
+B.LW=A.b(s([B.WL,B.WG]),t.VO)
+B.WM=new A.ec(null,B.LW,B.av,B.ih)
 B.i=new A.mj(0)
 B.Xr=new A.n(!1,B.jo,null,"CupertinoSystemText",null,null,17,null,null,-0.41,null,null,null,null,null,null,null,B.i,null,null,null,null,null,null,null,null)
 B.Xv=new A.n(!0,B.aW,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -97532,9 +97532,9 @@ B.a1J=new A.a7("Willkommen bei meinen Social Walks. An verschiedenen Orten erkun
 B.a1O=new A.a7("Lea Massari",null,B.a4,null,null,null,null,null,null,null)
 B.a1Q=new A.a7("Spielend Lernen",null,null,null,null,null,null,null,null,null)
 B.Z9=new A.n(!0,B.l,null,"Lora",null,null,24,B.bS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a1R=new A.a7("Gut zu wissen",null,B.Z9,null,null,null,null,null,null,null)
-B.a1S=new A.a7("Angaben gem\xe4\xdf \xa7 5 TMG",null,B.a4,null,null,null,null,null,null,null)
-B.a1Z=new A.a7("Redderblock 28",null,B.a4,null,null,null,null,null,null,null)
+B.a1S=new A.a7("Gut zu wissen",null,B.Z9,null,null,null,null,null,null,null)
+B.a1T=new A.a7("Angaben gem\xe4\xdf \xa7 5 TMG",null,B.a4,null,null,null,null,null,null,null)
+B.a2_=new A.a7("Redderblock 28",null,B.a4,null,null,null,null,null,null,null)
 B.a5s=new A.al0(0,"system")
 B.Qb=new A.j(0.056,0.024)
 B.Qr=new A.j(0.108,0.3085)
@@ -98022,7 +98022,7 @@ r($,"aVf","aKF",()=>A.aUG())
 r($,"b2y","aL7",()=>A.eU().gVk()+"roboto/v32/KFOmCnqEu92Fr1Me4GZLCzYlKw.woff2")
 r($,"b1U","aKD",()=>A.aUr(A.xU(A.xU(A.l4(),"window"),"FinalizationRegistry"),A.iV(new A.avQ())))
 r($,"b3o","aLF",()=>new A.adW())
-s($,"b2_","aKH",()=>A.aPD(B.M8))
+s($,"b2_","aKH",()=>A.aPD(B.M7))
 s($,"b1Z","axP",()=>A.aah(A.aMP($.aKH())))
 s($,"b1J","aKx",()=>A.aEU(A.D(A.ao(),"ParagraphBuilder")))
 s($,"b3w","aLJ",()=>{var q=t.N,p=A.ak("+breaks,graphemes,words(ww,ww,ww)"),o=A.az_(1e5,q,p),n=A.az_(1e4,q,p)
